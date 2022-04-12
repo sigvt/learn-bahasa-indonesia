@@ -1,0 +1,13 @@
+{
+  "name": "learn-bahaha-indonesia",
+  "version": "0.0.0",
+  "author": "uetchy <y@uechi.io> (https://uechi.io/)",
+  "scripts": {
+    "build": "node src/main.js"
+  },
+  "main": "src/main.js",
+  "dependencies": {
+    "vtt-to-text": "^1.0.1"
+  },
+  "license": "Apache-2.0"
+}
