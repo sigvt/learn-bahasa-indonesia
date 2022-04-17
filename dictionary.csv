@@ -23,7 +23,7 @@ kalau,If,624
 iya,"Aye, yeah",576
 aja,"Also, besides, as well, too, only, just, always, as you like, very, extremely",560
 kalian,You all,549
-gitu,So,488
+gitu,"I see, like that, So",488
 gimana,How,470
 tuh,"It, that, those (informal)",458
 jadi,"So, therefore, be, become, work as",449
@@ -177,19 +177,19 @@ doang,,63
 malam,"Evening, night",63
 bingung,"Bewildered, confused, panicky",63
 wah,"Well!, now!",62
-betul,"Correct, right, true, really, very",62
-tinggal,"Live, stay, remain, be left",62
+betul,"Correct; right; true; really, very",62
+tinggal,"Live; stay; remain, be left",62
 namanya,Her/his name,62
 tunggu,Wait,60
-hiu,,60
-cerita,,60
-hilang,,60
-waktu,,59
-usah,,59
-balik,,59
+hiu,"shark",60
+cerita,"story; narrative",60
+hilang,"be lost; vanished",60
+waktu,"time",59
+usah,"not necessary; there's no need to",59
+balik,"return",59
 susah,,59
 tenang,,59
-kami,,59
+kami,"we; us",59
 baik,,58
 sebenarnya,,58
 mbak,,58
@@ -201,7 +201,7 @@ harusnya,,58
 teori,,58
 mulai,,57
 kurang,,56
-suara,,56
+suara,"voice",56
 teh,,55
 keren,,55
 katanya,,55
@@ -211,13 +211,13 @@ nonton,,54
 rumah,,54
 bawah,,54
 serem,,54
-jalan,,54
+jalan,"path; road, way; manner, go for a stroll",54
 batu,,53
 pokoknya,,53
 mah,,53
 masuk,,52
 lanjut,,52
-adalah,,51
+adalah,"am, is, are",51
 oleh,,51
 beneran,,51
 anjing,,51
@@ -225,12 +225,12 @@ tempat,,51
 donasinya,,51
 selesai,,50
 kah,,50
-sangat,,50
+sangat,"very; extremely",50
 kemana,,50
 semoga,,49
 astaga,,49
 nene,,49
-perlu,,48
+perlu,"necessary",48
 keluar,,48
 penting,,48
 bakal,,48
@@ -240,9 +240,9 @@ udahlah,,48
 bisa-bisa,,48
 bener,,47
 cepat,,47
-kemarin,,46
+kemarin,"yesterday",46
 ia,,46
-laut,,46
+laut,"sea",46
 caranya,,46
 sana,,46
 berarti,,46
@@ -1533,21 +1533,16 @@ omen,,6
 berputar,,6
 marsya,,6
 penyembuhan,,6
-mission,,5
 vesti,,5
 tebak,,5
 tembakau,,5
 ambilnya,,5
-ever,,5
 ee,,5
 cuit,,5
 gambarnya,,5
 ular,,5
-hell,,5
 menangis,,5
 memberi,,5
-email,,5
-books,,5
 khan,,5
 mengaku,,5
 dipanggil,,5
@@ -1584,10 +1579,8 @@ survei,,5
 michael,,5
 saran,,5
 tu,,5
-porno,,5
 temanimu,,5
 kemungkinan,,5
-band,,5
 belakangan,,5
 teriakan,,5
 meskipun,,5
@@ -1605,8 +1598,6 @@ nyonya,,5
 konon,,5
 end,,5
 wuih,,5
-open,,5
-tab,,5
 bayangin,,5
 musim,,5
 bego,,5
@@ -1620,7 +1611,6 @@ wedding,,5
 bobrok,,5
 dik,,5
 kapten,,5
-judge,,5
 yee,,5
 jasmine,,5
 cerai,,5
@@ -1645,11 +1635,9 @@ peta,,5
 seorangnya,,5
 doni,,5
 kupu,,5
-too,,5
 sas,,5
 david,,5
 nyaris,,5
-dream,,5
 sule,,5
 aturan,,5
 jakarta,,5
@@ -1658,21 +1646,16 @@ gitarnya,,5
 tetet,,5
 lem,,5
 hafal,,5
-tttttttt,,5
 ketua,,5
-bank,,5
 bunda,,5
 panggil,,5
 kubilang,,5
 cacat,,5
 naiknya,,5
-joke,,5
 dede,,5
 ribet,,5
-got,,5
 webnya,,5
 pesannya,,5
-heaven,,5
 truk,,5
 reaksi,,5
 menghilangkan,,5
@@ -1680,20 +1663,14 @@ depannya,,5
 doain,,5
 akui,,5
 ae,,5
-eating,,5
 nana,,5
 iman,,5
-click,,5
-looking,,5
 tas,,5
 ehe,,5
 hpnya,,5
 bentuk,,5
-name,,5
 yakni,,5
-happen,,5
 kebuka,,5
-made,,5
 logika,,5
 tekan,,5
 sekian,,5
@@ -1708,7 +1685,6 @@ saat-saat,,5
 nur,,5
 bapakku,,5
 otw,,5
-years,,5
 izin,,5
 kanada,,5
 tengkyu,,5
@@ -1719,7 +1695,6 @@ deng,,5
 terlihat,,5
 jengkol,,5
 rapat,,5
-start,,5
 terbuka,,5
 antar,,5
 kepalanya,,5
@@ -1738,7 +1713,6 @@ kebetulan,,5
 harimau,,5
 masukkin,,5
 baduy,,5
-mood,,5
 wis,,5
 nengok,,5
 natal,,5
@@ -1751,7 +1725,6 @@ mati-mati,,5
 taichan,,5
 umum,,5
 gerak,,5
-rating,,5
 adakah,,5
 disana,,5
 ngecek,,5
@@ -1762,11 +1735,9 @@ ganda,,5
 dongeng,,5
 ngaruh,,5
 baiklah,,5
-button,,5
 bae,,5
 lebay,,5
 darah,,5
-than,,5
 wajib,,5
 fish,,5
 dokumen,,5
@@ -1776,11 +1747,8 @@ surya,,5
 datangkan,,5
 kesehatan,,5
 wc,,5
-slow,,5
 bengkel,,5
 mayat,,5
-battle,,5
-agent,,5
 curang,,5
 maafkan,,5
 gedean,,5
@@ -1789,11 +1757,8 @@ ngumpulin,,5
 karo,,5
 jamur,,5
 serta,,5
-disney,,5
 kefir,,5
 milih,,5
-heels,,5
-trading,,5
 murni,,5
 elo,,5
 ucap,,5
@@ -1814,8 +1779,6 @@ nyebur,,5
 tusuk,,5
 makan-makan,,5
 boleh-boleh,,5
-pot,,5
-playstore,,5
 amat,,5
 membutuhkan,,5
 koh,,5
@@ -1837,8 +1800,6 @@ fresh,,5
 ngajar,,5
 tujuan,,5
 begitulah,,5
-haven't,,5
-carry,,5
 salju,,5
 ngapa-ngapa,,5
 nembak,,5
@@ -1849,17 +1810,11 @@ rina,,5
 rifai,,5
 gugup,,5
 bokongmu,,5
-"tidak, ",,5
 memuat,,5
 pelet,,4
-indonesian,,4
-frozen,,4
-can't,,4
 ding,,4
-gold,,4
 nagih,,4
 bun,,4
-office,,4
 ma,,4
 daftar,,4
 ski,,4
@@ -1895,18 +1850,13 @@ yunus,,4
 ampuh,,4
 kodok,,4
 nyamuk,,4
-eleven,,4
 tubuh,,4
 telinga,,4
-install,,4
-handphone,,4
 seandainya,,4
 lapor,,4
-sleeping,,4
 ina,,4
 wae,,4
 streamingnya,,4
-many,,4
 kwon,,4
 cukai,,4
 eniwei,,4
@@ -1914,25 +1864,19 @@ sehari,,4
 tiket,,4
 yeye,,4
 ketut,,4
-schedule,,4
 celana,,4
 kang,,4
-search,,4
-chicken,,4
 otak,,4
 bali,,4
 riau,,4
-facebook,,4
 ditekan,,4
 teknologi,,4
 bijian,,4
 suaraku,,4
 tipu-tipu,,4
 enakan,,4
-nikita,,4
 pala,,4
 badan,,4
-yahoo,,4
 dikit-dikit,,4
 ombak,,4
 dedes,,4
@@ -1959,12 +1903,7 @@ jemuran,,4
 obatnya,,4
 dikira,,4
 basket,,4
-playing,,4
 iyan,,4
-icon,,4
-reading,,4
-word,,4
-bridge,,4
 tidaknya,,4
 yao,,4
 agak-agak,,4
