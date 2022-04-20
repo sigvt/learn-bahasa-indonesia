@@ -2,7 +2,7 @@
 
 ## Vocabulary Builder
 
-- **[dictionary.csv](./dictionary.csv)**: Handcrafted Indonesian-English dictionary (WIP)
+- **[dictionary.json](./dictionary.json)**: Handcrafted Indonesian-English dictionary (WIP)
 - **[vocab.csv](./vocab.csv)**: Most frequent Indonesian words appeared on HoloID streams
 - **[bigram.csv](./bigram.csv)**: Two-word collocation corpus generated from YouTube subtitles
 

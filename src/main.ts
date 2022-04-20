@@ -1,9 +1,10 @@
+import csv from "async-csv";
+import merge from "deepmerge";
 import fs from "fs";
 import { Masterchat, stringify } from "masterchat";
 import path from "path";
 import { stopwords } from "./stopwords";
 import { WordNet } from "./wordnet";
-import merge from "deepmerge";
 
 interface Entry {
   meaning?: string;
@@ -103,6 +104,8 @@ function generateVocab(corpus: string[]) {
 }
 
 async function main() {
+  fs.mkdirSync(CACHE_DIR, { recursive: true });
+
   const liveStreamIds = fs
     .readFileSync("./liveStreamIds.txt", "utf-8")
     .split("\n")
@@ -135,6 +138,7 @@ async function main() {
   const oldDict = JSON.parse(
     fs.readFileSync("./dictionary.json", "utf-8")
   ) as Record<string, Entry>;
+
   const dict = merge(oldDict, dictFromVocab) as Record<string, Entry>;
 
   for (const i in dict) {
@@ -148,6 +152,13 @@ async function main() {
   console.log(Object.entries(sortedDict).slice(0, 100));
 
   fs.writeFileSync("./dictionary.json", JSON.stringify(sortedDict, null, 2));
+  fs.writeFileSync(
+    "./dictionary.csv",
+    await csv.stringify(
+      Object.entries(dict).map((e) => [e[0], e[1].meaning, e[1].frequency]),
+      { columns: ["Word", "Meaning", "Frequency"], header: true }
+    )
+  );
 }
 
 main();
