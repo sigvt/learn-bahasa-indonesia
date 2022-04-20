@@ -1,4 +1,4 @@
-exports.words = [
+export const stopwords = [
   "[musik]",
   "100%",
   "aa",
