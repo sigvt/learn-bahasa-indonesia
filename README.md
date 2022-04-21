@@ -27,8 +27,8 @@
 ## Dictionary Explanation
 * **Idiolect** : A sound that is created by speech habits from particular area and usually has no meaning.  
 * **TYPO** : The word is a typo or need further inspection on the context.
-* **TYPX** : The word have a meaning but it's hard to describe it in english
-* **Affix** : An additional element placed at the beginning or end of a word, or in the body of a word, to modify its meaning.
+* **TYPX** : The word have a meaning but it's hard to describe it in english.
+* **Affix** : An additional element placed usually at the beginning or end of a word to modify its meaning.
 * **Prefix** : A word part added to the beginning of a word
 * **Suffix** : A word part added to the end of a word.
 
