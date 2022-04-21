@@ -2008,7 +2008,7 @@
     "frequency": 25
   },
   "kirain": {
-    "meaning": "Kirain",
+    "meaning": "Thought",
     "frequency": 25
   },
   "tangan": {
@@ -2052,7 +2052,7 @@
     "frequency": 24
   },
   "emangnya": {
-    "meaning": "Weve",
+    "meaning": "TYPX",
     "frequency": 24
   },
   "gelap": {
@@ -2108,7 +2108,7 @@
     "frequency": 23
   },
   "mas": {
-    "meaning": "Mas.",
+    "meaning": "Title for man in their 20's to 40's",
     "frequency": 23
   },
   "tet": {
@@ -2152,7 +2152,7 @@
     "frequency": 22
   },
   "mainin": {
-    "meaning": "Main",
+    "meaning": "Play it",
     "frequency": 22
   },
   "dengerin": {
@@ -2188,7 +2188,7 @@
     "frequency": 22
   },
   "ta": {
-    "meaning": "Ta",
+    "meaning": "TYPO",
     "frequency": 22
   },
   "kunci": {
@@ -2212,7 +2212,7 @@
     "frequency": "21"
   },
   "nyari": {
-    "meaning": "Nyari",
+    "meaning": "Looking for",
     "frequency": 21
   },
   "lantai": {
@@ -2220,11 +2220,11 @@
     "frequency": 21
   },
   "acara": {
-    "meaning": "program",
+    "meaning": "program, event",
     "frequency": 21
   },
   "itunya": {
-    "meaning": "It's fun",
+    "meaning": "That thing",
     "frequency": 21
   },
   "jawab": {
@@ -2232,7 +2232,7 @@
     "frequency": 21
   },
   "atuh": {
-    "meaning": "Onuh",
+    "meaning": "Idiolect, Ouch",
     "frequency": 21
   },
   "bener-bener": {
@@ -2240,11 +2240,11 @@
     "frequency": 21
   },
   "er": {
-    "meaning": "Er.",
+    "meaning": "Er",
     "frequency": 21
   },
   "kejadian": {
-    "meaning": "incident",
+    "meaning": "incident, event",
     "frequency": 21
   },
   "ketik": {
@@ -2260,7 +2260,7 @@
     "frequency": 21
   },
   "kesana": {
-    "meaning": "There",
+    "meaning": "Going there",
     "frequency": 21
   },
   "teknik": {
@@ -2276,7 +2276,7 @@
     "frequency": 21
   },
   "manusia": {
-    "meaning": "man",
+    "meaning": "human",
     "frequency": 21
   },
   "yakin": {
@@ -2300,7 +2300,7 @@
     "frequency": 21
   },
   "wes": {
-    "meaning": "Wes.",
+    "meaning": "Done (Javanese)",
     "frequency": 21
   },
   "kira": {
@@ -2328,7 +2328,7 @@
     "frequency": 20
   },
   "pancingan": {
-    "meaning": "inducement",
+    "meaning": "inducement, fishing rod",
     "frequency": 20
   },
   "nyata": {
@@ -2352,11 +2352,11 @@
     "frequency": 20
   },
   "nyampe": {
-    "meaning": "Nyampe",
+    "meaning": "Arrived",
     "frequency": 20
   },
   "keh": {
-    "meaning": "Hany.",
+    "meaning": "TYPO, Ok",
     "frequency": 20
   },
   "kalo": {
@@ -2376,7 +2376,7 @@
     "frequency": 20
   },
   "bocah": {
-    "meaning": "Boy",
+    "meaning": "Boy, little girl",
     "frequency": 20
   },
   "gini-gini": {
@@ -2388,7 +2388,7 @@
     "frequency": 20
   },
   "chan": {
-    "meaning": "Chan.",
+    "meaning": "Chan",
     "frequency": 20
   },
   "mimpi": {
@@ -2432,7 +2432,7 @@
     "frequency": 19
   },
   "goblok": {
-    "meaning": "Goblok",
+    "meaning": "Stupid",
     "frequency": 19
   },
   "barangnya": {
@@ -2464,7 +2464,7 @@
     "frequency": 19
   },
   "deket": {
-    "meaning": "Deket",
+    "meaning": "Near",
     "frequency": 19
   },
   "metode": {
@@ -2564,11 +2564,11 @@
     "frequency": 18
   },
   "amin": {
-    "meaning": "Amin.",
+    "meaning": "Amen.",
     "frequency": 18
   },
   "yoi": {
-    "meaning": "YOI.",
+    "meaning": "yes, exactly",
     "frequency": 18
   },
   "gaya": {
@@ -2611,16 +2611,10 @@
     "meaning": "junior high school",
     "frequency": 18
   },
-  "neneng": {
-    "meaning": "Neneng",
-    "frequency": 18
+
   },
   "walau": {
     "meaning": "although",
-    "frequency": 18
-  },
-  "ke-4": {
-    "meaning": "to 4",
     "frequency": 18
   },
   "mekanik": {
@@ -2639,9 +2633,7 @@
     "meaning": "who knows",
     "frequency": 18
   },
-  "kyle": {
-    "meaning": "Kyle",
-    "frequency": 18
+
   },
   "musuhnya": {
     "meaning": "His enemies",
@@ -2676,7 +2668,7 @@
     "frequency": 17
   },
   "ngechat": {
-    "meaning": "NgeChat",
+    "meaning": "Chatting",
     "frequency": 17
   },
   "duluan": {
@@ -2692,7 +2684,7 @@
     "frequency": 17
   },
   "berusaha": {
-    "meaning": "attempted",
+    "meaning": "attempt, try",
     "frequency": 17
   },
   "muncul": {
@@ -2720,7 +2712,7 @@
     "frequency": 17
   },
   "udahan": {
-    "meaning": "Udahan",
+    "meaning": "Done",
     "frequency": 17
   },
   "orang-orang": {
@@ -2728,7 +2720,7 @@
     "frequency": 17
   },
   "ngepet": {
-    "meaning": "Crying",
+    "meaning": "A dark ritual where you summon a pig to steal other's money or treasure ",
     "frequency": 17
   },
   "kasur": {
@@ -2776,7 +2768,7 @@
     "frequency": 17
   },
   "wih": {
-    "meaning": "Wih",
+    "meaning": "Expression of amazement",
     "frequency": 17
   },
   "sono": {
@@ -2856,7 +2848,7 @@
     "frequency": 16
   },
   "bagi": {
-    "meaning": "for",
+    "meaning": "for, divide",
     "frequency": 16
   },
   "pula": {
@@ -2884,7 +2876,7 @@
     "frequency": 16
   },
   "pacar": {
-    "meaning": "boyfriend",
+    "meaning": "boyfriend, girlfriend",
     "frequency": 16
   },
   "iyah": {
@@ -2892,7 +2884,7 @@
     "frequency": 16
   },
   "okeh": {
-    "meaning": "Okeh",
+    "meaning": "Okay",
     "frequency": 16
   },
   "hoah": {
@@ -2909,10 +2901,6 @@
   },
   "sebelumnya": {
     "meaning": "previously",
-    "frequency": 16
-  },
-  "ki": {
-    "meaning": "Ki",
     "frequency": 16
   },
   "permisi": {
