@@ -2765,7 +2765,7 @@
     "frequency": 17
   },
   "sono": {
-    "meaning": "Sono",
+    "meaning": "Go away",
     "frequency": 17
   },
   "mengerti": {
@@ -2773,12 +2773,12 @@
     "frequency": 17
   },
   "boboiboy": {
-    "meaning": "Boboiboy.",
+    "meaning": "A cartoon character form a cartoon serial Boboiboy",
     "frequency": 17
   },
   "sandi": {
     "frequency": 17,
-    "meaning": ""
+    "meaning": "Code"
   },
   "fokus": {
     "meaning": "focus",
@@ -2789,7 +2789,7 @@
     "frequency": 16
   },
   "wek": {
-    "meaning": "WECK",
+    "meaning": "Expression of disgust",
     "frequency": 16
   },
   "kepada": {
@@ -2801,15 +2801,11 @@
     "frequency": 16
   },
   "airnya": {
-    "meaning": "Water",
+    "meaning": "The water",
     "frequency": 16
   },
   "angin": {
     "meaning": "wind",
-    "frequency": 16
-  },
-  "nyah": {
-    "meaning": "Nyah",
     "frequency": 16
   },
   "sip": {
@@ -2833,11 +2829,11 @@
     "frequency": 16
   },
   "elah": {
-    "meaning": "Oh",
+    "meaning": "Idiolect, Oh",
     "frequency": 16
   },
   "dekat": {
-    "meaning": "close",
+    "meaning": "close, near",
     "frequency": 16
   },
   "bagi": {
@@ -2865,7 +2861,7 @@
     "frequency": 16
   },
   "lho": {
-    "meaning": "Lho.",
+    "meaning": "Idiolect, questioning something, confuse expression",
     "frequency": 16
   },
   "pacar": {
@@ -2878,14 +2874,6 @@
   },
   "okeh": {
     "meaning": "Okay",
-    "frequency": 16
-  },
-  "hoah": {
-    "meaning": "Houd",
-    "frequency": 16
-  },
-  "nono": {
-    "meaning": "Nono.",
     "frequency": 16
   },
   "games": {
@@ -2901,11 +2889,11 @@
     "frequency": 16
   },
   "ngumpet": {
-    "meaning": "Ngumpet",
+    "meaning": "Hiding",
     "frequency": 16
   },
   "muter": {
-    "meaning": "Muter",
+    "meaning": "Spin",
     "frequency": 15
   },
   "kasihan": {
@@ -2913,15 +2901,11 @@
     "frequency": 15
   },
   "nilai": {
-    "meaning": "mark",
+    "meaning": "mark, score",
     "frequency": 15
   },
   "akunya": {
-    "meaning": "Aku.",
-    "frequency": 15
-  },
-  "lex": {
-    "meaning": "Lex",
+    "meaning": "Me, myself",
     "frequency": 15
   },
   "bahwa": {
@@ -2953,15 +2937,11 @@
     "frequency": 15
   },
   "duh": {
-    "meaning": "Duh.",
+    "meaning": "Duh",
     "frequency": 15
   },
   "crush": {
-    "meaning": "Crush.",
-    "frequency": 15
-  },
-  "nike": {
-    "meaning": "Nike",
+    "meaning": "Crush",
     "frequency": 15
   },
   "indah": {
@@ -2981,7 +2961,7 @@
     "frequency": 15
   },
   "nyala": {
-    "meaning": "Flame",
+    "meaning": "light up",
     "frequency": 15
   },
   "senin": {
@@ -3009,7 +2989,7 @@
     "frequency": 15
   },
   "iso": {
-    "meaning": "ISO.",
+    "meaning": "Can do (Javanese)",
     "frequency": 15
   },
   "walaupun": {
@@ -3017,7 +2997,7 @@
     "frequency": 15
   },
   "kai": {
-    "meaning": "Kai.",
+    "meaning": "OK",
     "frequency": 15
   },
   "mainnya": {
@@ -3041,7 +3021,7 @@
     "frequency": 15
   },
   "cecak": {
-    "meaning": "Cecak",
+    "meaning": "lizard",
     "frequency": 15
   },
   "gitu-gitu": {
@@ -3098,7 +3078,7 @@
   },
   "emot": {
     "frequency": 15,
-    "meaning": ""
+    "meaning": "Emoji"
   },
   "net": {
     "meaning": "net",
