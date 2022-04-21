@@ -1980,8 +1980,8 @@
     "frequency": 25
   },
   "tepuk": {
-    "meaning": "pat, clap",
-    "frequency": "25"
+    "meaning": "applaud, pat, clap",
+    "frequency": 25
   },
   "jelas": {
     "meaning": "clear",
@@ -2009,10 +2009,6 @@
   },
   "kirain": {
     "meaning": "Thought",
-    "frequency": 25
-  },
-  "tangan": {
-    "meaning": "hand",
     "frequency": 25
   },
   "coklat": {
@@ -2612,7 +2608,6 @@
     "frequency": 18
   },
 
-  },
   "walau": {
     "meaning": "although",
     "frequency": 18
@@ -2632,8 +2627,6 @@
   "entah": {
     "meaning": "who knows",
     "frequency": 18
-  },
-
   },
   "musuhnya": {
     "meaning": "His enemies",
@@ -6397,11 +6390,7 @@
   },
   "nyapa": {
     "frequency": 7,
-    "meaning": ""
-  },
-  "tepuk": {
-    "frequency": 7,
-    "meaning": "applaud, clap, spat, acclaim"
+    "meaning": "Greetings"
   },
   "arus": {
     "frequency": 7,
