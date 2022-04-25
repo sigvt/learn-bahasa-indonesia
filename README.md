@@ -24,6 +24,14 @@
 - [Reine Indonesian Classroom w/ Marine](https://www.youtube.com/watch?v=R-LxzgPRK68)
 - [Reine Indonesian Classroom SPECIAL](https://www.youtube.com/watch?v=GNWKINdJEXk)
 
+## Dictionary Explanation
+* **Idiolect** : A sound that is created by speech habits from particular area and usually has no meaning.  
+* **TYPO** : The word is a typo or need further inspection on the context.
+* **TYPX** : The word have a meaning but it's hard to describe it in english.
+* **Affix** : An additional element placed usually at the beginning or end of a word to modify its meaning.
+* **Prefix** : A word part added to the beginning of a word
+* **Suffix** : A word part added to the end of a word.
+
 ## Contribute
 
 If you are a native Indonesian speaker, help us improving the **dictionary.csv**, adding lessons, and building a website hosting a searchable ID-EN dictionary.
