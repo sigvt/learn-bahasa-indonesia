@@ -696,3 +696,11 @@ export const stopwords = [
   "yourself",
   "youtube",
 ];
+
+export function removeStopWords(text: string) {
+  return text
+    .split(/\s+/)
+    .map((word) => word.toLowerCase().replace(/,/, ""))
+    .filter((word) => !/^(\d+|.)$/.test(word))
+    .filter((word) => !stopwords.includes(word));
+}

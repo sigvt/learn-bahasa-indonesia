@@ -1,130 +1,121 @@
-import csv from "async-csv";
+import axios from "axios";
 import merge from "deepmerge";
 import fs from "fs";
-import { Masterchat, stringify } from "masterchat";
-import path from "path";
-import { stopwords } from "./stopwords";
-import { WordNet } from "./wordnet";
 import JSON5 from "json5";
+import { dirname, join } from "path";
+import { genBigram, generateVocab } from "./nlp";
+import { removeStopWords } from "./stopwords";
+import { getOrCreateTranscript } from "./transcript";
+import { arrayToObject, count, filterObject, sort, sortObject } from "./utils";
+import { WordNet } from "./wordnet";
 
-interface Entry {
-  meaning?: string;
-  frequency: number;
+const CACHE_DIR = join(dirname(__filename), "..", "cache");
+const DATA_DIR = join(dirname(__filename), "..", "data");
+const STREAMS_DIR = join(DATA_DIR, "streams");
+
+async function fetchStreams(channelId: string): Promise<Stream[]> {
+  const res = await axios.get<HolodexStream[]>(
+    `https://holodex.net/api/v2/channels/${channelId}/videos`,
+    {
+      params: {
+        type: "stream",
+        status: "past",
+        limit: 100,
+      },
+    }
+  );
+
+  const streams = res.data.map((info) => {
+    return {
+      id: info.id,
+      title: info.title,
+      created: info.published_at,
+    };
+  });
+
+  return streams;
 }
 
-const CACHE_DIR = path.join(path.dirname(__filename), "..", "cache");
+async function loadTranscripts(indexFiles: string[]) {
+  const transcripts = [];
 
-function count(arr: string[]) {
-  const res: Record<string, number> = {};
-  for (const i of arr) {
-    if (res[i]) {
-      res[i] += 1;
-    } else {
-      res[i] = 1;
+  for (const indexFile of indexFiles) {
+    console.log("opening", indexFile);
+    const index = JSON5.parse(fs.readFileSync(indexFile, "utf-8")) as Stream[];
+
+    for (const i in index) {
+      if (index[i].available === false) {
+        continue;
+      }
+      console.log("loading", index[i].id);
+
+      const transcript = await getOrCreateTranscript(index[i].id, CACHE_DIR);
+      if (!transcript) {
+        console.log("unavailable", index[i].id);
+        index[i].available = false;
+        fs.writeFileSync(indexFile, JSON.stringify(index, null, 2));
+        continue;
+      }
+
+      transcripts.push(transcript);
     }
   }
-  return res;
+
+  return transcripts;
 }
 
-function sort(obj: Object) {
-  return Object.entries(obj).sort((a, b) => b[1] - a[1]);
-}
+async function main() {
+  const people = JSON.parse(
+    fs.readFileSync(join(DATA_DIR, "people.json"), "utf-8")
+  ) as Person[];
 
-function sortObject(obj: Object) {
-  return Object.fromEntries(
-    Object.entries(obj).sort(
-      (a: any, b: any) => b[1].frequency - a[1].frequency
-    )
-  );
-}
+  for (const person of people) {
+    console.log("refreshing", person.name, person.channelId);
+    const streams = await fetchStreams(person.channelId);
 
-async function fetchTranscript(id: string): Promise<string> {
-  const mc = new Masterchat(id, "");
-  const transcript = await mc.getTranscript();
-  return transcript
-    .map((e) => stringify(e.snippet))
-    .join("\n")
-    .replace(/\[(?:Tepuk tangan|Musik|Tertawa)\]/g, "")
-    .replace(/[ ]+/g, " ")
-    .replace(/\n+/g, "\n")
-    .trim();
-}
-
-async function getOrCreateTranscript(id: string) {
-  const cachePath = path.join(CACHE_DIR, id + ".txt");
-  try {
-    return fs.readFileSync(cachePath, "utf-8");
-  } catch (err) {
+    let oldStreams: Stream[] = [];
     try {
-      const transcript = await fetchTranscript(id);
-      fs.writeFileSync(cachePath, transcript);
-      return transcript;
-    } catch (err) {
-      throw new Error(`Error(${id}): ${err}`);
-    }
+      oldStreams = JSON.parse(
+        fs.readFileSync(join(STREAMS_DIR, person.name + ".json"), "utf-8")
+      ) as Stream[];
+    } catch (err) {}
+
+    const merged = sortObject(
+      merge(arrayToObject(oldStreams, "id"), arrayToObject(streams, "id")),
+      "created"
+    );
+
+    fs.writeFileSync(
+      join(STREAMS_DIR, person.name + ".json"),
+      JSON.stringify(Object.values(merged), null, 2)
+    );
   }
-}
 
-function removeStopWords(text: string) {
-  return text
-    .split(/\s+/)
-    .map((word) => word.toLowerCase().replace(/,/, ""))
-    .filter((word) => !/^(\d+|.)$/.test(word))
-    .filter((word) => !stopwords.includes(word));
-}
+  const indexFiles = fs
+    .readdirSync(STREAMS_DIR)
+    .map((f) => join(STREAMS_DIR, f));
 
-function genBigram(arr: string[]) {
-  return arr
-    .reduce((sum, w) => {
-      if (sum.length > 0) sum[sum.length - 1].push(w);
-      sum.push([w]);
-      return sum;
-    }, [] as string[][])
-    .map((pair) => pair.join(" "));
-}
+  const transcripts = await loadTranscripts(indexFiles);
+  const combined = transcripts.join(" ");
+  const corpus = removeStopWords(combined);
 
-function generateBigram(corpus: string[]) {
   const bigram = genBigram(corpus);
-  const bigramSortedByFreq = sort(count(bigram)).filter(
-    (pair) => !/hai|ya|oke/.test(pair[0])
-  );
+  const bigramSortedByFreq = sort(count(bigram))
+    .filter((pair) => !/hai|ya|oke/.test(pair[0]))
+    .filter(([_, freq]) => freq >= 5);
+
   fs.writeFileSync(
     "bigram.csv",
     bigramSortedByFreq.map((pair) => pair.join(",")).join("\n") + "\n"
   );
-  return bigram;
-}
 
-function generateVocab(corpus: string[]) {
-  const vocab = sort(count(corpus));
-  console.log(vocab.length, "words total");
-  for (const [word, freq] of vocab.filter(([_, freq]) => freq > 100)) {
-    console.log(word, "\t", freq);
-  }
+  const vocab = generateVocab(corpus).filter(([_, freq]) => freq >= 5);
+
   fs.writeFileSync(
     "vocab.csv",
     vocab.map((pair) => pair.join(",")).join("\n") + "\n"
   );
-  return vocab;
-}
 
-async function main() {
-  fs.mkdirSync(CACHE_DIR, { recursive: true });
-
-  const liveStreamIds: string[] = JSON5.parse(
-    fs.readFileSync("./streams.json", "utf-8")
-  ).map((e: { id: string; title: string }) => e.id);
-
-  const transcripts = await Promise.all(
-    liveStreamIds.map((id) => getOrCreateTranscript(id))
-  );
-
-  const raw = transcripts.join(" ");
-
-  const corpus = removeStopWords(raw);
-
-  generateBigram(corpus);
-  const vocab = generateVocab(corpus);
   const dictFromVocab = Object.fromEntries(
     vocab.map(([word, freq]) => [word, { frequency: freq }])
   ) as Record<string, Entry>;
@@ -143,7 +134,7 @@ async function main() {
     fs.readFileSync("./dictionary.json", "utf-8")
   ) as Record<string, Entry>;
 
-  const dict = merge(oldDict, dictFromVocab) as Record<string, Entry>;
+  let dict = merge(oldDict, dictFromVocab) as Record<string, Entry>;
 
   for (const i in dict) {
     if (!dict[i].meaning) {
@@ -151,18 +142,35 @@ async function main() {
     }
   }
 
-  const sortedDict = sortObject(dict);
+  dict = sortObject(dict, "frequency");
+  dict = filterObject(dict, (ent) => ent.frequency >= 3);
 
-  console.log(Object.entries(sortedDict).slice(0, 100));
+  // console.log(Object.entries(dict).slice(0, 100));
 
-  fs.writeFileSync("./dictionary.json", JSON.stringify(sortedDict, null, 2));
-  // fs.writeFileSync(
-  //   "./dictionary.csv",
-  //   await csv.stringify(
-  //     Object.entries(dict).map((e) => [e[0], e[1].meaning, e[1].frequency]),
-  //     { columns: ["Word", "Meaning", "Frequency"], header: true }
-  //   )
-  // );
+  fs.writeFileSync("./dictionary.json", JSON.stringify(dict, null, 2));
 }
 
 main();
+
+interface Entry {
+  meaning?: string;
+  frequency: number;
+}
+
+interface Person {
+  name: string;
+  channelId: string;
+}
+
+interface HolodexStream {
+  id: string;
+  title: string;
+  published_at: string;
+}
+
+interface Stream {
+  title: string;
+  id: string;
+  created: string;
+  available?: boolean;
+}
