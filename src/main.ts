@@ -156,13 +156,13 @@ async function main() {
   console.log(Object.entries(sortedDict).slice(0, 100));
 
   fs.writeFileSync("./dictionary.json", JSON.stringify(sortedDict, null, 2));
-  fs.writeFileSync(
-    "./dictionary.csv",
-    await csv.stringify(
-      Object.entries(dict).map((e) => [e[0], e[1].meaning, e[1].frequency]),
-      { columns: ["Word", "Meaning", "Frequency"], header: true }
-    )
-  );
+  // fs.writeFileSync(
+  //   "./dictionary.csv",
+  //   await csv.stringify(
+  //     Object.entries(dict).map((e) => [e[0], e[1].meaning, e[1].frequency]),
+  //     { columns: ["Word", "Meaning", "Frequency"], header: true }
+  //   )
+  // );
 }
 
 main();
