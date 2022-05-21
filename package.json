@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "author": "uetchy <y@uechi.io> (https://uechi.io/)",
   "scripts": {
-    "build": "node src/main.js",
+    "build": "ts-node src/main.ts",
     "postinstall": "run-p postinstall:*",
     "postinstall:id-en-dictionary": "cd node_modules/id-en-dictionary && yarn && yarn build",
     "postinstall:masterchat": "cd node_modules/masterchat && yarn && yarn build"
@@ -13,6 +13,7 @@
     "async-csv": "^2.1.3",
     "deepmerge": "^4.2.2",
     "id-en-dictionary": "open-language/id-en-dictionary",
+    "json5": "^2.2.1",
     "masterchat": "holodata/masterchat#dev"
   },
   "devDependencies": {

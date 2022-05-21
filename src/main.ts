@@ -5,6 +5,7 @@ import { Masterchat, stringify } from "masterchat";
 import path from "path";
 import { stopwords } from "./stopwords";
 import { WordNet } from "./wordnet";
+import JSON5 from "json5";
 
 interface Entry {
   meaning?: string;
@@ -54,9 +55,13 @@ async function getOrCreateTranscript(id: string) {
   try {
     return fs.readFileSync(cachePath, "utf-8");
   } catch (err) {
-    const transcript = await fetchTranscript(id);
-    fs.writeFileSync(cachePath, transcript);
-    return transcript;
+    try {
+      const transcript = await fetchTranscript(id);
+      fs.writeFileSync(cachePath, transcript);
+      return transcript;
+    } catch (err) {
+      throw new Error(`Error(${id}): ${err}`);
+    }
   }
 }
 
@@ -106,10 +111,9 @@ function generateVocab(corpus: string[]) {
 async function main() {
   fs.mkdirSync(CACHE_DIR, { recursive: true });
 
-  const liveStreamIds = fs
-    .readFileSync("./liveStreamIds.txt", "utf-8")
-    .split("\n")
-    .filter((l) => l);
+  const liveStreamIds: string[] = JSON5.parse(
+    fs.readFileSync("./streams.json", "utf-8")
+  ).map((e: { id: string; title: string }) => e.id);
 
   const transcripts = await Promise.all(
     liveStreamIds.map((id) => getOrCreateTranscript(id))
