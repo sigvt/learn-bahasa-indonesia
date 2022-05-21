@@ -6,6 +6,15 @@
 - **[vocab.csv](./vocab.csv)**: Most frequent Indonesian words appeared on HoloID streams
 - **[bigram.csv](./bigram.csv)**: Two-word collocation corpus generated from YouTube subtitles
 
+### Dictionary Explanation
+
+- **Idiolect** : A sound that is created by speech habits from particular area and usually has no meaning.
+- **TYPO** : The word is a typo or need further inspection on the context.
+- **TYPX** : The word have a meaning but it's hard to describe it in english.
+- **Affix** : An additional element placed usually at the beginning or end of a word to modify its meaning.
+- **Prefix** : A word part added to the beginning of a word
+- **Suffix** : A word part added to the end of a word.
+
 ## Lessons
 
 ### [Reine's Classroom インドネシア語レッスン](https://www.youtube.com/playlist?list=PLrALGrrF-6IXJmqtqVxjyUvOsFgIwrAwj)
@@ -24,17 +33,9 @@
 - [Reine Indonesian Classroom w/ Marine](https://www.youtube.com/watch?v=R-LxzgPRK68)
 - [Reine Indonesian Classroom SPECIAL](https://www.youtube.com/watch?v=GNWKINdJEXk)
 
-## Dictionary Explanation
-* **Idiolect** : A sound that is created by speech habits from particular area and usually has no meaning.  
-* **TYPO** : The word is a typo or need further inspection on the context.
-* **TYPX** : The word have a meaning but it's hard to describe it in english.
-* **Affix** : An additional element placed usually at the beginning or end of a word to modify its meaning.
-* **Prefix** : A word part added to the beginning of a word
-* **Suffix** : A word part added to the end of a word.
+## Contributing
 
-## Contribute
-
-If you are a native Indonesian speaker, help us improving the **dictionary.csv**, adding lessons, and building a website hosting a searchable ID-EN dictionary.
+If you are a native Indonesian speaker, help us improving our ID-EN dictionary and adding more lessons.
 
 ### Contributors ✨
 
