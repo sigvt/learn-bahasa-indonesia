@@ -4,10 +4,13 @@ import merge from "deepmerge";
 import fs from "fs";
 import JSON5 from "json5";
 import { stringify } from "masterchat";
-import { dirname, join } from "path";
+import path, { dirname, join } from "path";
 import { genBigram, generateVocab } from "./nlp";
 import { removeStopWords } from "./stopwords";
-import { getOrCreateTranscript, stringifyTranscript } from "./transcript";
+import {
+  getOrCreateTranscriptSegments,
+  stringifyTranscript,
+} from "./transcript";
 import { arrayToObject, count, filterObject, sort, sortObject } from "./utils";
 import { WordNet } from "./wordnet";
 
@@ -39,35 +42,35 @@ async function fetchStreams(channelId: string): Promise<Stream[]> {
   return streams;
 }
 
-async function loadTranscripts(indexFiles: string[]) {
+async function loadTranscript(file: string) {
+  console.log("opening", file);
+  const channel = path.basename(file, ".json");
+  const index = JSON5.parse(fs.readFileSync(file, "utf-8")) as Stream[];
+
   const transcripts = [];
 
-  for (const indexFile of indexFiles) {
-    console.log("opening", indexFile);
-    const index = JSON5.parse(fs.readFileSync(indexFile, "utf-8")) as Stream[];
-
-    for (const i in index) {
-      if (index[i].available === false) {
-        continue;
-      }
-      console.log("loading", index[i].id);
-
-      const transcript = await getOrCreateTranscript(index[i].id, CACHE_DIR);
-      if (!transcript) {
-        console.log("unavailable", index[i].id);
-        index[i].available = false;
-        fs.writeFileSync(indexFile, JSON.stringify(index, null, 2));
-        continue;
-      }
-
-      transcripts.push({ id: index[i].id, transcript });
+  for (const i in index) {
+    if (index[i].available === false) {
+      continue;
     }
+    const id = index[i].id; // Video id
+    console.log("loading", id);
+
+    const segments = await getOrCreateTranscriptSegments(id, CACHE_DIR);
+    if (!segments) {
+      console.log("unavailable", id);
+      index[i].available = false;
+      fs.writeFileSync(file, JSON.stringify(index, null, 2));
+      continue;
+    }
+
+    transcripts.push({ id, channel, segments });
   }
 
   return transcripts;
 }
 
-async function main() {
+async function updateStreamIndex() {
   const people = JSON.parse(
     fs.readFileSync(join(DATA_DIR, "people.json"), "utf-8")
   ) as Person[];
@@ -93,43 +96,54 @@ async function main() {
       JSON.stringify(Object.values(merged), null, 2)
     );
   }
+}
+
+async function main() {
+  await updateStreamIndex();
 
   const indexFiles = fs
     .readdirSync(STREAMS_DIR)
     .map((f) => join(STREAMS_DIR, f));
 
-  const transcripts = await loadTranscripts(indexFiles);
+  const transcripts = (
+    await Promise.all(indexFiles.map(loadTranscript))
+  ).flat();
 
   // Create speeches
-  const speeches = transcripts.flatMap((t) => {
-    return t.transcript
-      .map((seg): Speech => {
+  for (const ts of transcripts) {
+    const { id, segments } = ts;
+
+    const speeches = segments
+      .map((seg): Segment => {
         const text = stringify(seg.snippet)
           .split(" ")
           .filter((word) => !/\[(?:Tepuk tangan|Musik|Tertawa)\]/.test(word))
           .join(" ")
           .replace(/\n\n/g, ". ")
           .replace(/\u200b/g, "");
+
         return {
-          id: t.id + "-" + seg.startMs,
+          id: ts.id + "-" + seg.startMs,
           text,
           start: Math.floor(seg.startMs / 1000),
           end: Math.floor(seg.endMs / 1000),
-          video: t.id,
+          video: ts.id,
+          channel: ts.channel,
         };
       })
       .filter((seg) => {
         const wordCount = seg.text.split(" ").length;
         return wordCount >= 4 && wordCount < 100;
       });
-  });
-  fs.writeFileSync(
-    join(DIST_DIR, "speeches.json"),
-    JSON.stringify(speeches, null, 2)
-  );
+
+    fs.writeFileSync(
+      join(DIST_DIR, "transcripts", id + ".json"),
+      JSON.stringify(speeches, null, 2)
+    );
+  }
 
   const combined = stringifyTranscript(
-    transcripts.flatMap((t) => t.transcript)
+    transcripts.flatMap((t) => t.segments)
   ).replace(/\u200b/g, "");
   const corpus = removeStopWords(combined);
 
@@ -222,10 +236,11 @@ interface Stream {
   available?: boolean;
 }
 
-interface Speech {
+interface Segment {
   id: string;
   text: string;
   start: number;
   end: number;
   video: string;
+  channel: string;
 }

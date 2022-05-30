@@ -26,7 +26,7 @@ export function stringifyTranscript(transcript: TranscriptSegment[]) {
     .trim();
 }
 
-export async function getOrCreateTranscript(
+export async function getOrCreateTranscriptSegments(
   id: string,
   outDir: string
 ): Promise<TranscriptSegment[] | null> {
