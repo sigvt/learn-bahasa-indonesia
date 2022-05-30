@@ -1,7 +1,27 @@
 [
   {
     "id": "SF-_47-oCtk-20390",
-    "text": "merupakan hanya Engkaulah ayah",
+    "fragments": [
+      {
+        "word": "merupakan",
+        "meaning": "represent",
+        "freq": 29
+      },
+      {
+        "word": "hanya",
+        "meaning": "Just, only, however",
+        "freq": 534
+      },
+      {
+        "word": "Engkaulah",
+        "freq": 8
+      },
+      {
+        "word": "ayah",
+        "meaning": "Father",
+        "freq": 502
+      }
+    ],
     "start": 20,
     "end": 25,
     "video": "SF-_47-oCtk",
@@ -9,7 +29,43 @@
   },
   {
     "id": "SF-_47-oCtk-30439",
-    "text": "ini rezeki di rumah hampa masalah datang",
+    "fragments": [
+      {
+        "word": "ini",
+        "meaning": "this",
+        "freq": 15949
+      },
+      {
+        "word": "rezeki",
+        "meaning": "Blessing",
+        "freq": 223
+      },
+      {
+        "word": "di",
+        "meaning": "in, at, upon",
+        "freq": 8908
+      },
+      {
+        "word": "rumah",
+        "meaning": "House",
+        "freq": 579
+      },
+      {
+        "word": "hampa",
+        "meaning": "empty",
+        "freq": 35
+      },
+      {
+        "word": "masalah",
+        "meaning": "problem",
+        "freq": 237
+      },
+      {
+        "word": "datang",
+        "meaning": "come",
+        "freq": 342
+      }
+    ],
     "start": 30,
     "end": 34,
     "video": "SF-_47-oCtk",
@@ -17,7 +73,28 @@
   },
   {
     "id": "SF-_47-oCtk-34680",
-    "text": "dan pergi sudah biasa",
+    "fragments": [
+      {
+        "word": "dan",
+        "meaning": "and",
+        "freq": 2549
+      },
+      {
+        "word": "pergi",
+        "meaning": "go",
+        "freq": 347
+      },
+      {
+        "word": "sudah",
+        "meaning": "Already, past, last, all right, OK",
+        "freq": 1474
+      },
+      {
+        "word": "biasa",
+        "meaning": "normal",
+        "freq": 532
+      }
+    ],
     "start": 34,
     "end": 38,
     "video": "SF-_47-oCtk",
@@ -25,7 +102,33 @@
   },
   {
     "id": "SF-_47-oCtk-38000",
-    "text": "sendiri lagi enggan untuk melangkah",
+    "fragments": [
+      {
+        "word": "sendiri",
+        "meaning": "Self, own, by yourself",
+        "freq": 766
+      },
+      {
+        "word": "lagi",
+        "meaning": "again",
+        "freq": 6700
+      },
+      {
+        "word": "enggan",
+        "meaning": "reluctant",
+        "freq": 45
+      },
+      {
+        "word": "untuk",
+        "meaning": "For, on behalf of, in order to",
+        "freq": 1517
+      },
+      {
+        "word": "melangkah",
+        "meaning": "Stepping",
+        "freq": 49
+      }
+    ],
     "start": 38,
     "end": 42,
     "video": "SF-_47-oCtk",
@@ -33,7 +136,33 @@
   },
   {
     "id": "SF-_47-oCtk-42590",
-    "text": "Kubuka mata menatap langit menjadi",
+    "fragments": [
+      {
+        "word": "Kubuka",
+        "meaning": "I opened",
+        "freq": 30
+      },
+      {
+        "word": "mata",
+        "meaning": "eye",
+        "freq": 282
+      },
+      {
+        "word": "menatap",
+        "meaning": "Staring",
+        "freq": 32
+      },
+      {
+        "word": "langit",
+        "meaning": "sky",
+        "freq": 50
+      },
+      {
+        "word": "menjadi",
+        "meaning": "Becomes",
+        "freq": 393
+      }
+    ],
     "start": 42,
     "end": 46,
     "video": "SF-_47-oCtk",
@@ -41,7 +170,31 @@
   },
   {
     "id": "SF-_47-oCtk-46170",
-    "text": "Pujangga demage nangis bantala tak",
+    "fragments": [
+      {
+        "word": "Pujangga",
+        "freq": 0
+      },
+      {
+        "word": "demage",
+        "freq": 0
+      },
+      {
+        "word": "nangis",
+        "meaning": "cry",
+        "freq": 231
+      },
+      {
+        "word": "bantala",
+        "meaning": "Bantala",
+        "freq": 8
+      },
+      {
+        "word": "tak",
+        "meaning": "No, not",
+        "freq": 822
+      }
+    ],
     "start": 46,
     "end": 50,
     "video": "SF-_47-oCtk",
@@ -49,7 +202,31 @@
   },
   {
     "id": "SF-_47-oCtk-50190",
-    "text": "seakan memetik Ayo jelajahi dulunya",
+    "fragments": [
+      {
+        "word": "seakan",
+        "meaning": "As if",
+        "freq": 20
+      },
+      {
+        "word": "memetik",
+        "freq": 0
+      },
+      {
+        "word": "Ayo",
+        "meaning": "Let's go, come on",
+        "freq": 2368
+      },
+      {
+        "word": "jelajahi",
+        "freq": 17
+      },
+      {
+        "word": "dulunya",
+        "meaning": "once, formerly, at one time, erstwhile, erst",
+        "freq": 17
+      }
+    ],
     "start": 50,
     "end": 55,
     "video": "SF-_47-oCtk",
@@ -57,7 +234,31 @@
   },
   {
     "id": "SF-_47-oCtk-55579",
-    "text": "member Bagai angin saat terselesaikan",
+    "fragments": [
+      {
+        "word": "member",
+        "freq": 0
+      },
+      {
+        "word": "Bagai",
+        "meaning": "like",
+        "freq": 12
+      },
+      {
+        "word": "angin",
+        "meaning": "wind",
+        "freq": 111
+      },
+      {
+        "word": "saat",
+        "meaning": "moment, while",
+        "freq": 334
+      },
+      {
+        "word": "terselesaikan",
+        "freq": 0
+      }
+    ],
     "start": 55,
     "end": 58,
     "video": "SF-_47-oCtk",
@@ -65,7 +266,37 @@
   },
   {
     "id": "SF-_47-oCtk-58590",
-    "text": "masalah Hai sehari kemih untuk mencegah",
+    "fragments": [
+      {
+        "word": "masalah",
+        "meaning": "problem",
+        "freq": 237
+      },
+      {
+        "word": "Hai",
+        "meaning": "hey",
+        "freq": 37254
+      },
+      {
+        "word": "sehari",
+        "meaning": "a day",
+        "freq": 46
+      },
+      {
+        "word": "kemih",
+        "freq": 3
+      },
+      {
+        "word": "untuk",
+        "meaning": "For, on behalf of, in order to",
+        "freq": 1517
+      },
+      {
+        "word": "mencegah",
+        "meaning": "break, break off, discontinue, stop",
+        "freq": 8
+      }
+    ],
     "start": 58,
     "end": 64,
     "video": "SF-_47-oCtk",
@@ -73,7 +304,38 @@
   },
   {
     "id": "SF-_47-oCtk-68549",
-    "text": "tangan malah hujan tak kunjung berhenti",
+    "fragments": [
+      {
+        "word": "tangan",
+        "meaning": "hand",
+        "freq": 172
+      },
+      {
+        "word": "malah",
+        "meaning": "rather",
+        "freq": 264
+      },
+      {
+        "word": "hujan",
+        "meaning": "rain",
+        "freq": 329
+      },
+      {
+        "word": "tak",
+        "meaning": "No, not",
+        "freq": 822
+      },
+      {
+        "word": "kunjung",
+        "meaning": "visit",
+        "freq": 46
+      },
+      {
+        "word": "berhenti",
+        "meaning": "stop",
+        "freq": 170
+      }
+    ],
     "start": 68,
     "end": 72,
     "video": "SF-_47-oCtk",
@@ -81,7 +343,38 @@
   },
   {
     "id": "SF-_47-oCtk-72310",
-    "text": "masih ada ampun temanimu disini lafalkan",
+    "fragments": [
+      {
+        "word": "masih",
+        "meaning": "Still, yet",
+        "freq": 2087
+      },
+      {
+        "word": "ada",
+        "meaning": "there is, there are",
+        "freq": 10019
+      },
+      {
+        "word": "ampun",
+        "meaning": "Forgiveness",
+        "freq": 275
+      },
+      {
+        "word": "temanimu",
+        "meaning": "Your friend",
+        "freq": 22
+      },
+      {
+        "word": "disini",
+        "meaning": "here",
+        "freq": 866
+      },
+      {
+        "word": "lafalkan",
+        "meaning": "praises",
+        "freq": 20
+      }
+    ],
     "start": 72,
     "end": 76,
     "video": "SF-_47-oCtk",
@@ -89,7 +382,28 @@
   },
   {
     "id": "SF-_47-oCtk-76659",
-    "text": "mantra tentang cahaya bersinar",
+    "fragments": [
+      {
+        "word": "mantra",
+        "meaning": "Mantra",
+        "freq": 51
+      },
+      {
+        "word": "tentang",
+        "meaning": "about",
+        "freq": 200
+      },
+      {
+        "word": "cahaya",
+        "meaning": "light",
+        "freq": 75
+      },
+      {
+        "word": "bersinar",
+        "meaning": "agleam, gleaming, nitid",
+        "freq": 31
+      }
+    ],
     "start": 76,
     "end": 79,
     "video": "SF-_47-oCtk",
@@ -97,7 +411,38 @@
   },
   {
     "id": "SF-_47-oCtk-81720",
-    "text": "hilang tak semua raksasa yang selimuti",
+    "fragments": [
+      {
+        "word": "hilang",
+        "meaning": "is lost",
+        "freq": 423
+      },
+      {
+        "word": "tak",
+        "meaning": "No, not",
+        "freq": 822
+      },
+      {
+        "word": "semua",
+        "meaning": "All",
+        "freq": 2094
+      },
+      {
+        "word": "raksasa",
+        "meaning": "giant",
+        "freq": 10
+      },
+      {
+        "word": "yang",
+        "meaning": "that ~, which ~, the one",
+        "freq": 12092
+      },
+      {
+        "word": "selimuti",
+        "meaning": "Selimuti",
+        "freq": 24
+      }
+    ],
     "start": 81,
     "end": 85,
     "video": "SF-_47-oCtk",

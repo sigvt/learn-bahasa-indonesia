@@ -1,7 +1,37 @@
 [
   {
     "id": "m1fWzOZEbCM-118580",
-    "text": "Ayu nemen jus lemon sekaligus pendek",
+    "fragments": [
+      {
+        "word": "Ayu",
+        "meaning": "Ayu.",
+        "freq": 118
+      },
+      {
+        "word": "nemen",
+        "freq": 0
+      },
+      {
+        "word": "jus",
+        "meaning": "juice, succus",
+        "freq": 42
+      },
+      {
+        "word": "lemon",
+        "meaning": "lemony, lemonlike, sourish, tangy, tart",
+        "freq": 37
+      },
+      {
+        "word": "sekaligus",
+        "meaning": "all of a sudden, all at once",
+        "freq": 18
+      },
+      {
+        "word": "pendek",
+        "meaning": "short",
+        "freq": 56
+      }
+    ],
     "start": 118,
     "end": 123,
     "video": "m1fWzOZEbCM",
@@ -9,7 +39,26 @@
   },
   {
     "id": "m1fWzOZEbCM-134930",
-    "text": "oke address Kincir wisno",
+    "fragments": [
+      {
+        "word": "oke",
+        "meaning": "OK",
+        "freq": 14012
+      },
+      {
+        "word": "address",
+        "freq": 6
+      },
+      {
+        "word": "Kincir",
+        "meaning": "bobbin, spool, reel",
+        "freq": 5
+      },
+      {
+        "word": "wisno",
+        "freq": 0
+      }
+    ],
     "start": 134,
     "end": 140,
     "video": "m1fWzOZEbCM",
@@ -17,7 +66,42 @@
   },
   {
     "id": "m1fWzOZEbCM-140360",
-    "text": "ah hello hello saat is now a yah",
+    "fragments": [
+      {
+        "word": "ah",
+        "freq": 0
+      },
+      {
+        "word": "hello",
+        "freq": 0
+      },
+      {
+        "word": "hello",
+        "freq": 0
+      },
+      {
+        "word": "saat",
+        "meaning": "moment, while",
+        "freq": 334
+      },
+      {
+        "word": "is",
+        "freq": 0
+      },
+      {
+        "word": "now",
+        "freq": 0
+      },
+      {
+        "word": "a",
+        "freq": 0
+      },
+      {
+        "word": "yah",
+        "meaning": "Idiolect, similar to oh well",
+        "freq": 822
+      }
+    ],
     "start": 140,
     "end": 147,
     "video": "m1fWzOZEbCM",
@@ -25,7 +109,34 @@
   },
   {
     "id": "m1fWzOZEbCM-153409",
-    "text": "oh bakau chanayu kefir service web",
+    "fragments": [
+      {
+        "word": "oh",
+        "freq": 0
+      },
+      {
+        "word": "bakau",
+        "meaning": "mangrove, rhizophora mangle",
+        "freq": 8
+      },
+      {
+        "word": "chanayu",
+        "freq": 0
+      },
+      {
+        "word": "kefir",
+        "meaning": "Kefir",
+        "freq": 85
+      },
+      {
+        "word": "service",
+        "freq": 0
+      },
+      {
+        "word": "web",
+        "freq": 0
+      }
+    ],
     "start": 153,
     "end": 158,
     "video": "m1fWzOZEbCM",
@@ -33,7 +144,38 @@
   },
   {
     "id": "m1fWzOZEbCM-158610",
-    "text": "yourself is your day hei hai Mila",
+    "fragments": [
+      {
+        "word": "yourself",
+        "freq": 0
+      },
+      {
+        "word": "is",
+        "freq": 0
+      },
+      {
+        "word": "your",
+        "freq": 0
+      },
+      {
+        "word": "day",
+        "freq": 0
+      },
+      {
+        "word": "hei",
+        "meaning": "Hey",
+        "freq": 753
+      },
+      {
+        "word": "hai",
+        "meaning": "hey",
+        "freq": 37254
+      },
+      {
+        "word": "Mila",
+        "freq": 10
+      }
+    ],
     "start": 158,
     "end": 162,
     "video": "m1fWzOZEbCM",
@@ -41,7 +183,42 @@
   },
   {
     "id": "m1fWzOZEbCM-170300",
-    "text": "Oh makasih ya udah datang hari ini",
+    "fragments": [
+      {
+        "word": "Oh",
+        "freq": 0
+      },
+      {
+        "word": "makasih",
+        "meaning": "thanks",
+        "freq": 1435
+      },
+      {
+        "word": "ya",
+        "meaning": "yes",
+        "freq": 24407
+      },
+      {
+        "word": "udah",
+        "meaning": "finished",
+        "freq": 11140
+      },
+      {
+        "word": "datang",
+        "meaning": "come",
+        "freq": 342
+      },
+      {
+        "word": "hari",
+        "meaning": "Day",
+        "freq": 980
+      },
+      {
+        "word": "ini",
+        "meaning": "this",
+        "freq": 15949
+      }
+    ],
     "start": 170,
     "end": 174,
     "video": "m1fWzOZEbCM",
@@ -49,7 +226,35 @@
   },
   {
     "id": "m1fWzOZEbCM-188110",
-    "text": "hahaha donesia aligato eh jangan ingat",
+    "fragments": [
+      {
+        "word": "hahaha",
+        "freq": 0
+      },
+      {
+        "word": "donesia",
+        "freq": 11
+      },
+      {
+        "word": "aligato",
+        "meaning": "Aligato.",
+        "freq": 35
+      },
+      {
+        "word": "eh",
+        "freq": 0
+      },
+      {
+        "word": "jangan",
+        "meaning": "Do not, should not",
+        "freq": 2822
+      },
+      {
+        "word": "ingat",
+        "meaning": "remember",
+        "freq": 167
+      }
+    ],
     "start": 188,
     "end": 192,
     "video": "m1fWzOZEbCM",
@@ -57,7 +262,28 @@
   },
   {
     "id": "m1fWzOZEbCM-197560",
-    "text": "ada ininya nggak ya",
+    "fragments": [
+      {
+        "word": "ada",
+        "meaning": "there is, there are",
+        "freq": 10019
+      },
+      {
+        "word": "ininya",
+        "meaning": "This is (Suffix nya)",
+        "freq": 231
+      },
+      {
+        "word": "nggak",
+        "meaning": "no (Jakarta slang)",
+        "freq": 10320
+      },
+      {
+        "word": "ya",
+        "meaning": "yes",
+        "freq": 24407
+      }
+    ],
     "start": 197,
     "end": 200,
     "video": "m1fWzOZEbCM",
@@ -65,7 +291,38 @@
   },
   {
     "id": "m1fWzOZEbCM-200980",
-    "text": "nyari sana Ayah harusnya nanti ada-ada",
+    "fragments": [
+      {
+        "word": "nyari",
+        "meaning": "Looking for",
+        "freq": 209
+      },
+      {
+        "word": "sana",
+        "meaning": "there",
+        "freq": 467
+      },
+      {
+        "word": "Ayah",
+        "meaning": "Father",
+        "freq": 502
+      },
+      {
+        "word": "harusnya",
+        "meaning": "Should be",
+        "freq": 488
+      },
+      {
+        "word": "nanti",
+        "meaning": "Later, presently",
+        "freq": 2270
+      },
+      {
+        "word": "ada-ada",
+        "meaning": "Silly",
+        "freq": 229
+      }
+    ],
     "start": 200,
     "end": 205,
     "video": "m1fWzOZEbCM",
@@ -73,7 +330,48 @@
   },
   {
     "id": "m1fWzOZEbCM-205070",
-    "text": "ini ya Anda ada notifnya ya jadi Hai",
+    "fragments": [
+      {
+        "word": "ini",
+        "meaning": "this",
+        "freq": 15949
+      },
+      {
+        "word": "ya",
+        "meaning": "yes",
+        "freq": 24407
+      },
+      {
+        "word": "Anda",
+        "meaning": "You, your, yours",
+        "freq": 401
+      },
+      {
+        "word": "ada",
+        "meaning": "there is, there are",
+        "freq": 10019
+      },
+      {
+        "word": "notifnya",
+        "meaning": "Notification",
+        "freq": 13
+      },
+      {
+        "word": "ya",
+        "meaning": "yes",
+        "freq": 24407
+      },
+      {
+        "word": "jadi",
+        "meaning": "become, so, finished",
+        "freq": 4427
+      },
+      {
+        "word": "Hai",
+        "meaning": "hey",
+        "freq": 37254
+      }
+    ],
     "start": 205,
     "end": 209,
     "video": "m1fWzOZEbCM",
@@ -81,7 +379,47 @@
   },
   {
     "id": "m1fWzOZEbCM-212260",
-    "text": "ya wkwkw Ya jadi hari ini kamu mau",
+    "fragments": [
+      {
+        "word": "ya",
+        "meaning": "yes",
+        "freq": 24407
+      },
+      {
+        "word": "wkwkw",
+        "freq": 0
+      },
+      {
+        "word": "Ya",
+        "meaning": "yes",
+        "freq": 24407
+      },
+      {
+        "word": "jadi",
+        "meaning": "become, so, finished",
+        "freq": 4427
+      },
+      {
+        "word": "hari",
+        "meaning": "Day",
+        "freq": 980
+      },
+      {
+        "word": "ini",
+        "meaning": "this",
+        "freq": 15949
+      },
+      {
+        "word": "kamu",
+        "meaning": "you (informal)",
+        "freq": 7443
+      },
+      {
+        "word": "mau",
+        "meaning": "want, wish",
+        "freq": 6936
+      }
+    ],
     "start": 212,
     "end": 217,
     "video": "m1fWzOZEbCM",
@@ -89,7 +427,35 @@
   },
   {
     "id": "m1fWzOZEbCM-219150",
-    "text": "ah ah gak yakin sudah termonetisasi",
+    "fragments": [
+      {
+        "word": "ah",
+        "freq": 0
+      },
+      {
+        "word": "ah",
+        "freq": 0
+      },
+      {
+        "word": "gak",
+        "meaning": "no",
+        "freq": 1638
+      },
+      {
+        "word": "yakin",
+        "meaning": "convinced",
+        "freq": 100
+      },
+      {
+        "word": "sudah",
+        "meaning": "Already, past, last, all right, OK",
+        "freq": 1474
+      },
+      {
+        "word": "termonetisasi",
+        "freq": 0
+      }
+    ],
     "start": 219,
     "end": 222,
     "video": "m1fWzOZEbCM",
@@ -97,7 +463,38 @@
   },
   {
     "id": "m1fWzOZEbCM-222689",
-    "text": "on-nya channel Kobo ini guys thank you",
+    "fragments": [
+      {
+        "word": "on-nya",
+        "freq": 0
+      },
+      {
+        "word": "channel",
+        "freq": 0
+      },
+      {
+        "word": "Kobo",
+        "meaning": "Kobo",
+        "freq": 530
+      },
+      {
+        "word": "ini",
+        "meaning": "this",
+        "freq": 15949
+      },
+      {
+        "word": "guys",
+        "freq": 0
+      },
+      {
+        "word": "thank",
+        "freq": 0
+      },
+      {
+        "word": "you",
+        "freq": 12
+      }
+    ],
     "start": 222,
     "end": 226,
     "video": "m1fWzOZEbCM",
@@ -105,7 +502,31 @@
   },
   {
     "id": "m1fWzOZEbCM-229189",
-    "text": "yyyyyy nah Berhubung untuk merayakan",
+    "fragments": [
+      {
+        "word": "yyyyyy",
+        "freq": 0
+      },
+      {
+        "word": "nah",
+        "meaning": "Well!, here!, see now!",
+        "freq": 3494
+      },
+      {
+        "word": "Berhubung",
+        "freq": 0
+      },
+      {
+        "word": "untuk",
+        "meaning": "For, on behalf of, in order to",
+        "freq": 1517
+      },
+      {
+        "word": "merayakan",
+        "meaning": "feast, banquet, junket",
+        "freq": 7
+      }
+    ],
     "start": 229,
     "end": 235,
     "video": "m1fWzOZEbCM",
@@ -113,7 +534,42 @@
   },
   {
     "id": "m1fWzOZEbCM-238439",
-    "text": "apalagi toh yah kok mau nyanyi karaoke",
+    "fragments": [
+      {
+        "word": "apalagi",
+        "meaning": "especially",
+        "freq": 264
+      },
+      {
+        "word": "toh",
+        "meaning": "Idiolect",
+        "freq": 198
+      },
+      {
+        "word": "yah",
+        "meaning": "Idiolect, similar to oh well",
+        "freq": 822
+      },
+      {
+        "word": "kok",
+        "meaning": "Idiolect, shuttlecock, bird, birdie, shuttle",
+        "freq": 2566
+      },
+      {
+        "word": "mau",
+        "meaning": "want, wish",
+        "freq": 6936
+      },
+      {
+        "word": "nyanyi",
+        "meaning": "singing",
+        "freq": 236
+      },
+      {
+        "word": "karaoke",
+        "freq": 0
+      }
+    ],
     "start": 238,
     "end": 243,
     "video": "m1fWzOZEbCM",
@@ -121,7 +577,30 @@
   },
   {
     "id": "m1fWzOZEbCM-245120",
-    "text": "Yamin sebelumnya Rencananya mau karaoke",
+    "fragments": [
+      {
+        "word": "Yamin",
+        "freq": 5
+      },
+      {
+        "word": "sebelumnya",
+        "meaning": "previously",
+        "freq": 99
+      },
+      {
+        "word": "Rencananya",
+        "freq": 22
+      },
+      {
+        "word": "mau",
+        "meaning": "want, wish",
+        "freq": 6936
+      },
+      {
+        "word": "karaoke",
+        "freq": 0
+      }
+    ],
     "start": 245,
     "end": 249,
     "video": "m1fWzOZEbCM",
@@ -129,7 +608,32 @@
   },
   {
     "id": "m1fWzOZEbCM-257739",
-    "text": "Hai Hai guys Oke oke",
+    "fragments": [
+      {
+        "word": "Hai",
+        "meaning": "hey",
+        "freq": 37254
+      },
+      {
+        "word": "Hai",
+        "meaning": "hey",
+        "freq": 37254
+      },
+      {
+        "word": "guys",
+        "freq": 0
+      },
+      {
+        "word": "Oke",
+        "meaning": "OK",
+        "freq": 14012
+      },
+      {
+        "word": "oke",
+        "meaning": "OK",
+        "freq": 14012
+      }
+    ],
     "start": 257,
     "end": 260,
     "video": "m1fWzOZEbCM",
@@ -137,7 +641,33 @@
   },
   {
     "id": "m1fWzOZEbCM-264370",
-    "text": "kita mulai aja kau ya",
+    "fragments": [
+      {
+        "word": "kita",
+        "meaning": "(inclusive) we",
+        "freq": 8287
+      },
+      {
+        "word": "mulai",
+        "meaning": "start",
+        "freq": 551
+      },
+      {
+        "word": "aja",
+        "meaning": "just",
+        "freq": 5574
+      },
+      {
+        "word": "kau",
+        "meaning": "You, thee, thou",
+        "freq": 2543
+      },
+      {
+        "word": "ya",
+        "meaning": "yes",
+        "freq": 24407
+      }
+    ],
     "start": 264,
     "end": 267,
     "video": "m1fWzOZEbCM",
@@ -145,7 +675,48 @@
   },
   {
     "id": "m1fWzOZEbCM-272230",
-    "text": "Hai hai itu mah kalau ada kalau ada",
+    "fragments": [
+      {
+        "word": "Hai",
+        "meaning": "hey",
+        "freq": 37254
+      },
+      {
+        "word": "hai",
+        "meaning": "hey",
+        "freq": 37254
+      },
+      {
+        "word": "itu",
+        "meaning": "that, those",
+        "freq": 10635
+      },
+      {
+        "word": "mah",
+        "meaning": "Calling mom, \"ini mah\" this is just",
+        "freq": 490
+      },
+      {
+        "word": "kalau",
+        "meaning": "if",
+        "freq": 6823
+      },
+      {
+        "word": "ada",
+        "meaning": "there is, there are",
+        "freq": 10019
+      },
+      {
+        "word": "kalau",
+        "meaning": "if",
+        "freq": 6823
+      },
+      {
+        "word": "ada",
+        "meaning": "there is, there are",
+        "freq": 10019
+      }
+    ],
     "start": 272,
     "end": 274,
     "video": "m1fWzOZEbCM",
@@ -153,7 +724,41 @@
   },
   {
     "id": "m1fWzOZEbCM-274450",
-    "text": "salah maaf ya teh ibu-ibu mistik I'm",
+    "fragments": [
+      {
+        "word": "salah",
+        "meaning": "Fault, mistake, wrong",
+        "freq": 1082
+      },
+      {
+        "word": "maaf",
+        "meaning": "Excuse, forgive, pardon, ask permission to leave",
+        "freq": 1123
+      },
+      {
+        "word": "ya",
+        "meaning": "yes",
+        "freq": 24407
+      },
+      {
+        "word": "teh",
+        "meaning": "tea, can also means calling older woman (Sundanese)",
+        "freq": 536
+      },
+      {
+        "word": "ibu-ibu",
+        "freq": 24
+      },
+      {
+        "word": "mistik",
+        "meaning": "mysterious, mystic, mystical, occult, secret, orphic",
+        "freq": 10
+      },
+      {
+        "word": "I'm",
+        "freq": 0
+      }
+    ],
     "start": 274,
     "end": 278,
     "video": "m1fWzOZEbCM",
@@ -161,7 +766,37 @@
   },
   {
     "id": "m1fWzOZEbCM-278140",
-    "text": "sorry oke please please don't give high",
+    "fragments": [
+      {
+        "word": "sorry",
+        "freq": 0
+      },
+      {
+        "word": "oke",
+        "meaning": "OK",
+        "freq": 14012
+      },
+      {
+        "word": "please",
+        "freq": 0
+      },
+      {
+        "word": "please",
+        "freq": 0
+      },
+      {
+        "word": "don't",
+        "freq": 0
+      },
+      {
+        "word": "give",
+        "freq": 0
+      },
+      {
+        "word": "high",
+        "freq": 0
+      }
+    ],
     "start": 278,
     "end": 281,
     "video": "m1fWzOZEbCM",
@@ -169,7 +804,36 @@
   },
   {
     "id": "m1fWzOZEbCM-281590",
-    "text": "expectation oh oh my singing NW Imagine",
+    "fragments": [
+      {
+        "word": "expectation",
+        "freq": 0
+      },
+      {
+        "word": "oh",
+        "freq": 0
+      },
+      {
+        "word": "oh",
+        "freq": 0
+      },
+      {
+        "word": "my",
+        "freq": 0
+      },
+      {
+        "word": "singing",
+        "freq": 20
+      },
+      {
+        "word": "NW",
+        "freq": 0
+      },
+      {
+        "word": "Imagine",
+        "freq": 17
+      }
+    ],
     "start": 281,
     "end": 286,
     "video": "m1fWzOZEbCM",
@@ -177,7 +841,35 @@
   },
   {
     "id": "m1fWzOZEbCM-286180",
-    "text": "Dragon Mai Mai Mai gitar oke",
+    "fragments": [
+      {
+        "word": "Dragon",
+        "meaning": "dragoon",
+        "freq": 290
+      },
+      {
+        "word": "Mai",
+        "freq": 21
+      },
+      {
+        "word": "Mai",
+        "freq": 21
+      },
+      {
+        "word": "Mai",
+        "freq": 21
+      },
+      {
+        "word": "gitar",
+        "meaning": "guitar",
+        "freq": 67
+      },
+      {
+        "word": "oke",
+        "meaning": "OK",
+        "freq": 14012
+      }
+    ],
     "start": 286,
     "end": 291,
     "video": "m1fWzOZEbCM",
@@ -185,7 +877,27 @@
   },
   {
     "id": "m1fWzOZEbCM-293640",
-    "text": "oke tapi takut Winx",
+    "fragments": [
+      {
+        "word": "oke",
+        "meaning": "OK",
+        "freq": 14012
+      },
+      {
+        "word": "tapi",
+        "meaning": "But",
+        "freq": 3584
+      },
+      {
+        "word": "takut",
+        "meaning": "Be afraid",
+        "freq": 512
+      },
+      {
+        "word": "Winx",
+        "freq": 0
+      }
+    ],
     "start": 293,
     "end": 298,
     "video": "m1fWzOZEbCM",
@@ -193,7 +905,42 @@
   },
   {
     "id": "m1fWzOZEbCM-304600",
-    "text": "Trans7 On The Ok kah itu value Maudy",
+    "fragments": [
+      {
+        "word": "Trans7",
+        "freq": 0
+      },
+      {
+        "word": "On",
+        "freq": 0
+      },
+      {
+        "word": "The",
+        "freq": 0
+      },
+      {
+        "word": "Ok",
+        "freq": 0
+      },
+      {
+        "word": "kah",
+        "meaning": "Idiolect, says to confirm things, \"ini kah?\" is this it ?",
+        "freq": 468
+      },
+      {
+        "word": "itu",
+        "meaning": "that, those",
+        "freq": 10635
+      },
+      {
+        "word": "value",
+        "freq": 12
+      },
+      {
+        "word": "Maudy",
+        "freq": 6
+      }
+    ],
     "start": 304,
     "end": 308,
     "video": "m1fWzOZEbCM",
@@ -201,7 +948,33 @@
   },
   {
     "id": "m1fWzOZEbCM-310990",
-    "text": "keju garis yang naik ke",
+    "fragments": [
+      {
+        "word": "keju",
+        "meaning": "cheese",
+        "freq": 69
+      },
+      {
+        "word": "garis",
+        "meaning": "line",
+        "freq": 18
+      },
+      {
+        "word": "yang",
+        "meaning": "that ~, which ~, the one",
+        "freq": 12092
+      },
+      {
+        "word": "naik",
+        "meaning": "Climb, go up, ride",
+        "freq": 848
+      },
+      {
+        "word": "ke",
+        "meaning": "to, towards",
+        "freq": 4098
+      }
+    ],
     "start": 310,
     "end": 315,
     "video": "m1fWzOZEbCM",
@@ -209,7 +982,26 @@
   },
   {
     "id": "m1fWzOZEbCM-315000",
-    "text": "Hai legging klik like",
+    "fragments": [
+      {
+        "word": "Hai",
+        "meaning": "hey",
+        "freq": 37254
+      },
+      {
+        "word": "legging",
+        "freq": 11
+      },
+      {
+        "word": "klik",
+        "meaning": "click",
+        "freq": 165
+      },
+      {
+        "word": "like",
+        "freq": 0
+      }
+    ],
     "start": 315,
     "end": 317,
     "video": "m1fWzOZEbCM",
@@ -217,7 +1009,32 @@
   },
   {
     "id": "m1fWzOZEbCM-317540",
-    "text": "Ya ampun Oh iya dong",
+    "fragments": [
+      {
+        "word": "Ya",
+        "meaning": "yes",
+        "freq": 24407
+      },
+      {
+        "word": "ampun",
+        "meaning": "Forgiveness",
+        "freq": 275
+      },
+      {
+        "word": "Oh",
+        "freq": 0
+      },
+      {
+        "word": "iya",
+        "meaning": "yeah",
+        "freq": 4708
+      },
+      {
+        "word": "dong",
+        "meaning": "(A mild way of emphasizing something, used at the end of a sentence)",
+        "freq": 1654
+      }
+    ],
     "start": 317,
     "end": 321,
     "video": "m1fWzOZEbCM",
@@ -225,7 +1042,40 @@
   },
   {
     "id": "m1fWzOZEbCM-322550",
-    "text": "ah Ono wae yo nomore happening banget",
+    "fragments": [
+      {
+        "word": "ah",
+        "freq": 0
+      },
+      {
+        "word": "Ono",
+        "meaning": "Ono",
+        "freq": 87
+      },
+      {
+        "word": "wae",
+        "meaning": "Wae",
+        "freq": 98
+      },
+      {
+        "word": "yo",
+        "meaning": "Yo",
+        "freq": 1822
+      },
+      {
+        "word": "nomore",
+        "freq": 0
+      },
+      {
+        "word": "happening",
+        "freq": 38
+      },
+      {
+        "word": "banget",
+        "meaning": "very, extremely",
+        "freq": 4213
+      }
+    ],
     "start": 322,
     "end": 326,
     "video": "m1fWzOZEbCM",
@@ -233,7 +1083,38 @@
   },
   {
     "id": "m1fWzOZEbCM-328689",
-    "text": "Hai intinya Kalian Dengar ku bernyanyi",
+    "fragments": [
+      {
+        "word": "Hai",
+        "meaning": "hey",
+        "freq": 37254
+      },
+      {
+        "word": "intinya",
+        "meaning": "the main thing is",
+        "freq": 50
+      },
+      {
+        "word": "Kalian",
+        "meaning": "you guys",
+        "freq": 4893
+      },
+      {
+        "word": "Dengar",
+        "meaning": "hear",
+        "freq": 157
+      },
+      {
+        "word": "ku",
+        "meaning": "my",
+        "freq": 231
+      },
+      {
+        "word": "bernyanyi",
+        "meaning": "chant, intone, intonate, cantillate",
+        "freq": 22
+      }
+    ],
     "start": 328,
     "end": 331,
     "video": "m1fWzOZEbCM",
@@ -241,7 +1122,27 @@
   },
   {
     "id": "m1fWzOZEbCM-331269",
-    "text": "aja ya oke eh",
+    "fragments": [
+      {
+        "word": "aja",
+        "meaning": "just",
+        "freq": 5574
+      },
+      {
+        "word": "ya",
+        "meaning": "yes",
+        "freq": 24407
+      },
+      {
+        "word": "oke",
+        "meaning": "OK",
+        "freq": 14012
+      },
+      {
+        "word": "eh",
+        "freq": 0
+      }
+    ],
     "start": 331,
     "end": 334,
     "video": "m1fWzOZEbCM",
@@ -249,7 +1150,43 @@
   },
   {
     "id": "m1fWzOZEbCM-334220",
-    "text": "Hai Kalian Dengar ku bernyanyi aja ya",
+    "fragments": [
+      {
+        "word": "Hai",
+        "meaning": "hey",
+        "freq": 37254
+      },
+      {
+        "word": "Kalian",
+        "meaning": "you guys",
+        "freq": 4893
+      },
+      {
+        "word": "Dengar",
+        "meaning": "hear",
+        "freq": 157
+      },
+      {
+        "word": "ku",
+        "meaning": "my",
+        "freq": 231
+      },
+      {
+        "word": "bernyanyi",
+        "meaning": "chant, intone, intonate, cantillate",
+        "freq": 22
+      },
+      {
+        "word": "aja",
+        "meaning": "just",
+        "freq": 5574
+      },
+      {
+        "word": "ya",
+        "meaning": "yes",
+        "freq": 24407
+      }
+    ],
     "start": 334,
     "end": 336,
     "video": "m1fWzOZEbCM",
@@ -257,7 +1194,41 @@
   },
   {
     "id": "m1fWzOZEbCM-336770",
-    "text": "jika Jason itu fokus something Oke nanti",
+    "fragments": [
+      {
+        "word": "jika",
+        "meaning": "in case, just in case",
+        "freq": 276
+      },
+      {
+        "word": "Jason",
+        "freq": 8
+      },
+      {
+        "word": "itu",
+        "meaning": "that, those",
+        "freq": 10635
+      },
+      {
+        "word": "fokus",
+        "meaning": "focus",
+        "freq": 186
+      },
+      {
+        "word": "something",
+        "freq": 0
+      },
+      {
+        "word": "Oke",
+        "meaning": "OK",
+        "freq": 14012
+      },
+      {
+        "word": "nanti",
+        "meaning": "Later, presently",
+        "freq": 2270
+      }
+    ],
     "start": 336,
     "end": 341,
     "video": "m1fWzOZEbCM",
@@ -265,7 +1236,35 @@
   },
   {
     "id": "m1fWzOZEbCM-345789",
-    "text": "Kyuhyun lagi Kak paragraf Cilacap orang",
+    "fragments": [
+      {
+        "word": "Kyuhyun",
+        "freq": 102
+      },
+      {
+        "word": "lagi",
+        "meaning": "again",
+        "freq": 6700
+      },
+      {
+        "word": "Kak",
+        "meaning": "Older sister or brother",
+        "freq": 410
+      },
+      {
+        "word": "paragraf",
+        "freq": 0
+      },
+      {
+        "word": "Cilacap",
+        "freq": 0
+      },
+      {
+        "word": "orang",
+        "meaning": "Person, one, people in general",
+        "freq": 1452
+      }
+    ],
     "start": 345,
     "end": 349,
     "video": "m1fWzOZEbCM",
@@ -273,7 +1272,28 @@
   },
   {
     "id": "m1fWzOZEbCM-351289",
-    "text": "Hai anak para kah",
+    "fragments": [
+      {
+        "word": "Hai",
+        "meaning": "hey",
+        "freq": 37254
+      },
+      {
+        "word": "anak",
+        "meaning": "child",
+        "freq": 324
+      },
+      {
+        "word": "para",
+        "meaning": "TYPX",
+        "freq": 225
+      },
+      {
+        "word": "kah",
+        "meaning": "Idiolect, says to confirm things, \"ini kah?\" is this it ?",
+        "freq": 468
+      }
+    ],
     "start": 351,
     "end": 353,
     "video": "m1fWzOZEbCM",
@@ -281,7 +1301,37 @@
   },
   {
     "id": "m1fWzOZEbCM-359090",
-    "text": "nyetok harusnya enggak enggak papa yang",
+    "fragments": [
+      {
+        "word": "nyetok",
+        "meaning": "Dress out",
+        "freq": 21
+      },
+      {
+        "word": "harusnya",
+        "meaning": "Should be",
+        "freq": 488
+      },
+      {
+        "word": "enggak",
+        "meaning": "no (Jakarta slang)",
+        "freq": 8184
+      },
+      {
+        "word": "enggak",
+        "meaning": "no (Jakarta slang)",
+        "freq": 8184
+      },
+      {
+        "word": "papa",
+        "freq": 0
+      },
+      {
+        "word": "yang",
+        "meaning": "that ~, which ~, the one",
+        "freq": 12092
+      }
+    ],
     "start": 359,
     "end": 361,
     "video": "m1fWzOZEbCM",
@@ -289,7 +1339,36 @@
   },
   {
     "id": "m1fWzOZEbCM-361160",
-    "text": "enggak masalah-masalah yang Hi Jata Hai",
+    "fragments": [
+      {
+        "word": "enggak",
+        "meaning": "no (Jakarta slang)",
+        "freq": 8184
+      },
+      {
+        "word": "masalah-masalah",
+        "freq": 0
+      },
+      {
+        "word": "yang",
+        "meaning": "that ~, which ~, the one",
+        "freq": 12092
+      },
+      {
+        "word": "Hi",
+        "freq": 0
+      },
+      {
+        "word": "Jata",
+        "meaning": "coat of arms, arms, blazon, blazonry",
+        "freq": 5
+      },
+      {
+        "word": "Hai",
+        "meaning": "hey",
+        "freq": 37254
+      }
+    ],
     "start": 361,
     "end": 365,
     "video": "m1fWzOZEbCM",
@@ -297,7 +1376,26 @@
   },
   {
     "id": "m1fWzOZEbCM-365270",
-    "text": "hai de ta iye",
+    "fragments": [
+      {
+        "word": "hai",
+        "meaning": "hey",
+        "freq": 37254
+      },
+      {
+        "word": "de",
+        "freq": 233
+      },
+      {
+        "word": "ta",
+        "meaning": "tantalum, ta, atomic number 73",
+        "freq": 141
+      },
+      {
+        "word": "iye",
+        "freq": 42
+      }
+    ],
     "start": 365,
     "end": 368,
     "video": "m1fWzOZEbCM",
@@ -305,7 +1403,33 @@
   },
   {
     "id": "m1fWzOZEbCM-368440",
-    "text": "dengerin aku nyanyi oke cetak",
+    "fragments": [
+      {
+        "word": "dengerin",
+        "meaning": "Listen",
+        "freq": 96
+      },
+      {
+        "word": "aku",
+        "meaning": "I",
+        "freq": 24581
+      },
+      {
+        "word": "nyanyi",
+        "meaning": "singing",
+        "freq": 236
+      },
+      {
+        "word": "oke",
+        "meaning": "OK",
+        "freq": 14012
+      },
+      {
+        "word": "cetak",
+        "meaning": "Print",
+        "freq": 173
+      }
+    ],
     "start": 368,
     "end": 371,
     "video": "m1fWzOZEbCM",
@@ -313,7 +1437,43 @@
   },
   {
     "id": "m1fWzOZEbCM-372620",
-    "text": "hehehe gimana Yang ada aku aku nelpon",
+    "fragments": [
+      {
+        "word": "hehehe",
+        "meaning": "laughing sound",
+        "freq": 1689
+      },
+      {
+        "word": "gimana",
+        "meaning": "How",
+        "freq": 3709
+      },
+      {
+        "word": "Yang",
+        "meaning": "that ~, which ~, the one",
+        "freq": 12092
+      },
+      {
+        "word": "ada",
+        "meaning": "there is, there are",
+        "freq": 10019
+      },
+      {
+        "word": "aku",
+        "meaning": "I",
+        "freq": 24581
+      },
+      {
+        "word": "aku",
+        "meaning": "I",
+        "freq": 24581
+      },
+      {
+        "word": "nelpon",
+        "meaning": "Call",
+        "freq": 61
+      }
+    ],
     "start": 372,
     "end": 375,
     "video": "m1fWzOZEbCM",
@@ -321,7 +1481,33 @@
   },
   {
     "id": "m1fWzOZEbCM-375780",
-    "text": "banget jadi mungkin untuk untuk",
+    "fragments": [
+      {
+        "word": "banget",
+        "meaning": "very, extremely",
+        "freq": 4213
+      },
+      {
+        "word": "jadi",
+        "meaning": "become, so, finished",
+        "freq": 4427
+      },
+      {
+        "word": "mungkin",
+        "meaning": "Possible",
+        "freq": 1268
+      },
+      {
+        "word": "untuk",
+        "meaning": "For, on behalf of, in order to",
+        "freq": 1517
+      },
+      {
+        "word": "untuk",
+        "meaning": "For, on behalf of, in order to",
+        "freq": 1517
+      }
+    ],
     "start": 375,
     "end": 378,
     "video": "m1fWzOZEbCM",
@@ -329,7 +1515,36 @@
   },
   {
     "id": "m1fWzOZEbCM-382760",
-    "text": "lagu-lagu jingle dulu kali ya enaknya",
+    "fragments": [
+      {
+        "word": "lagu-lagu",
+        "freq": 15
+      },
+      {
+        "word": "jingle",
+        "freq": 0
+      },
+      {
+        "word": "dulu",
+        "meaning": "previously, before",
+        "freq": 3809
+      },
+      {
+        "word": "kali",
+        "meaning": "Time",
+        "freq": 1184
+      },
+      {
+        "word": "ya",
+        "meaning": "yes",
+        "freq": 24407
+      },
+      {
+        "word": "enaknya",
+        "meaning": "Delicious",
+        "freq": 62
+      }
+    ],
     "start": 382,
     "end": 385,
     "video": "m1fWzOZEbCM",
@@ -337,7 +1552,28 @@
   },
   {
     "id": "m1fWzOZEbCM-393110",
-    "text": "kek mau nonton dulu",
+    "fragments": [
+      {
+        "word": "kek",
+        "meaning": "Laughing",
+        "freq": 276
+      },
+      {
+        "word": "mau",
+        "meaning": "want, wish",
+        "freq": 6936
+      },
+      {
+        "word": "nonton",
+        "meaning": "watch",
+        "freq": 538
+      },
+      {
+        "word": "dulu",
+        "meaning": "previously, before",
+        "freq": 3809
+      }
+    ],
     "start": 393,
     "end": 396,
     "video": "m1fWzOZEbCM",
@@ -345,7 +1581,38 @@
   },
   {
     "id": "m1fWzOZEbCM-397160",
-    "text": "aku anggap kalian gak ada ada",
+    "fragments": [
+      {
+        "word": "aku",
+        "meaning": "I",
+        "freq": 24581
+      },
+      {
+        "word": "anggap",
+        "meaning": "assume, presume, take for granted",
+        "freq": 52
+      },
+      {
+        "word": "kalian",
+        "meaning": "you guys",
+        "freq": 4893
+      },
+      {
+        "word": "gak",
+        "meaning": "no",
+        "freq": 1638
+      },
+      {
+        "word": "ada",
+        "meaning": "there is, there are",
+        "freq": 10019
+      },
+      {
+        "word": "ada",
+        "meaning": "there is, there are",
+        "freq": 10019
+      }
+    ],
     "start": 397,
     "end": 399,
     "video": "m1fWzOZEbCM",
@@ -353,7 +1620,33 @@
   },
   {
     "id": "m1fWzOZEbCM-405770",
-    "text": "sini sepi di ruang hampa",
+    "fragments": [
+      {
+        "word": "sini",
+        "meaning": "Here",
+        "freq": 3250
+      },
+      {
+        "word": "sepi",
+        "meaning": "quiet",
+        "freq": 80
+      },
+      {
+        "word": "di",
+        "meaning": "in, at, upon",
+        "freq": 8908
+      },
+      {
+        "word": "ruang",
+        "meaning": "room",
+        "freq": 97
+      },
+      {
+        "word": "hampa",
+        "meaning": "empty",
+        "freq": 35
+      }
+    ],
     "start": 405,
     "end": 409,
     "video": "m1fWzOZEbCM",
@@ -361,7 +1654,38 @@
   },
   {
     "id": "m1fWzOZEbCM-409640",
-    "text": "masalah datang dan pergi sudah biasa",
+    "fragments": [
+      {
+        "word": "masalah",
+        "meaning": "problem",
+        "freq": 237
+      },
+      {
+        "word": "datang",
+        "meaning": "come",
+        "freq": 342
+      },
+      {
+        "word": "dan",
+        "meaning": "and",
+        "freq": 2549
+      },
+      {
+        "word": "pergi",
+        "meaning": "go",
+        "freq": 347
+      },
+      {
+        "word": "sudah",
+        "meaning": "Already, past, last, all right, OK",
+        "freq": 1474
+      },
+      {
+        "word": "biasa",
+        "meaning": "normal",
+        "freq": 532
+      }
+    ],
     "start": 409,
     "end": 415,
     "video": "m1fWzOZEbCM",
@@ -369,7 +1693,28 @@
   },
   {
     "id": "m1fWzOZEbCM-415250",
-    "text": "sendiri lagi enggan untuk",
+    "fragments": [
+      {
+        "word": "sendiri",
+        "meaning": "Self, own, by yourself",
+        "freq": 766
+      },
+      {
+        "word": "lagi",
+        "meaning": "again",
+        "freq": 6700
+      },
+      {
+        "word": "enggan",
+        "meaning": "reluctant",
+        "freq": 45
+      },
+      {
+        "word": "untuk",
+        "meaning": "For, on behalf of, in order to",
+        "freq": 1517
+      }
+    ],
     "start": 415,
     "end": 419,
     "video": "m1fWzOZEbCM",
@@ -377,7 +1722,38 @@
   },
   {
     "id": "m1fWzOZEbCM-421040",
-    "text": "Kubuka mata menatap langit rintik hujan",
+    "fragments": [
+      {
+        "word": "Kubuka",
+        "meaning": "I opened",
+        "freq": 30
+      },
+      {
+        "word": "mata",
+        "meaning": "eye",
+        "freq": 282
+      },
+      {
+        "word": "menatap",
+        "meaning": "Staring",
+        "freq": 32
+      },
+      {
+        "word": "langit",
+        "meaning": "sky",
+        "freq": 50
+      },
+      {
+        "word": "rintik",
+        "meaning": "dribble, drip, drop",
+        "freq": 12
+      },
+      {
+        "word": "hujan",
+        "meaning": "rain",
+        "freq": 329
+      }
+    ],
     "start": 421,
     "end": 426,
     "video": "m1fWzOZEbCM",
@@ -385,7 +1761,36 @@
   },
   {
     "id": "m1fWzOZEbCM-426230",
-    "text": "bergema genangi bantala NASA dan membisu",
+    "fragments": [
+      {
+        "word": "bergema",
+        "meaning": "echo",
+        "freq": 17
+      },
+      {
+        "word": "genangi",
+        "meaning": "Call",
+        "freq": 13
+      },
+      {
+        "word": "bantala",
+        "meaning": "Bantala",
+        "freq": 8
+      },
+      {
+        "word": "NASA",
+        "freq": 10
+      },
+      {
+        "word": "dan",
+        "meaning": "and",
+        "freq": 2549
+      },
+      {
+        "word": "membisu",
+        "freq": 0
+      }
+    ],
     "start": 426,
     "end": 431,
     "video": "m1fWzOZEbCM",
@@ -393,7 +1798,33 @@
   },
   {
     "id": "m1fWzOZEbCM-431830",
-    "text": "Hai ayo telah dah hidungnya",
+    "fragments": [
+      {
+        "word": "Hai",
+        "meaning": "hey",
+        "freq": 37254
+      },
+      {
+        "word": "ayo",
+        "meaning": "Let's go, come on",
+        "freq": 2368
+      },
+      {
+        "word": "telah",
+        "meaning": "has",
+        "freq": 193
+      },
+      {
+        "word": "dah",
+        "meaning": "done, bye",
+        "freq": 608
+      },
+      {
+        "word": "hidungnya",
+        "meaning": "His nose",
+        "freq": 15
+      }
+    ],
     "start": 431,
     "end": 434,
     "video": "m1fWzOZEbCM",
@@ -401,7 +1832,38 @@
   },
   {
     "id": "m1fWzOZEbCM-436620",
-    "text": "melamun dan berbagai angan tak akan",
+    "fragments": [
+      {
+        "word": "melamun",
+        "meaning": "blank, vacuous",
+        "freq": 9
+      },
+      {
+        "word": "dan",
+        "meaning": "and",
+        "freq": 2549
+      },
+      {
+        "word": "berbagai",
+        "meaning": "divers(a), diverse",
+        "freq": 35
+      },
+      {
+        "word": "angan",
+        "meaning": "think, cogitate, cerebrate",
+        "freq": 14
+      },
+      {
+        "word": "tak",
+        "meaning": "No, not",
+        "freq": 822
+      },
+      {
+        "word": "akan",
+        "meaning": "Will, about to, about, regarding",
+        "freq": 982
+      }
+    ],
     "start": 436,
     "end": 440,
     "video": "m1fWzOZEbCM",
@@ -409,7 +1871,28 @@
   },
   {
     "id": "m1fWzOZEbCM-443910",
-    "text": "melarikan diri untuk melangkah",
+    "fragments": [
+      {
+        "word": "melarikan",
+        "meaning": "kidnap, nobble, abduct, snatch",
+        "freq": 5
+      },
+      {
+        "word": "diri",
+        "meaning": "self",
+        "freq": 228
+      },
+      {
+        "word": "untuk",
+        "meaning": "For, on behalf of, in order to",
+        "freq": 1517
+      },
+      {
+        "word": "melangkah",
+        "meaning": "Stepping",
+        "freq": 49
+      }
+    ],
     "start": 443,
     "end": 447,
     "video": "m1fWzOZEbCM",
@@ -417,7 +1900,38 @@
   },
   {
     "id": "m1fWzOZEbCM-455400",
-    "text": "walau Hujan tak kunjung berhenti masih",
+    "fragments": [
+      {
+        "word": "walau",
+        "meaning": "although",
+        "freq": 56
+      },
+      {
+        "word": "Hujan",
+        "meaning": "rain",
+        "freq": 329
+      },
+      {
+        "word": "tak",
+        "meaning": "No, not",
+        "freq": 822
+      },
+      {
+        "word": "kunjung",
+        "meaning": "visit",
+        "freq": 46
+      },
+      {
+        "word": "berhenti",
+        "meaning": "stop",
+        "freq": 170
+      },
+      {
+        "word": "masih",
+        "meaning": "Still, yet",
+        "freq": 2087
+      }
+    ],
     "start": 455,
     "end": 459,
     "video": "m1fWzOZEbCM",
@@ -425,7 +1939,41 @@
   },
   {
     "id": "m1fWzOZEbCM-459670",
-    "text": "ada kubu temanmu di sini hafalkan mantra",
+    "fragments": [
+      {
+        "word": "ada",
+        "meaning": "there is, there are",
+        "freq": 10019
+      },
+      {
+        "word": "kubu",
+        "meaning": "Stronghold, team",
+        "freq": 276
+      },
+      {
+        "word": "temanmu",
+        "freq": 7
+      },
+      {
+        "word": "di",
+        "meaning": "in, at, upon",
+        "freq": 8908
+      },
+      {
+        "word": "sini",
+        "meaning": "Here",
+        "freq": 3250
+      },
+      {
+        "word": "hafalkan",
+        "freq": 12
+      },
+      {
+        "word": "mantra",
+        "meaning": "Mantra",
+        "freq": 51
+      }
+    ],
     "start": 459,
     "end": 464,
     "video": "m1fWzOZEbCM",
@@ -433,7 +1981,26 @@
   },
   {
     "id": "m1fWzOZEbCM-464730",
-    "text": "ratakan cahaya tersinari hari-harimu",
+    "fragments": [
+      {
+        "word": "ratakan",
+        "freq": 0
+      },
+      {
+        "word": "cahaya",
+        "meaning": "light",
+        "freq": 75
+      },
+      {
+        "word": "tersinari",
+        "freq": 5
+      },
+      {
+        "word": "hari-harimu",
+        "meaning": "Your days",
+        "freq": 36
+      }
+    ],
     "start": 464,
     "end": 470,
     "video": "m1fWzOZEbCM",
@@ -441,7 +2008,38 @@
   },
   {
     "id": "m1fWzOZEbCM-470850",
-    "text": "Hilangkan semua rasa ragu yang selimuti",
+    "fragments": [
+      {
+        "word": "Hilangkan",
+        "meaning": "Remove it",
+        "freq": 46
+      },
+      {
+        "word": "semua",
+        "meaning": "All",
+        "freq": 2094
+      },
+      {
+        "word": "rasa",
+        "meaning": "flavor",
+        "freq": 133
+      },
+      {
+        "word": "ragu",
+        "meaning": "doubt",
+        "freq": 41
+      },
+      {
+        "word": "yang",
+        "meaning": "that ~, which ~, the one",
+        "freq": 12092
+      },
+      {
+        "word": "selimuti",
+        "meaning": "Selimuti",
+        "freq": 24
+      }
+    ],
     "start": 470,
     "end": 475,
     "video": "m1fWzOZEbCM",
@@ -449,7 +2047,28 @@
   },
   {
     "id": "m1fWzOZEbCM-475330",
-    "text": "hati pikiran dan emosi",
+    "fragments": [
+      {
+        "word": "hati",
+        "meaning": "liver, \"hati-hati\" means careful",
+        "freq": 248
+      },
+      {
+        "word": "pikiran",
+        "meaning": "thought",
+        "freq": 59
+      },
+      {
+        "word": "dan",
+        "meaning": "and",
+        "freq": 2549
+      },
+      {
+        "word": "emosi",
+        "meaning": "emotion",
+        "freq": 72
+      }
+    ],
     "start": 475,
     "end": 478,
     "video": "m1fWzOZEbCM",
@@ -457,7 +2076,32 @@
   },
   {
     "id": "m1fWzOZEbCM-479700",
-    "text": "mendatangkan cahaya buka lembaran yang",
+    "fragments": [
+      {
+        "word": "mendatangkan",
+        "meaning": "causal agent, cause, causal agency",
+        "freq": 8
+      },
+      {
+        "word": "cahaya",
+        "meaning": "light",
+        "freq": 75
+      },
+      {
+        "word": "buka",
+        "meaning": "open",
+        "freq": 435
+      },
+      {
+        "word": "lembaran",
+        "freq": 17
+      },
+      {
+        "word": "yang",
+        "meaning": "that ~, which ~, the one",
+        "freq": 12092
+      }
+    ],
     "start": 479,
     "end": 483,
     "video": "m1fWzOZEbCM",
@@ -465,7 +2109,51 @@
   },
   {
     "id": "m1fWzOZEbCM-487729",
-    "text": "hai oke hahaha ye ye susah itu buat SY",
+    "fragments": [
+      {
+        "word": "hai",
+        "meaning": "hey",
+        "freq": 37254
+      },
+      {
+        "word": "oke",
+        "meaning": "OK",
+        "freq": 14012
+      },
+      {
+        "word": "hahaha",
+        "freq": 0
+      },
+      {
+        "word": "ye",
+        "meaning": "Yes",
+        "freq": 141
+      },
+      {
+        "word": "ye",
+        "meaning": "Yes",
+        "freq": 141
+      },
+      {
+        "word": "susah",
+        "meaning": "difficult",
+        "freq": 692
+      },
+      {
+        "word": "itu",
+        "meaning": "that, those",
+        "freq": 10635
+      },
+      {
+        "word": "buat",
+        "meaning": "Do, make, create, for",
+        "freq": 1522
+      },
+      {
+        "word": "SY",
+        "freq": 15
+      }
+    ],
     "start": 487,
     "end": 492,
     "video": "m1fWzOZEbCM",
@@ -473,7 +2161,48 @@
   },
   {
     "id": "m1fWzOZEbCM-492409",
-    "text": "anak Enggak emang lagi awal Ntar aja iya",
+    "fragments": [
+      {
+        "word": "anak",
+        "meaning": "child",
+        "freq": 324
+      },
+      {
+        "word": "Enggak",
+        "meaning": "no (Jakarta slang)",
+        "freq": 8184
+      },
+      {
+        "word": "emang",
+        "meaning": "Indeed",
+        "freq": 1342
+      },
+      {
+        "word": "lagi",
+        "meaning": "again",
+        "freq": 6700
+      },
+      {
+        "word": "awal",
+        "meaning": "beginning",
+        "freq": 189
+      },
+      {
+        "word": "Ntar",
+        "meaning": "later",
+        "freq": 566
+      },
+      {
+        "word": "aja",
+        "meaning": "just",
+        "freq": 5574
+      },
+      {
+        "word": "iya",
+        "meaning": "yeah",
+        "freq": 4708
+      }
+    ],
     "start": 492,
     "end": 497,
     "video": "m1fWzOZEbCM",
@@ -481,7 +2210,37 @@
   },
   {
     "id": "m1fWzOZEbCM-497629",
-    "text": "ampun Astaga langsung ini gunung lirih",
+    "fragments": [
+      {
+        "word": "ampun",
+        "meaning": "Forgiveness",
+        "freq": 275
+      },
+      {
+        "word": "Astaga",
+        "meaning": "good grief",
+        "freq": 319
+      },
+      {
+        "word": "langsung",
+        "meaning": "Direct, straight, immediately",
+        "freq": 904
+      },
+      {
+        "word": "ini",
+        "meaning": "this",
+        "freq": 15949
+      },
+      {
+        "word": "gunung",
+        "meaning": "Mountain",
+        "freq": 41
+      },
+      {
+        "word": "lirih",
+        "freq": 0
+      }
+    ],
     "start": 497,
     "end": 501,
     "video": "m1fWzOZEbCM",
@@ -489,7 +2248,26 @@
   },
   {
     "id": "m1fWzOZEbCM-501249",
-    "text": "Aduh Tuhan oh oh",
+    "fragments": [
+      {
+        "word": "Aduh",
+        "meaning": "Ouch!, ow!",
+        "freq": 2704
+      },
+      {
+        "word": "Tuhan",
+        "meaning": "lord",
+        "freq": 100
+      },
+      {
+        "word": "oh",
+        "freq": 0
+      },
+      {
+        "word": "oh",
+        "freq": 0
+      }
+    ],
     "start": 501,
     "end": 505,
     "video": "m1fWzOZEbCM",
@@ -497,7 +2275,27 @@
   },
   {
     "id": "m1fWzOZEbCM-514390",
-    "text": "bandar66 Masih lancar masih",
+    "fragments": [
+      {
+        "word": "bandar66",
+        "freq": 0
+      },
+      {
+        "word": "Masih",
+        "meaning": "Still, yet",
+        "freq": 2087
+      },
+      {
+        "word": "lancar",
+        "meaning": "fluent",
+        "freq": 116
+      },
+      {
+        "word": "masih",
+        "meaning": "Still, yet",
+        "freq": 2087
+      }
+    ],
     "start": 514,
     "end": 517,
     "video": "m1fWzOZEbCM",
@@ -505,7 +2303,32 @@
   },
   {
     "id": "m1fWzOZEbCM-517529",
-    "text": "halo halo wek Oh mereka",
+    "fragments": [
+      {
+        "word": "halo",
+        "meaning": "Hello",
+        "freq": 1869
+      },
+      {
+        "word": "halo",
+        "meaning": "Hello",
+        "freq": 1869
+      },
+      {
+        "word": "wek",
+        "meaning": "Expression of disgust",
+        "freq": 130
+      },
+      {
+        "word": "Oh",
+        "freq": 0
+      },
+      {
+        "word": "mereka",
+        "meaning": "Their, them, they",
+        "freq": 888
+      }
+    ],
     "start": 517,
     "end": 520,
     "video": "m1fWzOZEbCM",
@@ -513,7 +2336,32 @@
   },
   {
     "id": "m1fWzOZEbCM-520789",
-    "text": "Woi Twin net toko ngelag",
+    "fragments": [
+      {
+        "word": "Woi",
+        "meaning": "Woi \"used when calling someone you are familiar\"",
+        "freq": 738
+      },
+      {
+        "word": "Twin",
+        "freq": 23
+      },
+      {
+        "word": "net",
+        "meaning": "net",
+        "freq": 70
+      },
+      {
+        "word": "toko",
+        "meaning": "shop",
+        "freq": 112
+      },
+      {
+        "word": "ngelag",
+        "meaning": "Ngelag",
+        "freq": 138
+      }
+    ],
     "start": 520,
     "end": 526,
     "video": "m1fWzOZEbCM",
@@ -521,7 +2369,47 @@
   },
   {
     "id": "m1fWzOZEbCM-538490",
-    "text": "Halo Pak Prapto rasanya ada loh Hai hah",
+    "fragments": [
+      {
+        "word": "Halo",
+        "meaning": "Hello",
+        "freq": 1869
+      },
+      {
+        "word": "Pak",
+        "meaning": "Sir",
+        "freq": 528
+      },
+      {
+        "word": "Prapto",
+        "freq": 0
+      },
+      {
+        "word": "rasanya",
+        "meaning": "it feels like",
+        "freq": 131
+      },
+      {
+        "word": "ada",
+        "meaning": "there is, there are",
+        "freq": 10019
+      },
+      {
+        "word": "loh",
+        "meaning": "You (Jakarta slank), loh can also mean similar to \"huh ?\"",
+        "freq": 1308
+      },
+      {
+        "word": "Hai",
+        "meaning": "hey",
+        "freq": 37254
+      },
+      {
+        "word": "hah",
+        "meaning": "huh",
+        "freq": 1229
+      }
+    ],
     "start": 538,
     "end": 543,
     "video": "m1fWzOZEbCM",
@@ -529,7 +2417,40 @@
   },
   {
     "id": "m1fWzOZEbCM-543910",
-    "text": "I am oke oke om otomate setengah",
+    "fragments": [
+      {
+        "word": "I",
+        "freq": 0
+      },
+      {
+        "word": "am",
+        "freq": 0
+      },
+      {
+        "word": "oke",
+        "meaning": "OK",
+        "freq": 14012
+      },
+      {
+        "word": "oke",
+        "meaning": "OK",
+        "freq": 14012
+      },
+      {
+        "word": "om",
+        "meaning": "Uncle",
+        "freq": 863
+      },
+      {
+        "word": "otomate",
+        "freq": 11
+      },
+      {
+        "word": "setengah",
+        "meaning": "half",
+        "freq": 169
+      }
+    ],
     "start": 543,
     "end": 549,
     "video": "m1fWzOZEbCM",
@@ -537,7 +2458,27 @@
   },
   {
     "id": "m1fWzOZEbCM-549030",
-    "text": "Hai Kayaknya aku eh",
+    "fragments": [
+      {
+        "word": "Hai",
+        "meaning": "hey",
+        "freq": 37254
+      },
+      {
+        "word": "Kayaknya",
+        "meaning": "maybe",
+        "freq": 999
+      },
+      {
+        "word": "aku",
+        "meaning": "I",
+        "freq": 24581
+      },
+      {
+        "word": "eh",
+        "freq": 0
+      }
+    ],
     "start": 549,
     "end": 552,
     "video": "m1fWzOZEbCM",
@@ -545,7 +2486,47 @@
   },
   {
     "id": "m1fWzOZEbCM-554699",
-    "text": "ini aku ini aku dessert aja ya ntar",
+    "fragments": [
+      {
+        "word": "ini",
+        "meaning": "this",
+        "freq": 15949
+      },
+      {
+        "word": "aku",
+        "meaning": "I",
+        "freq": 24581
+      },
+      {
+        "word": "ini",
+        "meaning": "this",
+        "freq": 15949
+      },
+      {
+        "word": "aku",
+        "meaning": "I",
+        "freq": 24581
+      },
+      {
+        "word": "dessert",
+        "freq": 0
+      },
+      {
+        "word": "aja",
+        "meaning": "just",
+        "freq": 5574
+      },
+      {
+        "word": "ya",
+        "meaning": "yes",
+        "freq": 24407
+      },
+      {
+        "word": "ntar",
+        "meaning": "later",
+        "freq": 566
+      }
+    ],
     "start": 554,
     "end": 559,
     "video": "m1fWzOZEbCM",
@@ -553,7 +2534,31 @@
   },
   {
     "id": "m1fWzOZEbCM-565090",
-    "text": "aduh ini tristatus William Oke",
+    "fragments": [
+      {
+        "word": "aduh",
+        "meaning": "Ouch!, ow!",
+        "freq": 2704
+      },
+      {
+        "word": "ini",
+        "meaning": "this",
+        "freq": 15949
+      },
+      {
+        "word": "tristatus",
+        "freq": 0
+      },
+      {
+        "word": "William",
+        "freq": 14
+      },
+      {
+        "word": "Oke",
+        "meaning": "OK",
+        "freq": 14012
+      }
+    ],
     "start": 565,
     "end": 568,
     "video": "m1fWzOZEbCM",
@@ -561,7 +2566,35 @@
   },
   {
     "id": "m1fWzOZEbCM-568900",
-    "text": "enten-enten cedera ini trust me I'm",
+    "fragments": [
+      {
+        "word": "enten-enten",
+        "freq": 0
+      },
+      {
+        "word": "cedera",
+        "meaning": "hurt",
+        "freq": 7
+      },
+      {
+        "word": "ini",
+        "meaning": "this",
+        "freq": 15949
+      },
+      {
+        "word": "trust",
+        "meaning": "Trust",
+        "freq": 146
+      },
+      {
+        "word": "me",
+        "freq": 0
+      },
+      {
+        "word": "I'm",
+        "freq": 0
+      }
+    ],
     "start": 568,
     "end": 571,
     "video": "m1fWzOZEbCM",
@@ -569,7 +2602,43 @@
   },
   {
     "id": "m1fWzOZEbCM-576850",
-    "text": "another for Twin Ya I'm sorry oke om",
+    "fragments": [
+      {
+        "word": "another",
+        "freq": 0
+      },
+      {
+        "word": "for",
+        "freq": 0
+      },
+      {
+        "word": "Twin",
+        "freq": 23
+      },
+      {
+        "word": "Ya",
+        "meaning": "yes",
+        "freq": 24407
+      },
+      {
+        "word": "I'm",
+        "freq": 0
+      },
+      {
+        "word": "sorry",
+        "freq": 0
+      },
+      {
+        "word": "oke",
+        "meaning": "OK",
+        "freq": 14012
+      },
+      {
+        "word": "om",
+        "meaning": "Uncle",
+        "freq": 863
+      }
+    ],
     "start": 576,
     "end": 583,
     "video": "m1fWzOZEbCM",
@@ -577,7 +2646,36 @@
   },
   {
     "id": "m1fWzOZEbCM-588310",
-    "text": "lagi with Anto tinggal yang sangat",
+    "fragments": [
+      {
+        "word": "lagi",
+        "meaning": "again",
+        "freq": 6700
+      },
+      {
+        "word": "with",
+        "freq": 0
+      },
+      {
+        "word": "Anto",
+        "freq": 10
+      },
+      {
+        "word": "tinggal",
+        "meaning": "Live, stay, remain, be left",
+        "freq": 508
+      },
+      {
+        "word": "yang",
+        "meaning": "that ~, which ~, the one",
+        "freq": 12092
+      },
+      {
+        "word": "sangat",
+        "meaning": "very",
+        "freq": 771
+      }
+    ],
     "start": 588,
     "end": 591,
     "video": "m1fWzOZEbCM",
@@ -585,7 +2683,28 @@
   },
   {
     "id": "m1fWzOZEbCM-603070",
-    "text": "hai oke oke om",
+    "fragments": [
+      {
+        "word": "hai",
+        "meaning": "hey",
+        "freq": 37254
+      },
+      {
+        "word": "oke",
+        "meaning": "OK",
+        "freq": 14012
+      },
+      {
+        "word": "oke",
+        "meaning": "OK",
+        "freq": 14012
+      },
+      {
+        "word": "om",
+        "meaning": "Uncle",
+        "freq": 863
+      }
+    ],
     "start": 603,
     "end": 605,
     "video": "m1fWzOZEbCM",
@@ -593,7 +2712,37 @@
   },
   {
     "id": "m1fWzOZEbCM-605190",
-    "text": "sok-sokan itu Resort make me change the",
+    "fragments": [
+      {
+        "word": "sok-sokan",
+        "freq": 9
+      },
+      {
+        "word": "itu",
+        "meaning": "that, those",
+        "freq": 10635
+      },
+      {
+        "word": "Resort",
+        "freq": 19
+      },
+      {
+        "word": "make",
+        "freq": 0
+      },
+      {
+        "word": "me",
+        "freq": 0
+      },
+      {
+        "word": "change",
+        "freq": 0
+      },
+      {
+        "word": "the",
+        "freq": 0
+      }
+    ],
     "start": 605,
     "end": 609,
     "video": "m1fWzOZEbCM",

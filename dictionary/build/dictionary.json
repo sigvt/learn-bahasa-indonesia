@@ -144,7 +144,7 @@
     "frequency": 3536
   },
   "tapi": {
-    "meaning": "But",
+    "meaning": "but",
     "frequency": 3584
   },
   "nah": {
@@ -160,27 +160,27 @@
     "frequency": 3250
   },
   "dari": {
-    "meaning": "From, out of, starting from or at, than",
+    "meaning": "from, out of, starting from or at, than",
     "frequency": 2815
   },
   "jangan": {
-    "meaning": "Do not, should not",
+    "meaning": "do not, should not",
     "frequency": 2822
   },
   "terus": {
-    "meaning": "Direct, straight, immediately, continue, keep on, next, then",
+    "meaning": "direct, straight, immediately, continue, keep on, next, then",
     "frequency": 2698
   },
   "mana": {
-    "meaning": "Where, which, how, what kind",
+    "meaning": "where, which, how",
     "frequency": 2872
   },
   "aduh": {
-    "meaning": "Ouch!, ow!",
+    "meaning": "ouch!, ow!",
     "frequency": 2704
   },
   "kenapa": {
-    "meaning": "Why",
+    "meaning": "why",
     "frequency": 2518
   },
   "dan": {
@@ -192,35 +192,35 @@
     "meaning": "Idiolect, shuttlecock, bird, birdie, shuttle"
   },
   "kau": {
-    "meaning": "You, thee, thou",
+    "meaning": "you, thee, thou",
     "frequency": 2543
   },
   "sama": {
-    "meaning": "Same, equal",
+    "meaning": "same, equal",
     "frequency": 2500
   },
   "harus": {
-    "meaning": "Have to, must",
+    "meaning": "have to, must",
     "frequency": 2254
   },
   "kasih": {
-    "meaning": "Love, affection",
+    "meaning": "love, affection",
     "frequency": 2152
   },
   "ayo": {
-    "meaning": "Let's go, come on",
+    "meaning": "let's go, come on",
     "frequency": 2368
   },
   "dia": {
-    "meaning": "She, her, he, him",
+    "meaning": "she, her, he, him",
     "frequency": 2111
   },
   "bukan": {
-    "meaning": "Not, no (with nouns, pronouns)",
+    "meaning": "not, no (with nouns, pronouns)",
     "frequency": 2242
   },
   "nanti": {
-    "meaning": "Later, presently",
+    "meaning": "later, presently",
     "frequency": 2270
   },
   "tidak": {
@@ -228,55 +228,55 @@
     "meaning": "not, non"
   },
   "semua": {
-    "meaning": "All",
+    "meaning": "all",
     "frequency": 2094
   },
   "masih": {
-    "meaning": "Still, yet",
+    "meaning": "still, yet",
     "frequency": 2087
   },
   "pakai": {
-    "meaning": "By means of, with, wear",
+    "meaning": "by means of, with, wear",
     "frequency": 2137
   },
   "saya": {
-    "meaning": "I, me",
+    "meaning": "I",
     "frequency": 1851
   },
   "coba": {
-    "meaning": "Attempt, try",
+    "meaning": "try",
     "frequency": 1810
   },
   "belum": {
-    "meaning": "Not yet",
+    "meaning": "not yet",
     "frequency": 1904
   },
   "halo": {
-    "meaning": "Hello",
+    "meaning": "hello",
     "frequency": 1869
   },
   "punya": {
-    "meaning": "Have, possess",
+    "meaning": "have, possess",
     "frequency": 1832
   },
   "nya": {
-    "meaning": "Her, his, its (suffix)",
+    "meaning": "her, his, its (suffix)",
     "frequency": 1690
   },
   "bikin": {
-    "meaning": "Cause, make",
+    "meaning": "cause, make",
     "frequency": 1599
   },
   "karena": {
-    "meaning": "Because, since",
+    "meaning": "because, since",
     "frequency": 1671
   },
   "satu": {
-    "meaning": "One",
+    "meaning": "one",
     "frequency": 1615
   },
   "mati": {
-    "meaning": "Be dead, die, go out, stop, fixed",
+    "meaning": "be dead, die, go out, stop, fixed",
     "frequency": 1588
   },
   "gak": {
@@ -293,14 +293,14 @@
   },
   "yo": {
     "frequency": 1822,
-    "meaning": "Yo"
+    "meaning": "yo"
   },
   "siapa": {
-    "meaning": "Who, whose, whom",
+    "meaning": "who, whose, whom",
     "frequency": 1606
   },
   "lebih": {
-    "meaning": "More, more than",
+    "meaning": "more, more than",
     "frequency": 1565
   },
   "dong": {
@@ -309,66 +309,66 @@
   },
   "atau": {
     "frequency": 1512,
-    "meaning": "alias, a.k.a., also known as"
+    "meaning": "or"
   },
   "banyak": {
-    "meaning": "A lot of, many, much",
+    "meaning": "many, a lot of, much",
     "frequency": 1453
   },
   "buat": {
-    "meaning": "Do, make, create, for",
+    "meaning": "do, make, create",
     "frequency": 1522
   },
   "untuk": {
-    "meaning": "For, on behalf of, in order to",
+    "meaning": "for, on behalf of, in order to",
     "frequency": 1517
   },
   "orang": {
-    "meaning": "Person, one, people in general",
+    "meaning": "person, one, people in general",
     "frequency": 1452
   },
   "boleh": {
-    "meaning": "Can, be able, may",
+    "meaning": "may, can, be able",
     "frequency": 1447
   },
   "sekarang": {
-    "meaning": "Now, nowadays",
+    "meaning": "now, nowadays",
     "frequency": 1357
   },
   "sudah": {
-    "meaning": "Already, past, last, all right, OK",
+    "meaning": "already, past, last, all right",
     "frequency": 1474
   },
   "ni": {
     "frequency": 1087,
-    "meaning": "nickel, ni, atomic number 28"
+    "meaning": ""
   },
   "emang": {
-    "meaning": "Indeed",
+    "meaning": "indeed",
     "frequency": 1342
   },
   "loh": {
-    "meaning": "You (Jakarta slank), loh can also mean similar to \"huh ?\"",
+    "meaning": "you (Jakarta slang), loh can also mean similar to 'huh?'",
     "frequency": 1308
   },
   "mungkin": {
-    "meaning": "Possible",
+    "meaning": "possible",
     "frequency": 1268
   },
   "sampai": {
-    "meaning": "As far as, till, until, arrive",
+    "meaning": "until, till, as far as, arrive",
     "frequency": 1324
   },
   "terima": {
-    "meaning": "Acceptance",
+    "meaning": "acceptance of",
     "frequency": 1178
   },
   "lah": {
-    "meaning": "(Suggesting action, showing agreement) (suffix)",
+    "meaning": "(suggesting action, showing agreement, suffix)",
     "frequency": 1276
   },
   "lihat": {
-    "meaning": "See, refer to",
+    "meaning": "see, refer to",
     "frequency": 1384
   },
   "makasih": {
@@ -376,15 +376,15 @@
     "frequency": 1435
   },
   "cuma": {
-    "meaning": "Merely, only, but",
+    "meaning": "merely, only, but",
     "frequency": 1255
   },
   "makan": {
-    "meaning": "Eat",
+    "meaning": "eat",
     "frequency": 1233
   },
   "butuh": {
-    "meaning": "Need",
+    "meaning": "need",
     "frequency": 1152
   },
   "hah": {
@@ -392,19 +392,19 @@
     "frequency": 1229
   },
   "salah": {
-    "meaning": "Fault, mistake, wrong",
+    "meaning": "fault, mistake, wrong",
     "frequency": 1082
   },
   "maaf": {
-    "meaning": "Excuse, forgive, pardon, ask permission to leave",
+    "meaning": "sorry, excuse, forgive, pardon, ask permission to leave",
     "frequency": 1123
   },
   "suka": {
-    "meaning": "Like, be fond of, joy, pleasure",
+    "meaning": "like, be fond of, joy, pleasure",
     "frequency": 1194
   },
   "kali": {
-    "meaning": "Time",
+    "meaning": "time",
     "frequency": 1184
   },
   "gini": {
@@ -412,15 +412,15 @@
     "frequency": 1146
   },
   "baru": {
-    "meaning": "New, recent, only then, not until, to be about to",
+    "meaning": "new, recent, only then, not until, to be about to",
     "frequency": 1068
   },
   "dengan": {
-    "meaning": "With, and, by, using",
+    "meaning": "with, by, using",
     "frequency": 1059
   },
   "paling": {
-    "meaning": "The most",
+    "meaning": "the most",
     "frequency": 905
   },
   "bentar": {
@@ -428,15 +428,15 @@
     "frequency": 1000
   },
   "apa-apa": {
-    "meaning": "What's the matter?",
+    "meaning": "what's the matter?",
     "frequency": 1039
   },
   "hari": {
-    "meaning": "Day",
+    "meaning": "day",
     "frequency": 980
   },
   "soalnya": {
-    "meaning": "The thing is ~",
+    "meaning": "the thing is ~",
     "frequency": 1015
   },
   "kayaknya": {
@@ -444,7 +444,7 @@
     "frequency": 999
   },
   "biar": {
-    "meaning": "Let, permit, so that, although",
+    "meaning": "let, permit, so that, although",
     "frequency": 972
   },
   "gila": {
@@ -452,15 +452,15 @@
     "frequency": 960
   },
   "akan": {
-    "meaning": "Will, about to, about, regarding",
+    "meaning": "will, about to, about, regarding",
     "frequency": 982
   },
   "sekali": {
-    "meaning": "Very, absolutely",
+    "meaning": "very, absolutely",
     "frequency": 955
   },
   "langsung": {
-    "meaning": "Direct, straight, immediately",
+    "meaning": "direct, straight, immediately",
     "frequency": 904
   },
   "ngasih": {
@@ -468,7 +468,7 @@
     "frequency": 933
   },
   "pernah": {
-    "meaning": "Ever, once",
+    "meaning": "ever, once",
     "frequency": 888
   },
   "mo": {
@@ -480,15 +480,15 @@
     "frequency": 908
   },
   "naik": {
-    "meaning": "Climb, go up, ride",
+    "meaning": "climb, go up, ride",
     "frequency": 848
   },
   "habis": {
-    "meaning": "Finished, end, after that, then, completely, entirely",
+    "meaning": "finished, end, after that, then, completely, entirely",
     "frequency": 889
   },
   "tidur": {
-    "meaning": "Sleep, go to sleep",
+    "meaning": "sleep, go to sleep",
     "frequency": 878
   },
   "indonesia": {
@@ -496,11 +496,11 @@
     "frequency": 934
   },
   "bagus": {
-    "meaning": "Beautiful, fine",
+    "meaning": "beautiful, fine",
     "frequency": 825
   },
   "baca": {
-    "meaning": "To read",
+    "meaning": "read",
     "frequency": 767
   },
   "disini": {
@@ -508,23 +508,23 @@
     "frequency": 866
   },
   "memang": {
-    "meaning": "You're right, that's true, indeed",
+    "meaning": "you're right, that's true, indeed",
     "frequency": 857
   },
   "tak": {
-    "meaning": "No, not",
+    "meaning": "no, not",
     "frequency": 822
   },
   "sendiri": {
-    "meaning": "Self, own, by yourself",
+    "meaning": "own, by yourself",
     "frequency": 766
   },
   "namanya": {
-    "meaning": "Her/his name",
+    "meaning": "her/his name (nama with -nya)",
     "frequency": 853
   },
   "om": {
-    "meaning": "Uncle",
+    "meaning": "uncle",
     "frequency": 863
   },
   "ngapain": {
@@ -532,11 +532,11 @@
     "frequency": 843
   },
   "begitu": {
-    "meaning": "Like that, so, very, as soon as",
+    "meaning": "like that, so, very, as soon as",
     "frequency": 783
   },
   "tolong": {
-    "meaning": "Help, please",
+    "meaning": "help, please",
     "frequency": 701
   },
   "maksudnya": {
@@ -544,19 +544,19 @@
     "frequency": 756
   },
   "semuanya": {
-    "meaning": "Of it/them all",
+    "meaning": "of it/them all",
     "frequency": 779
   },
   "sabar": {
-    "meaning": "Calm, patient",
+    "meaning": "calm, patient",
     "frequency": 703
   },
   "mereka": {
-    "meaning": "Their, them, they",
+    "meaning": "their, them, they",
     "frequency": 888
   },
   "yuk": {
-    "meaning": "Come on, let's go",
+    "meaning": "come on, let's go",
     "frequency": 780
   },
   "keren": {
@@ -564,19 +564,19 @@
     "frequency": 823
   },
   "pasti": {
-    "meaning": "Certain, definite, confirm, decide",
+    "meaning": "certain, definite, confirm, decide",
     "frequency": 795
   },
   "yah": {
-    "meaning": "Idiolect, similar to oh well",
+    "meaning": "(Idiolect) similar to oh well",
     "frequency": 822
   },
   "ambil": {
-    "meaning": "To take",
+    "meaning": "to take",
     "frequency": 733
   },
   "dua": {
-    "meaning": "Two",
+    "meaning": "two",
     "frequency": 697
   },
   "sangat": {
@@ -584,7 +584,7 @@
     "frequency": 771
   },
   "hei": {
-    "meaning": "Hey",
+    "meaning": "hey",
     "frequency": 753
   },
   "pengen": {

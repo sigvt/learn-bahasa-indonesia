@@ -1,23 +1,69 @@
 [
   {
     "id": "eJnwXRefDDo-2252",
-    "text": " Mau dengar cerita gilaku? ",
+    "fragments": [
+      {
+        "word": "Mau",
+        "meaning": "want, wish",
+        "freq": 6936
+      },
+      {
+        "word": "dengar",
+        "meaning": "hear",
+        "freq": 157
+      },
+      {
+        "word": "cerita",
+        "meaning": "story",
+        "freq": 318
+      },
+      {
+        "word": "gilaku?",
+        "freq": 0
+      }
+    ],
     "start": 2,
     "end": 4,
     "video": "eJnwXRefDDo",
     "channel": "kaela"
   },
   {
-    "id": "eJnwXRefDDo-6223",
-    "text": " Namaku Kaela Kovalskia. ",
-    "start": 6,
-    "end": 8,
-    "video": "eJnwXRefDDo",
-    "channel": "kaela"
-  },
-  {
     "id": "eJnwXRefDDo-8492",
-    "text": " Aku adalah murid dari \n seorang penempa ternama. ",
+    "fragments": [
+      {
+        "word": "Aku",
+        "meaning": "I",
+        "freq": 24581
+      },
+      {
+        "word": "adalah",
+        "meaning": "is",
+        "freq": 548
+      },
+      {
+        "word": "murid",
+        "meaning": "student",
+        "freq": 31
+      },
+      {
+        "word": "dari",
+        "meaning": "From, out of, starting from or at, than",
+        "freq": 2815
+      },
+      {
+        "word": "seorang",
+        "meaning": "a person",
+        "freq": 164
+      },
+      {
+        "word": "penempa",
+        "freq": 0
+      },
+      {
+        "word": "ternama.",
+        "freq": 0
+      }
+    ],
     "start": 8,
     "end": 11,
     "video": "eJnwXRefDDo",
@@ -25,7 +71,64 @@
   },
   {
     "id": "eJnwXRefDDo-11795",
-    "text": " Guru besarku bilang aku adalah murid termuda \n yang sangat terampil dan sukses. ",
+    "fragments": [
+      {
+        "word": "Guru",
+        "meaning": "staff, faculty",
+        "freq": 84
+      },
+      {
+        "word": "besarku",
+        "freq": 0
+      },
+      {
+        "word": "bilang",
+        "meaning": "Say",
+        "freq": 626
+      },
+      {
+        "word": "aku",
+        "meaning": "I",
+        "freq": 24581
+      },
+      {
+        "word": "adalah",
+        "meaning": "is",
+        "freq": 548
+      },
+      {
+        "word": "murid",
+        "meaning": "student",
+        "freq": 31
+      },
+      {
+        "word": "termuda",
+        "freq": 0
+      },
+      {
+        "word": "yang",
+        "meaning": "that ~, which ~, the one",
+        "freq": 12092
+      },
+      {
+        "word": "sangat",
+        "meaning": "very",
+        "freq": 771
+      },
+      {
+        "word": "terampil",
+        "freq": 0
+      },
+      {
+        "word": "dan",
+        "meaning": "and",
+        "freq": 2549
+      },
+      {
+        "word": "sukses.",
+        "freq": 0
+      }
+    ],
     "start": 11,
     "end": 16,
     "video": "eJnwXRefDDo",
@@ -33,7 +136,36 @@
   },
   {
     "id": "eJnwXRefDDo-19436",
-    "text": " ternyata sukses saja tidak membuatku bahagia. ",
+    "fragments": [
+      {
+        "word": "ternyata",
+        "meaning": "it turns out",
+        "freq": 464
+      },
+      {
+        "word": "sukses",
+        "meaning": "successful",
+        "freq": 40
+      },
+      {
+        "word": "saja",
+        "meaning": "Only, just, nothing else than, exactly",
+        "freq": 630
+      },
+      {
+        "word": "tidak",
+        "meaning": "not, non",
+        "freq": 2337
+      },
+      {
+        "word": "membuatku",
+        "freq": 19
+      },
+      {
+        "word": "bahagia.",
+        "freq": 0
+      }
+    ],
     "start": 19,
     "end": 22,
     "video": "eJnwXRefDDo",
@@ -41,7 +173,32 @@
   },
   {
     "id": "eJnwXRefDDo-22840",
-    "text": " Hidupku jadi terasa begitu hampa. ",
+    "fragments": [
+      {
+        "word": "Hidupku",
+        "meaning": "my life",
+        "freq": 20
+      },
+      {
+        "word": "jadi",
+        "meaning": "become, so, finished",
+        "freq": 4427
+      },
+      {
+        "word": "terasa",
+        "meaning": "felt",
+        "freq": 17
+      },
+      {
+        "word": "begitu",
+        "meaning": "Like that, so, very, as soon as",
+        "freq": 783
+      },
+      {
+        "word": "hampa.",
+        "freq": 0
+      }
+    ],
     "start": 22,
     "end": 25,
     "video": "eJnwXRefDDo",
@@ -49,23 +206,97 @@
   },
   {
     "id": "eJnwXRefDDo-25943",
-    "text": " \"Aku butuh hal baru!\" ",
+    "fragments": [
+      {
+        "word": "\"Aku",
+        "freq": 0
+      },
+      {
+        "word": "butuh",
+        "meaning": "Need",
+        "freq": 1152
+      },
+      {
+        "word": "hal",
+        "meaning": "Thing",
+        "freq": 232
+      },
+      {
+        "word": "baru!\"",
+        "freq": 0
+      }
+    ],
     "start": 25,
     "end": 28,
     "video": "eJnwXRefDDo",
     "channel": "kaela"
   },
   {
-    "id": "eJnwXRefDDo-28178",
-    "text": " Oleh karena itulah, ",
-    "start": 28,
-    "end": 29,
-    "video": "eJnwXRefDDo",
-    "channel": "kaela"
-  },
-  {
     "id": "eJnwXRefDDo-29980",
-    "text": " aku berencana untuk mencari material langka \n yang menurut rumornya ada di pusat kota. ",
+    "fragments": [
+      {
+        "word": "aku",
+        "meaning": "I",
+        "freq": 24581
+      },
+      {
+        "word": "berencana",
+        "meaning": "plan",
+        "freq": 7
+      },
+      {
+        "word": "untuk",
+        "meaning": "For, on behalf of, in order to",
+        "freq": 1517
+      },
+      {
+        "word": "mencari",
+        "meaning": "look for",
+        "freq": 104
+      },
+      {
+        "word": "material",
+        "freq": 14
+      },
+      {
+        "word": "langka",
+        "meaning": "rare",
+        "freq": 7
+      },
+      {
+        "word": "yang",
+        "meaning": "that ~, which ~, the one",
+        "freq": 12092
+      },
+      {
+        "word": "menurut",
+        "meaning": "according to",
+        "freq": 122
+      },
+      {
+        "word": "rumornya",
+        "freq": 0
+      },
+      {
+        "word": "ada",
+        "meaning": "there is, there are",
+        "freq": 10019
+      },
+      {
+        "word": "di",
+        "meaning": "in, at, upon",
+        "freq": 8908
+      },
+      {
+        "word": "pusat",
+        "meaning": "center",
+        "freq": 41
+      },
+      {
+        "word": "kota.",
+        "freq": 0
+      }
+    ],
     "start": 29,
     "end": 36,
     "video": "eJnwXRefDDo",
@@ -73,7 +304,56 @@
   },
   {
     "id": "eJnwXRefDDo-36453",
-    "text": " Aku pun memulai perjalananku seorang diri \n dengan peta di tanganku. ",
+    "fragments": [
+      {
+        "word": "Aku",
+        "meaning": "I",
+        "freq": 24581
+      },
+      {
+        "word": "pun",
+        "meaning": "even (suffix)",
+        "freq": 324
+      },
+      {
+        "word": "memulai",
+        "meaning": "get down, begin, get, start out, start, set about, set out, commence",
+        "freq": 22
+      },
+      {
+        "word": "perjalananku",
+        "freq": 0
+      },
+      {
+        "word": "seorang",
+        "meaning": "a person",
+        "freq": 164
+      },
+      {
+        "word": "diri",
+        "meaning": "self",
+        "freq": 228
+      },
+      {
+        "word": "dengan",
+        "meaning": "With, and, by, using",
+        "freq": 1059
+      },
+      {
+        "word": "peta",
+        "meaning": "map",
+        "freq": 34
+      },
+      {
+        "word": "di",
+        "meaning": "in, at, upon",
+        "freq": 8908
+      },
+      {
+        "word": "tanganku.",
+        "freq": 0
+      }
+    ],
     "start": 36,
     "end": 41,
     "video": "eJnwXRefDDo",
@@ -81,7 +361,32 @@
   },
   {
     "id": "eJnwXRefDDo-45662",
-    "text": " Pemandangan pusat kota ternyata mengerikan! ",
+    "fragments": [
+      {
+        "word": "Pemandangan",
+        "meaning": "appearance",
+        "freq": 20
+      },
+      {
+        "word": "pusat",
+        "meaning": "center",
+        "freq": 41
+      },
+      {
+        "word": "kota",
+        "meaning": "city",
+        "freq": 83
+      },
+      {
+        "word": "ternyata",
+        "meaning": "it turns out",
+        "freq": 464
+      },
+      {
+        "word": "mengerikan!",
+        "freq": 0
+      }
+    ],
     "start": 45,
     "end": 48,
     "video": "eJnwXRefDDo",
@@ -89,7 +394,34 @@
   },
   {
     "id": "eJnwXRefDDo-48866",
-    "text": " Gedung-gedungnya tinggi. \n Orang-orangnya pun sangat sibuk. ",
+    "fragments": [
+      {
+        "word": "Gedung-gedungnya",
+        "freq": 0
+      },
+      {
+        "word": "tinggi.",
+        "freq": 0
+      },
+      {
+        "word": "Orang-orangnya",
+        "freq": 7
+      },
+      {
+        "word": "pun",
+        "meaning": "even (suffix)",
+        "freq": 324
+      },
+      {
+        "word": "sangat",
+        "meaning": "very",
+        "freq": 771
+      },
+      {
+        "word": "sibuk.",
+        "freq": 0
+      }
+    ],
     "start": 48,
     "end": 52,
     "video": "eJnwXRefDDo",
@@ -97,7 +429,55 @@
   },
   {
     "id": "eJnwXRefDDo-52036",
-    "text": " Dan aku bahkan diteriaki orang \n karena menghambat jalan akibat melamun. ",
+    "fragments": [
+      {
+        "word": "Dan",
+        "meaning": "and",
+        "freq": 2549
+      },
+      {
+        "word": "aku",
+        "meaning": "I",
+        "freq": 24581
+      },
+      {
+        "word": "bahkan",
+        "meaning": "even",
+        "freq": 81
+      },
+      {
+        "word": "diteriaki",
+        "freq": 0
+      },
+      {
+        "word": "orang",
+        "meaning": "Person, one, people in general",
+        "freq": 1452
+      },
+      {
+        "word": "karena",
+        "meaning": "Because, since",
+        "freq": 1671
+      },
+      {
+        "word": "menghambat",
+        "freq": 0
+      },
+      {
+        "word": "jalan",
+        "meaning": "street, road",
+        "freq": 557
+      },
+      {
+        "word": "akibat",
+        "meaning": "come, follow",
+        "freq": 23
+      },
+      {
+        "word": "melamun.",
+        "freq": 0
+      }
+    ],
     "start": 52,
     "end": 56,
     "video": "eJnwXRefDDo",
@@ -105,7 +485,56 @@
   },
   {
     "id": "eJnwXRefDDo-56640",
-    "text": " Tapi menurut petaku aku sudah berada \n di tempat yang tepat. ",
+    "fragments": [
+      {
+        "word": "Tapi",
+        "meaning": "But",
+        "freq": 3584
+      },
+      {
+        "word": "menurut",
+        "meaning": "according to",
+        "freq": 122
+      },
+      {
+        "word": "petaku",
+        "freq": 0
+      },
+      {
+        "word": "aku",
+        "meaning": "I",
+        "freq": 24581
+      },
+      {
+        "word": "sudah",
+        "meaning": "Already, past, last, all right, OK",
+        "freq": 1474
+      },
+      {
+        "word": "berada",
+        "meaning": "is at",
+        "freq": 31
+      },
+      {
+        "word": "di",
+        "meaning": "in, at, upon",
+        "freq": 8908
+      },
+      {
+        "word": "tempat",
+        "meaning": "the place",
+        "freq": 439
+      },
+      {
+        "word": "yang",
+        "meaning": "that ~, which ~, the one",
+        "freq": 12092
+      },
+      {
+        "word": "tepat.",
+        "freq": 0
+      }
+    ],
     "start": 56,
     "end": 61,
     "video": "eJnwXRefDDo",
@@ -113,23 +542,112 @@
   },
   {
     "id": "eJnwXRefDDo-61078",
-    "text": " \"Ta-Tapi bagaimana mungkin \n material langka itu ada di dalam gedung begini?!\" ",
+    "fragments": [
+      {
+        "word": "\"Ta-Tapi",
+        "freq": 0
+      },
+      {
+        "word": "bagaimana",
+        "meaning": "how",
+        "freq": 200
+      },
+      {
+        "word": "mungkin",
+        "meaning": "Possible",
+        "freq": 1268
+      },
+      {
+        "word": "material",
+        "freq": 14
+      },
+      {
+        "word": "langka",
+        "meaning": "rare",
+        "freq": 7
+      },
+      {
+        "word": "itu",
+        "meaning": "that, those",
+        "freq": 10635
+      },
+      {
+        "word": "ada",
+        "meaning": "there is, there are",
+        "freq": 10019
+      },
+      {
+        "word": "di",
+        "meaning": "in, at, upon",
+        "freq": 8908
+      },
+      {
+        "word": "dalam",
+        "meaning": "in, inside",
+        "freq": 473
+      },
+      {
+        "word": "gedung",
+        "meaning": "building",
+        "freq": 33
+      },
+      {
+        "word": "begini?!\"",
+        "freq": 0
+      }
+    ],
     "start": 61,
     "end": 66,
     "video": "eJnwXRefDDo",
     "channel": "kaela"
   },
   {
-    "id": "eJnwXRefDDo-66083",
-    "text": " \"Ah sudahlah!\" ",
-    "start": 66,
-    "end": 67,
-    "video": "eJnwXRefDDo",
-    "channel": "kaela"
-  },
-  {
     "id": "eJnwXRefDDo-67518",
-    "text": " Akhirnya aku pun nekat masuk \n ke dalam gedung itu. ",
+    "fragments": [
+      {
+        "word": "Akhirnya",
+        "meaning": "Eventually",
+        "freq": 405
+      },
+      {
+        "word": "aku",
+        "meaning": "I",
+        "freq": 24581
+      },
+      {
+        "word": "pun",
+        "meaning": "even (suffix)",
+        "freq": 324
+      },
+      {
+        "word": "nekat",
+        "freq": 11
+      },
+      {
+        "word": "masuk",
+        "meaning": "enter",
+        "freq": 670
+      },
+      {
+        "word": "ke",
+        "meaning": "to, towards",
+        "freq": 4098
+      },
+      {
+        "word": "dalam",
+        "meaning": "in, inside",
+        "freq": 473
+      },
+      {
+        "word": "gedung",
+        "meaning": "building",
+        "freq": 33
+      },
+      {
+        "word": "itu.",
+        "freq": 0
+      }
+    ],
     "start": 67,
     "end": 70,
     "video": "eJnwXRefDDo",
@@ -137,23 +655,92 @@
   },
   {
     "id": "eJnwXRefDDo-70387",
-    "text": " Dan di saat aku mulai lelah mencari, ",
+    "fragments": [
+      {
+        "word": "Dan",
+        "meaning": "and",
+        "freq": 2549
+      },
+      {
+        "word": "di",
+        "meaning": "in, at, upon",
+        "freq": 8908
+      },
+      {
+        "word": "saat",
+        "meaning": "moment, while",
+        "freq": 334
+      },
+      {
+        "word": "aku",
+        "meaning": "I",
+        "freq": 24581
+      },
+      {
+        "word": "mulai",
+        "meaning": "start",
+        "freq": 551
+      },
+      {
+        "word": "lelah",
+        "meaning": "tired",
+        "freq": 47
+      },
+      {
+        "word": "mencari,",
+        "freq": 0
+      }
+    ],
     "start": 70,
     "end": 72,
     "video": "eJnwXRefDDo",
     "channel": "kaela"
   },
   {
-    "id": "eJnwXRefDDo-72556",
-    "text": " aku akhirnya melihatnya! ",
-    "start": 72,
-    "end": 74,
-    "video": "eJnwXRefDDo",
-    "channel": "kaela"
-  },
-  {
     "id": "eJnwXRefDDo-74525",
-    "text": " Kilau dari material itu \n seakan memanggilku untuk kubawa pulang. ",
+    "fragments": [
+      {
+        "word": "Kilau",
+        "meaning": "luminesce",
+        "freq": 9
+      },
+      {
+        "word": "dari",
+        "meaning": "From, out of, starting from or at, than",
+        "freq": 2815
+      },
+      {
+        "word": "material",
+        "freq": 14
+      },
+      {
+        "word": "itu",
+        "meaning": "that, those",
+        "freq": 10635
+      },
+      {
+        "word": "seakan",
+        "meaning": "As if",
+        "freq": 20
+      },
+      {
+        "word": "memanggilku",
+        "freq": 0
+      },
+      {
+        "word": "untuk",
+        "meaning": "For, on behalf of, in order to",
+        "freq": 1517
+      },
+      {
+        "word": "kubawa",
+        "freq": 16
+      },
+      {
+        "word": "pulang.",
+        "freq": 0
+      }
+    ],
     "start": 74,
     "end": 78,
     "video": "eJnwXRefDDo",
@@ -161,7 +748,27 @@
   },
   {
     "id": "eJnwXRefDDo-78662",
-    "text": " Dan perlahan aku maju. ",
+    "fragments": [
+      {
+        "word": "Dan",
+        "meaning": "and",
+        "freq": 2549
+      },
+      {
+        "word": "perlahan",
+        "meaning": "inert, sluggish, soggy, torpid",
+        "freq": 17
+      },
+      {
+        "word": "aku",
+        "meaning": "I",
+        "freq": 24581
+      },
+      {
+        "word": "maju.",
+        "freq": 0
+      }
+    ],
     "start": 78,
     "end": 80,
     "video": "eJnwXRefDDo",
@@ -169,47 +776,80 @@
   },
   {
     "id": "eJnwXRefDDo-80731",
-    "text": " Tinggal dua meter lagi. ",
+    "fragments": [
+      {
+        "word": "Tinggal",
+        "meaning": "Live, stay, remain, be left",
+        "freq": 508
+      },
+      {
+        "word": "dua",
+        "meaning": "Two",
+        "freq": 697
+      },
+      {
+        "word": "meter",
+        "meaning": "meter",
+        "freq": 17
+      },
+      {
+        "word": "lagi.",
+        "freq": 0
+      }
+    ],
     "start": 80,
     "end": 83,
     "video": "eJnwXRefDDo",
     "channel": "kaela"
   },
   {
-    "id": "eJnwXRefDDo-83467",
-    "text": " Satu meter lagi. ",
-    "start": 83,
-    "end": 85,
-    "video": "eJnwXRefDDo",
-    "channel": "kaela"
-  },
-  {
-    "id": "eJnwXRefDDo-86236",
-    "text": " Setengah meter lagi. ",
-    "start": 86,
-    "end": 88,
-    "video": "eJnwXRefDDo",
-    "channel": "kaela"
-  },
-  {
-    "id": "eJnwXRefDDo-88472",
-    "text": " Dan... \"YAK!\" ",
-    "start": 88,
-    "end": 89,
-    "video": "eJnwXRefDDo",
-    "channel": "kaela"
-  },
-  {
-    "id": "eJnwXRefDDo-90874",
-    "text": " Pu-Pundakku ditepuk seseorang. ",
-    "start": 90,
-    "end": 93,
-    "video": "eJnwXRefDDo",
-    "channel": "kaela"
-  },
-  {
     "id": "eJnwXRefDDo-93610",
-    "text": " Ia bertanya apakah aku adalah \n salah satu calon talent? ",
+    "fragments": [
+      {
+        "word": "Ia",
+        "meaning": "he, she",
+        "freq": 656
+      },
+      {
+        "word": "bertanya",
+        "meaning": "ask",
+        "freq": 53
+      },
+      {
+        "word": "apakah",
+        "meaning": "is",
+        "freq": 410
+      },
+      {
+        "word": "aku",
+        "meaning": "I",
+        "freq": 24581
+      },
+      {
+        "word": "adalah",
+        "meaning": "is",
+        "freq": 548
+      },
+      {
+        "word": "salah",
+        "meaning": "Fault, mistake, wrong",
+        "freq": 1082
+      },
+      {
+        "word": "satu",
+        "meaning": "One",
+        "freq": 1615
+      },
+      {
+        "word": "calon",
+        "meaning": "candidate",
+        "freq": 51
+      },
+      {
+        "word": "talent?",
+        "freq": 0
+      }
+    ],
     "start": 93,
     "end": 97,
     "video": "eJnwXRefDDo",
@@ -217,7 +857,47 @@
   },
   {
     "id": "eJnwXRefDDo-98849",
-    "text": " Aku bahkan tidak tahu apa yang ia maksud. ",
+    "fragments": [
+      {
+        "word": "Aku",
+        "meaning": "I",
+        "freq": 24581
+      },
+      {
+        "word": "bahkan",
+        "meaning": "even",
+        "freq": 81
+      },
+      {
+        "word": "tidak",
+        "meaning": "not, non",
+        "freq": 2337
+      },
+      {
+        "word": "tahu",
+        "meaning": "Know",
+        "freq": 3080
+      },
+      {
+        "word": "apa",
+        "meaning": "what, which",
+        "freq": 6458
+      },
+      {
+        "word": "yang",
+        "meaning": "that ~, which ~, the one",
+        "freq": 12092
+      },
+      {
+        "word": "ia",
+        "meaning": "he, she",
+        "freq": 656
+      },
+      {
+        "word": "maksud.",
+        "freq": 0
+      }
+    ],
     "start": 98,
     "end": 101,
     "video": "eJnwXRefDDo",
@@ -225,7 +905,27 @@
   },
   {
     "id": "eJnwXRefDDo-101685",
-    "text": " Aku lalu melihat sekeliling, ",
+    "fragments": [
+      {
+        "word": "Aku",
+        "meaning": "I",
+        "freq": 24581
+      },
+      {
+        "word": "lalu",
+        "meaning": "then",
+        "freq": 345
+      },
+      {
+        "word": "melihat",
+        "meaning": "Seeing, looking",
+        "freq": 272
+      },
+      {
+        "word": "sekeliling,",
+        "freq": 0
+      }
+    ],
     "start": 101,
     "end": 103,
     "video": "eJnwXRefDDo",
@@ -233,23 +933,85 @@
   },
   {
     "id": "eJnwXRefDDo-103353",
-    "text": " dan ada banyak sekali \n poster ala idol bertuliskan “hololive”? ",
+    "fragments": [
+      {
+        "word": "dan",
+        "meaning": "and",
+        "freq": 2549
+      },
+      {
+        "word": "ada",
+        "meaning": "there is, there are",
+        "freq": 10019
+      },
+      {
+        "word": "banyak",
+        "meaning": "A lot of, many, much",
+        "freq": 1453
+      },
+      {
+        "word": "sekali",
+        "meaning": "Very, absolutely",
+        "freq": 955
+      },
+      {
+        "word": "poster",
+        "meaning": "poster, posting, placard, notice, bill, card",
+        "freq": 8
+      },
+      {
+        "word": "ala",
+        "freq": 16
+      },
+      {
+        "word": "idol",
+        "freq": 0
+      },
+      {
+        "word": "bertuliskan",
+        "freq": 0
+      },
+      {
+        "word": "“hololive”?",
+        "freq": 0
+      }
+    ],
     "start": 103,
     "end": 109,
     "video": "eJnwXRefDDo",
     "channel": "kaela"
   },
   {
-    "id": "eJnwXRefDDo-109293",
-    "text": " \"Menjadi idol?!\" ",
-    "start": 109,
-    "end": 110,
-    "video": "eJnwXRefDDo",
-    "channel": "kaela"
-  },
-  {
     "id": "eJnwXRefDDo-110894",
-    "text": " \"Ini dia yang kucari dalam hidupku!\" ",
+    "fragments": [
+      {
+        "word": "\"Ini",
+        "freq": 0
+      },
+      {
+        "word": "dia",
+        "meaning": "She, her, he, him",
+        "freq": 2111
+      },
+      {
+        "word": "yang",
+        "meaning": "that ~, which ~, the one",
+        "freq": 12092
+      },
+      {
+        "word": "kucari",
+        "freq": 0
+      },
+      {
+        "word": "dalam",
+        "meaning": "in, inside",
+        "freq": 473
+      },
+      {
+        "word": "hidupku!\"",
+        "freq": 0
+      }
+    ],
     "start": 110,
     "end": 113,
     "video": "eJnwXRefDDo",
@@ -257,7 +1019,31 @@
   },
   {
     "id": "eJnwXRefDDo-113797",
-    "text": " Tanpa ragu, aku pun mengangguk. ",
+    "fragments": [
+      {
+        "word": "Tanpa",
+        "meaning": "without",
+        "freq": 159
+      },
+      {
+        "word": "ragu,",
+        "freq": 0
+      },
+      {
+        "word": "aku",
+        "meaning": "I",
+        "freq": 24581
+      },
+      {
+        "word": "pun",
+        "meaning": "even (suffix)",
+        "freq": 324
+      },
+      {
+        "word": "mengangguk.",
+        "freq": 0
+      }
+    ],
     "start": 113,
     "end": 116,
     "video": "eJnwXRefDDo",
@@ -265,7 +1051,56 @@
   },
   {
     "id": "eJnwXRefDDo-116500",
-    "text": " Dan ini adalah awal dari cerita gilaku \n untuk bertemu kalian. ",
+    "fragments": [
+      {
+        "word": "Dan",
+        "meaning": "and",
+        "freq": 2549
+      },
+      {
+        "word": "ini",
+        "meaning": "this",
+        "freq": 15949
+      },
+      {
+        "word": "adalah",
+        "meaning": "is",
+        "freq": 548
+      },
+      {
+        "word": "awal",
+        "meaning": "beginning",
+        "freq": 189
+      },
+      {
+        "word": "dari",
+        "meaning": "From, out of, starting from or at, than",
+        "freq": 2815
+      },
+      {
+        "word": "cerita",
+        "meaning": "story",
+        "freq": 318
+      },
+      {
+        "word": "gilaku",
+        "freq": 0
+      },
+      {
+        "word": "untuk",
+        "meaning": "For, on behalf of, in order to",
+        "freq": 1517
+      },
+      {
+        "word": "bertemu",
+        "meaning": "meet",
+        "freq": 31
+      },
+      {
+        "word": "kalian.",
+        "freq": 0
+      }
+    ],
     "start": 116,
     "end": 4,
     "video": "eJnwXRefDDo",

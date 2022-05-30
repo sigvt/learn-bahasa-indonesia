@@ -1,7 +1,42 @@
 [
   {
     "id": "7zBszqlSAYU-2540",
-    "text": "fh80e nenek itu diskon ada hiu Yaudah",
+    "fragments": [
+      {
+        "word": "fh80e",
+        "freq": 0
+      },
+      {
+        "word": "nenek",
+        "meaning": "grandmother",
+        "freq": 247
+      },
+      {
+        "word": "itu",
+        "meaning": "that, those",
+        "freq": 10635
+      },
+      {
+        "word": "diskon",
+        "meaning": "discount",
+        "freq": 22
+      },
+      {
+        "word": "ada",
+        "meaning": "there is, there are",
+        "freq": 10019
+      },
+      {
+        "word": "hiu",
+        "meaning": "shark",
+        "freq": 237
+      },
+      {
+        "word": "Yaudah",
+        "meaning": "okay then",
+        "freq": 281
+      }
+    ],
     "start": 2,
     "end": 7,
     "video": "7zBszqlSAYU",
@@ -9,7 +44,28 @@
   },
   {
     "id": "7zBszqlSAYU-12799",
-    "text": "Anda ingin buaya cetak",
+    "fragments": [
+      {
+        "word": "Anda",
+        "meaning": "You, your, yours",
+        "freq": 401
+      },
+      {
+        "word": "ingin",
+        "meaning": "want",
+        "freq": 278
+      },
+      {
+        "word": "buaya",
+        "meaning": "crocodile",
+        "freq": 26
+      },
+      {
+        "word": "cetak",
+        "meaning": "Print",
+        "freq": 173
+      }
+    ],
     "start": 12,
     "end": 15,
     "video": "7zBszqlSAYU",
@@ -17,7 +73,32 @@
   },
   {
     "id": "7zBszqlSAYU-15740",
-    "text": "hidatoda tak punya ton kek",
+    "fragments": [
+      {
+        "word": "hidatoda",
+        "freq": 0
+      },
+      {
+        "word": "tak",
+        "meaning": "No, not",
+        "freq": 822
+      },
+      {
+        "word": "punya",
+        "meaning": "Have, possess",
+        "freq": 1832
+      },
+      {
+        "word": "ton",
+        "meaning": "Ton.",
+        "freq": 88
+      },
+      {
+        "word": "kek",
+        "meaning": "Laughing",
+        "freq": 276
+      }
+    ],
     "start": 15,
     "end": 20,
     "video": "7zBszqlSAYU",
@@ -25,7 +106,32 @@
   },
   {
     "id": "7zBszqlSAYU-22880",
-    "text": "gimana cara kubunuh saja sih",
+    "fragments": [
+      {
+        "word": "gimana",
+        "meaning": "How",
+        "freq": 3709
+      },
+      {
+        "word": "cara",
+        "meaning": "Manner, method, way, fashion, style",
+        "freq": 517
+      },
+      {
+        "word": "kubunuh",
+        "freq": 5
+      },
+      {
+        "word": "saja",
+        "meaning": "Only, just, nothing else than, exactly",
+        "freq": 630
+      },
+      {
+        "word": "sih",
+        "meaning": "(particle used to soften questions)",
+        "freq": 8945
+      }
+    ],
     "start": 22,
     "end": 26,
     "video": "7zBszqlSAYU",
@@ -33,7 +139,43 @@
   },
   {
     "id": "7zBszqlSAYU-26150",
-    "text": "kalian Nah kamu kamu cari perhatian metu",
+    "fragments": [
+      {
+        "word": "kalian",
+        "meaning": "you guys",
+        "freq": 4893
+      },
+      {
+        "word": "Nah",
+        "meaning": "Well!, here!, see now!",
+        "freq": 3494
+      },
+      {
+        "word": "kamu",
+        "meaning": "you (informal)",
+        "freq": 7443
+      },
+      {
+        "word": "kamu",
+        "meaning": "you (informal)",
+        "freq": 7443
+      },
+      {
+        "word": "cari",
+        "meaning": "search",
+        "freq": 423
+      },
+      {
+        "word": "perhatian",
+        "meaning": "survey, study",
+        "freq": 14
+      },
+      {
+        "word": "metu",
+        "meaning": "Metu",
+        "freq": 22
+      }
+    ],
     "start": 26,
     "end": 30,
     "video": "7zBszqlSAYU",
@@ -41,7 +183,38 @@
   },
   {
     "id": "7zBszqlSAYU-33239",
-    "text": "ngomong Kayaknya masih ada dong cepet",
+    "fragments": [
+      {
+        "word": "ngomong",
+        "meaning": "talk, say",
+        "freq": 1563
+      },
+      {
+        "word": "Kayaknya",
+        "meaning": "maybe",
+        "freq": 999
+      },
+      {
+        "word": "masih",
+        "meaning": "Still, yet",
+        "freq": 2087
+      },
+      {
+        "word": "ada",
+        "meaning": "there is, there are",
+        "freq": 10019
+      },
+      {
+        "word": "dong",
+        "meaning": "(A mild way of emphasizing something, used at the end of a sentence)",
+        "freq": 1654
+      },
+      {
+        "word": "cepet",
+        "meaning": "fast",
+        "freq": 486
+      }
+    ],
     "start": 33,
     "end": 36,
     "video": "7zBszqlSAYU",

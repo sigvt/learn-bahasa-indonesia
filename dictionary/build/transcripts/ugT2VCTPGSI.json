@@ -1,7 +1,27 @@
 [
   {
     "id": "ugT2VCTPGSI-5622",
-    "text": " Jutaan orang tidak menyadari ",
+    "fragments": [
+      {
+        "word": "Jutaan",
+        "freq": 0
+      },
+      {
+        "word": "orang",
+        "meaning": "Person, one, people in general",
+        "freq": 1452
+      },
+      {
+        "word": "tidak",
+        "meaning": "not, non",
+        "freq": 2337
+      },
+      {
+        "word": "menyadari",
+        "meaning": "understand, realize, realise, see",
+        "freq": 8
+      }
+    ],
     "start": 5,
     "end": 7,
     "video": "ugT2VCTPGSI",
@@ -9,23 +29,100 @@
   },
   {
     "id": "ugT2VCTPGSI-7791",
-    "text": " bahwa nama penggemar Kobo saat ini \n telah terpecah belah menjadi dua kubu: ",
+    "fragments": [
+      {
+        "word": "bahwa",
+        "meaning": "that",
+        "freq": 144
+      },
+      {
+        "word": "nama",
+        "meaning": "name",
+        "freq": 609
+      },
+      {
+        "word": "penggemar",
+        "meaning": "fanatic, fanatical, overzealous, rabid",
+        "freq": 6
+      },
+      {
+        "word": "Kobo",
+        "meaning": "Kobo",
+        "freq": 530
+      },
+      {
+        "word": "saat",
+        "meaning": "moment, while",
+        "freq": 334
+      },
+      {
+        "word": "ini",
+        "meaning": "this",
+        "freq": 15949
+      },
+      {
+        "word": "telah",
+        "meaning": "has",
+        "freq": 193
+      },
+      {
+        "word": "terpecah",
+        "freq": 0
+      },
+      {
+        "word": "belah",
+        "freq": 0
+      },
+      {
+        "word": "menjadi",
+        "meaning": "Becomes",
+        "freq": 393
+      },
+      {
+        "word": "dua",
+        "meaning": "Two",
+        "freq": 697
+      },
+      {
+        "word": "kubu:",
+        "freq": 0
+      }
+    ],
     "start": 7,
     "end": 14,
     "video": "ugT2VCTPGSI",
     "channel": "kobo"
   },
   {
-    "id": "ugT2VCTPGSI-14598",
-    "text": " \"Kobokerz\" dan ",
-    "start": 14,
-    "end": 16,
-    "video": "ugT2VCTPGSI",
-    "channel": "kobo"
-  },
-  {
     "id": "ugT2VCTPGSI-18602",
-    "text": " Namun, dewasa ini, \n semakin berkembangnya teknologi, ",
+    "fragments": [
+      {
+        "word": "Namun,",
+        "freq": 0
+      },
+      {
+        "word": "dewasa",
+        "meaning": "mature",
+        "freq": 36
+      },
+      {
+        "word": "ini,",
+        "freq": 0
+      },
+      {
+        "word": "semakin",
+        "meaning": "the more",
+        "freq": 55
+      },
+      {
+        "word": "berkembangnya",
+        "freq": 0
+      },
+      {
+        "word": "teknologi,",
+        "freq": 0
+      }
+    ],
     "start": 18,
     "end": 22,
     "video": "ugT2VCTPGSI",
@@ -33,7 +130,44 @@
   },
   {
     "id": "ugT2VCTPGSI-22139",
-    "text": " seorang pawang hujan berinisial K \n membuat terobosan baru. ",
+    "fragments": [
+      {
+        "word": "seorang",
+        "meaning": "a person",
+        "freq": 164
+      },
+      {
+        "word": "pawang",
+        "meaning": "Pawang",
+        "freq": 22
+      },
+      {
+        "word": "hujan",
+        "meaning": "rain",
+        "freq": 329
+      },
+      {
+        "word": "berinisial",
+        "freq": 0
+      },
+      {
+        "word": "K",
+        "freq": 0
+      },
+      {
+        "word": "membuat",
+        "meaning": "make",
+        "freq": 114
+      },
+      {
+        "word": "terobosan",
+        "freq": 8
+      },
+      {
+        "word": "baru.",
+        "freq": 0
+      }
+    ],
     "start": 22,
     "end": 26,
     "video": "ugT2VCTPGSI",
@@ -41,7 +175,26 @@
   },
   {
     "id": "ugT2VCTPGSI-26377",
-    "text": " Demi mendamaikan kedua kubu, ",
+    "fragments": [
+      {
+        "word": "Demi",
+        "meaning": "For the sake of",
+        "freq": 172
+      },
+      {
+        "word": "mendamaikan",
+        "freq": 0
+      },
+      {
+        "word": "kedua",
+        "meaning": "second",
+        "freq": 132
+      },
+      {
+        "word": "kubu,",
+        "freq": 0
+      }
+    ],
     "start": 26,
     "end": 28,
     "video": "ugT2VCTPGSI",
@@ -49,7 +202,49 @@
   },
   {
     "id": "ugT2VCTPGSI-28278",
-    "text": " sebuah jenama baru dibuat khusus \n dalam rangka Kobolosasi, perkenalkan... ",
+    "fragments": [
+      {
+        "word": "sebuah",
+        "meaning": "a",
+        "freq": 70
+      },
+      {
+        "word": "jenama",
+        "freq": 0
+      },
+      {
+        "word": "baru",
+        "meaning": "New, recent, only then, not until, to be about to",
+        "freq": 1068
+      },
+      {
+        "word": "dibuat",
+        "meaning": "Made",
+        "freq": 45
+      },
+      {
+        "word": "khusus",
+        "meaning": "expressly",
+        "freq": 83
+      },
+      {
+        "word": "dalam",
+        "meaning": "in, inside",
+        "freq": 473
+      },
+      {
+        "word": "rangka",
+        "freq": 0
+      },
+      {
+        "word": "Kobolosasi,",
+        "freq": 0
+      },
+      {
+        "word": "perkenalkan...",
+        "freq": 0
+      }
+    ],
     "start": 28,
     "end": 32,
     "video": "ugT2VCTPGSI",
@@ -57,7 +252,47 @@
   },
   {
     "id": "ugT2VCTPGSI-37454",
-    "text": " merupakan kata gabungan dari \n Kobo dengan awan kumulonimbus, ",
+    "fragments": [
+      {
+        "word": "merupakan",
+        "meaning": "represent",
+        "freq": 29
+      },
+      {
+        "word": "kata",
+        "meaning": "say",
+        "freq": 310
+      },
+      {
+        "word": "gabungan",
+        "meaning": "combination, combining, compounding",
+        "freq": 5
+      },
+      {
+        "word": "dari",
+        "meaning": "From, out of, starting from or at, than",
+        "freq": 2815
+      },
+      {
+        "word": "Kobo",
+        "meaning": "Kobo",
+        "freq": 530
+      },
+      {
+        "word": "dengan",
+        "meaning": "With, and, by, using",
+        "freq": 1059
+      },
+      {
+        "word": "awan",
+        "meaning": "cloud",
+        "freq": 95
+      },
+      {
+        "word": "kumulonimbus,",
+        "freq": 0
+      }
+    ],
     "start": 37,
     "end": 40,
     "video": "ugT2VCTPGSI",
@@ -65,7 +300,45 @@
   },
   {
     "id": "ugT2VCTPGSI-40824",
-    "text": " yaitu sebuah awan yang terbentuk \n dari ketidakstabilan atmosfer. ",
+    "fragments": [
+      {
+        "word": "yaitu",
+        "meaning": "that is",
+        "freq": 260
+      },
+      {
+        "word": "sebuah",
+        "meaning": "a",
+        "freq": 70
+      },
+      {
+        "word": "awan",
+        "meaning": "cloud",
+        "freq": 95
+      },
+      {
+        "word": "yang",
+        "meaning": "that ~, which ~, the one",
+        "freq": 12092
+      },
+      {
+        "word": "terbentuk",
+        "freq": 0
+      },
+      {
+        "word": "dari",
+        "meaning": "From, out of, starting from or at, than",
+        "freq": 2815
+      },
+      {
+        "word": "ketidakstabilan",
+        "freq": 0
+      },
+      {
+        "word": "atmosfer.",
+        "freq": 0
+      }
+    ],
     "start": 40,
     "end": 44,
     "video": "ugT2VCTPGSI",
@@ -73,7 +346,49 @@
   },
   {
     "id": "ugT2VCTPGSI-44428",
-    "text": " Yang maka dari itu, ketidakstabilan tersebut \n harus distabilisasikan segera. ",
+    "fragments": [
+      {
+        "word": "Yang",
+        "meaning": "that ~, which ~, the one",
+        "freq": 12092
+      },
+      {
+        "word": "maka",
+        "meaning": "consequently, accordingly",
+        "freq": 121
+      },
+      {
+        "word": "dari",
+        "meaning": "From, out of, starting from or at, than",
+        "freq": 2815
+      },
+      {
+        "word": "itu,",
+        "freq": 0
+      },
+      {
+        "word": "ketidakstabilan",
+        "freq": 0
+      },
+      {
+        "word": "tersebut",
+        "meaning": "the",
+        "freq": 63
+      },
+      {
+        "word": "harus",
+        "meaning": "Have to, must",
+        "freq": 2254
+      },
+      {
+        "word": "distabilisasikan",
+        "freq": 0
+      },
+      {
+        "word": "segera.",
+        "freq": 0
+      }
+    ],
     "start": 44,
     "end": 48,
     "video": "ugT2VCTPGSI",
@@ -81,7 +396,37 @@
   },
   {
     "id": "ugT2VCTPGSI-49566",
-    "text": " Dengan bergabung ke dalam klub Kobolonimbus, ",
+    "fragments": [
+      {
+        "word": "Dengan",
+        "meaning": "With, and, by, using",
+        "freq": 1059
+      },
+      {
+        "word": "bergabung",
+        "meaning": "compound, combine",
+        "freq": 15
+      },
+      {
+        "word": "ke",
+        "meaning": "to, towards",
+        "freq": 4098
+      },
+      {
+        "word": "dalam",
+        "meaning": "in, inside",
+        "freq": 473
+      },
+      {
+        "word": "klub",
+        "meaning": "cabaret, nightclub, night club, club, nightspot",
+        "freq": 22
+      },
+      {
+        "word": "Kobolonimbus,",
+        "freq": 0
+      }
+    ],
     "start": 49,
     "end": 51,
     "video": "ugT2VCTPGSI",
@@ -89,7 +434,59 @@
   },
   {
     "id": "ugT2VCTPGSI-51602",
-    "text": " kalian akan terdidik menjadi \n Kobokerz dan Cebokerz yang baik dan bersahaja. ",
+    "fragments": [
+      {
+        "word": "kalian",
+        "meaning": "you guys",
+        "freq": 4893
+      },
+      {
+        "word": "akan",
+        "meaning": "Will, about to, about, regarding",
+        "freq": 982
+      },
+      {
+        "word": "terdidik",
+        "freq": 0
+      },
+      {
+        "word": "menjadi",
+        "meaning": "Becomes",
+        "freq": 393
+      },
+      {
+        "word": "Kobokerz",
+        "freq": 0
+      },
+      {
+        "word": "dan",
+        "meaning": "and",
+        "freq": 2549
+      },
+      {
+        "word": "Cebokerz",
+        "freq": 0
+      },
+      {
+        "word": "yang",
+        "meaning": "that ~, which ~, the one",
+        "freq": 12092
+      },
+      {
+        "word": "baik",
+        "meaning": "good",
+        "freq": 569
+      },
+      {
+        "word": "dan",
+        "meaning": "and",
+        "freq": 2549
+      },
+      {
+        "word": "bersahaja.",
+        "freq": 0
+      }
+    ],
     "start": 51,
     "end": 56,
     "video": "ugT2VCTPGSI",
@@ -97,71 +494,134 @@
   },
   {
     "id": "ugT2VCTPGSI-56673",
-    "text": " Hal ini juga merupakan salah satu \n penanggulangan terciptanya kubu baru ",
+    "fragments": [
+      {
+        "word": "Hal",
+        "meaning": "Thing",
+        "freq": 232
+      },
+      {
+        "word": "ini",
+        "meaning": "this",
+        "freq": 15949
+      },
+      {
+        "word": "juga",
+        "meaning": "Also, too, even if, anyway",
+        "freq": 3942
+      },
+      {
+        "word": "merupakan",
+        "meaning": "represent",
+        "freq": 29
+      },
+      {
+        "word": "salah",
+        "meaning": "Fault, mistake, wrong",
+        "freq": 1082
+      },
+      {
+        "word": "satu",
+        "meaning": "One",
+        "freq": 1615
+      },
+      {
+        "word": "penanggulangan",
+        "freq": 0
+      },
+      {
+        "word": "terciptanya",
+        "freq": 0
+      },
+      {
+        "word": "kubu",
+        "meaning": "Stronghold, team",
+        "freq": 276
+      },
+      {
+        "word": "baru",
+        "meaning": "New, recent, only then, not until, to be about to",
+        "freq": 1068
+      }
+    ],
     "start": 56,
     "end": 60,
     "video": "ugT2VCTPGSI",
     "channel": "kobo"
   },
   {
-    "id": "ugT2VCTPGSI-60544",
-    "text": " demi perdamaian dunia. ",
-    "start": 60,
-    "end": 62,
-    "video": "ugT2VCTPGSI",
-    "channel": "kobo"
-  },
-  {
-    "id": "ugT2VCTPGSI-63280",
-    "text": " \"Apa saja keuntungannya?\" ",
-    "start": 63,
-    "end": 66,
-    "video": "ugT2VCTPGSI",
-    "channel": "kobo"
-  },
-  {
     "id": "ugT2VCTPGSI-67117",
-    "text": " Dapatkan lencana-lencana ini \n sebagai simbol loyalitas kalian. ",
+    "fragments": [
+      {
+        "word": "Dapatkan",
+        "freq": 12
+      },
+      {
+        "word": "lencana-lencana",
+        "freq": 0
+      },
+      {
+        "word": "ini",
+        "meaning": "this",
+        "freq": 15949
+      },
+      {
+        "word": "sebagai",
+        "meaning": "as",
+        "freq": 232
+      },
+      {
+        "word": "simbol",
+        "meaning": "emblematic, emblematical, symbolic, symbolical",
+        "freq": 13
+      },
+      {
+        "word": "loyalitas",
+        "freq": 0
+      },
+      {
+        "word": "kalian.",
+        "freq": 0
+      }
+    ],
     "start": 67,
     "end": 70,
     "video": "ugT2VCTPGSI",
     "channel": "kobo"
   },
   {
-    "id": "ugT2VCTPGSI-72189",
-    "text": " awan dengan matahari, ",
-    "start": 72,
-    "end": 73,
-    "video": "ugT2VCTPGSI",
-    "channel": "kobo"
-  },
-  {
-    "id": "ugT2VCTPGSI-73323",
-    "text": " matahari berkacamata, ",
-    "start": 73,
-    "end": 74,
-    "video": "ugT2VCTPGSI",
-    "channel": "kobo"
-  },
-  {
-    "id": "ugT2VCTPGSI-74224",
-    "text": " matahari berkacamata, ",
-    "start": 74,
-    "end": 74,
-    "video": "ugT2VCTPGSI",
-    "channel": "kobo"
-  },
-  {
-    "id": "ugT2VCTPGSI-74725",
-    "text": " pelangi, dan ",
-    "start": 74,
-    "end": 75,
-    "video": "ugT2VCTPGSI",
-    "channel": "kobo"
-  },
-  {
     "id": "ugT2VCTPGSI-76860",
-    "text": " Siapa yang tidak ingin menjadi kuda? ",
+    "fragments": [
+      {
+        "word": "Siapa",
+        "meaning": "Who, whose, whom",
+        "freq": 1606
+      },
+      {
+        "word": "yang",
+        "meaning": "that ~, which ~, the one",
+        "freq": 12092
+      },
+      {
+        "word": "tidak",
+        "meaning": "not, non",
+        "freq": 2337
+      },
+      {
+        "word": "ingin",
+        "meaning": "want",
+        "freq": 278
+      },
+      {
+        "word": "menjadi",
+        "meaning": "Becomes",
+        "freq": 393
+      },
+      {
+        "word": "kuda?",
+        "freq": 0
+      }
+    ],
     "start": 76,
     "end": 79,
     "video": "ugT2VCTPGSI",
@@ -169,7 +629,61 @@
   },
   {
     "id": "ugT2VCTPGSI-80864",
-    "text": " Kalian juga akan mendapatkan \n stiker-stiker Kobo yang imut nan manja tralala, ",
+    "fragments": [
+      {
+        "word": "Kalian",
+        "meaning": "you guys",
+        "freq": 4893
+      },
+      {
+        "word": "juga",
+        "meaning": "Also, too, even if, anyway",
+        "freq": 3942
+      },
+      {
+        "word": "akan",
+        "meaning": "Will, about to, about, regarding",
+        "freq": 982
+      },
+      {
+        "word": "mendapatkan",
+        "meaning": "got",
+        "freq": 48
+      },
+      {
+        "word": "stiker-stiker",
+        "freq": 0
+      },
+      {
+        "word": "Kobo",
+        "meaning": "Kobo",
+        "freq": 530
+      },
+      {
+        "word": "yang",
+        "meaning": "that ~, which ~, the one",
+        "freq": 12092
+      },
+      {
+        "word": "imut",
+        "meaning": "tiny",
+        "freq": 52
+      },
+      {
+        "word": "nan",
+        "meaning": "world health organization, who",
+        "freq": 22
+      },
+      {
+        "word": "manja",
+        "meaning": "indulge, luxuriate",
+        "freq": 15
+      },
+      {
+        "word": "tralala,",
+        "freq": 0
+      }
+    ],
     "start": 80,
     "end": 85,
     "video": "ugT2VCTPGSI",
@@ -177,7 +691,46 @@
   },
   {
     "id": "ugT2VCTPGSI-85269",
-    "text": " dan tidak lupa dengan \n konten-konten khusus berikut ini. ",
+    "fragments": [
+      {
+        "word": "dan",
+        "meaning": "and",
+        "freq": 2549
+      },
+      {
+        "word": "tidak",
+        "meaning": "not, non",
+        "freq": 2337
+      },
+      {
+        "word": "lupa",
+        "meaning": "Forget",
+        "freq": 699
+      },
+      {
+        "word": "dengan",
+        "meaning": "With, and, by, using",
+        "freq": 1059
+      },
+      {
+        "word": "konten-konten",
+        "freq": 6
+      },
+      {
+        "word": "khusus",
+        "meaning": "expressly",
+        "freq": 83
+      },
+      {
+        "word": "berikut",
+        "meaning": "subsequent",
+        "freq": 24
+      },
+      {
+        "word": "ini.",
+        "freq": 0
+      }
+    ],
     "start": 85,
     "end": 88,
     "video": "ugT2VCTPGSI",
@@ -185,7 +738,70 @@
   },
   {
     "id": "ugT2VCTPGSI-88205",
-    "text": " Ngobrol Bebas \n Main Bareng \n Nonton Bareng \n Bermain Peran \n Karaoke \n Menulis Lagu \n dan lain-lain ",
+    "fragments": [
+      {
+        "word": "Ngobrol",
+        "meaning": "Chat",
+        "freq": 96
+      },
+      {
+        "word": "Bebas",
+        "meaning": "free",
+        "freq": 75
+      },
+      {
+        "word": "Main",
+        "freq": 0
+      },
+      {
+        "word": "Bareng",
+        "meaning": "with",
+        "freq": 277
+      },
+      {
+        "word": "Nonton",
+        "meaning": "watch",
+        "freq": 538
+      },
+      {
+        "word": "Bareng",
+        "meaning": "with",
+        "freq": 277
+      },
+      {
+        "word": "Bermain",
+        "meaning": "played",
+        "freq": 88
+      },
+      {
+        "word": "Peran",
+        "meaning": "loft, attic, garret",
+        "freq": 10
+      },
+      {
+        "word": "Karaoke",
+        "freq": 0
+      },
+      {
+        "word": "Menulis",
+        "meaning": "expense, write off, write down",
+        "freq": 20
+      },
+      {
+        "word": "Lagu",
+        "meaning": "song",
+        "freq": 251
+      },
+      {
+        "word": "dan",
+        "meaning": "and",
+        "freq": 2549
+      },
+      {
+        "word": "lain-lain",
+        "freq": 36
+      }
+    ],
     "start": 88,
     "end": 92,
     "video": "ugT2VCTPGSI",
@@ -193,7 +809,36 @@
   },
   {
     "id": "ugT2VCTPGSI-94144",
-    "text": " Para hadirin sekalian yang saya hormati, ",
+    "fragments": [
+      {
+        "word": "Para",
+        "meaning": "TYPX",
+        "freq": 225
+      },
+      {
+        "word": "hadirin",
+        "freq": 0
+      },
+      {
+        "word": "sekalian",
+        "meaning": "all, including",
+        "freq": 160
+      },
+      {
+        "word": "yang",
+        "meaning": "that ~, which ~, the one",
+        "freq": 12092
+      },
+      {
+        "word": "saya",
+        "meaning": "I, me",
+        "freq": 1851
+      },
+      {
+        "word": "hormati,",
+        "freq": 0
+      }
+    ],
     "start": 94,
     "end": 96,
     "video": "ugT2VCTPGSI",
@@ -201,7 +846,56 @@
   },
   {
     "id": "ugT2VCTPGSI-96680",
-    "text": " mungkin saya kurang berkenan, \n tapi saya mengatakan ini dari hati. ",
+    "fragments": [
+      {
+        "word": "mungkin",
+        "meaning": "Possible",
+        "freq": 1268
+      },
+      {
+        "word": "saya",
+        "meaning": "I, me",
+        "freq": 1851
+      },
+      {
+        "word": "kurang",
+        "meaning": "not enough",
+        "freq": 460
+      },
+      {
+        "word": "berkenan,",
+        "freq": 0
+      },
+      {
+        "word": "tapi",
+        "meaning": "But",
+        "freq": 3584
+      },
+      {
+        "word": "saya",
+        "meaning": "I, me",
+        "freq": 1851
+      },
+      {
+        "word": "mengatakan",
+        "meaning": "speculate, theorize, theorise, conjecture, hypothesize, hypothesise, hypothecate, suppose",
+        "freq": 31
+      },
+      {
+        "word": "ini",
+        "meaning": "this",
+        "freq": 15949
+      },
+      {
+        "word": "dari",
+        "meaning": "From, out of, starting from or at, than",
+        "freq": 2815
+      },
+      {
+        "word": "hati.",
+        "freq": 0
+      }
+    ],
     "start": 96,
     "end": 99,
     "video": "ugT2VCTPGSI",
@@ -209,23 +903,73 @@
   },
   {
     "id": "ugT2VCTPGSI-99917",
-    "text": " Tidak ada penyesalan untuk memulai sesuatu. ",
+    "fragments": [
+      {
+        "word": "Tidak",
+        "meaning": "not, non",
+        "freq": 2337
+      },
+      {
+        "word": "ada",
+        "meaning": "there is, there are",
+        "freq": 10019
+      },
+      {
+        "word": "penyesalan",
+        "meaning": "ruefully, contritely, remorsefully",
+        "freq": 9
+      },
+      {
+        "word": "untuk",
+        "meaning": "For, on behalf of, in order to",
+        "freq": 1517
+      },
+      {
+        "word": "memulai",
+        "meaning": "get down, begin, get, start out, start, set about, set out, commence",
+        "freq": 22
+      },
+      {
+        "word": "sesuatu.",
+        "freq": 0
+      }
+    ],
     "start": 99,
     "end": 103,
     "video": "ugT2VCTPGSI",
     "channel": "kobo"
   },
   {
-    "id": "ugT2VCTPGSI-103020",
-    "text": " Mulailah dari... ",
-    "start": 103,
-    "end": 104,
-    "video": "ugT2VCTPGSI",
-    "channel": "kobo"
-  },
-  {
     "id": "ugT2VCTPGSI-109493",
-    "text": " Saya Kobo-kun, izin pamit, undur diri. ",
+    "fragments": [
+      {
+        "word": "Saya",
+        "meaning": "I, me",
+        "freq": 1851
+      },
+      {
+        "word": "Kobo-kun,",
+        "freq": 0
+      },
+      {
+        "word": "izin",
+        "meaning": "permission",
+        "freq": 101
+      },
+      {
+        "word": "pamit,",
+        "freq": 0
+      },
+      {
+        "word": "undur",
+        "meaning": "retirement, retreat",
+        "freq": 15
+      },
+      {
+        "word": "diri.",
+        "freq": 0
+      }
+    ],
     "start": 109,
     "end": 113,
     "video": "ugT2VCTPGSI",

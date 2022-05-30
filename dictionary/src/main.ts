@@ -3,7 +3,7 @@ import axios from "axios";
 import merge from "deepmerge";
 import fs from "fs";
 import JSON5 from "json5";
-import { stringify } from "masterchat";
+import { stringify, TranscriptSegment } from "masterchat";
 import path, { dirname, join } from "path";
 import { genBigram, generateVocab } from "./nlp";
 import { removeStopWords } from "./stopwords";
@@ -98,6 +98,53 @@ async function updateStreamIndex() {
   }
 }
 
+function generateSpeeches(
+  transcripts: {
+    id: string;
+    channel: string;
+    segments: TranscriptSegment[];
+  }[],
+  dict: Record<string, Entry>
+) {
+  for (const ts of transcripts) {
+    const { id, segments } = ts;
+
+    const speeches = segments
+      .map((seg): Speech | null => {
+        const words = stringify(seg.snippet)
+          .replace(/\u200b/g, "")
+          .split(/[\s\r\n]+/)
+          .filter((word) => !/\[(?:Tepuk tangan|Musik|Tertawa)\]/.test(word))
+          .filter((word) => word);
+        if (!(words.length >= 4 && words.length < 100)) return null;
+
+        const fragments = words.map((word) => {
+          const dictEntry = dict[word.toLowerCase().trim()];
+          return {
+            word,
+            meaning: dictEntry?.meaning || undefined,
+            freq: dictEntry?.frequency ?? 0,
+          };
+        });
+
+        return {
+          id: ts.id + "-" + seg.startMs,
+          fragments,
+          start: Math.floor(seg.startMs / 1000),
+          end: Math.floor(seg.endMs / 1000),
+          video: ts.id,
+          channel: ts.channel,
+        };
+      })
+      .filter((seg): seg is Speech => seg !== null);
+
+    fs.writeFileSync(
+      join(DIST_DIR, "transcripts", id + ".json"),
+      JSON.stringify(speeches, null, 2)
+    );
+  }
+}
+
 async function main() {
   await updateStreamIndex();
 
@@ -108,39 +155,6 @@ async function main() {
   const transcripts = (
     await Promise.all(indexFiles.map(loadTranscript))
   ).flat();
-
-  // Create speeches
-  for (const ts of transcripts) {
-    const { id, segments } = ts;
-
-    const speeches = segments
-      .map((seg): Segment => {
-        const text = stringify(seg.snippet)
-          .split(" ")
-          .filter((word) => !/\[(?:Tepuk tangan|Musik|Tertawa)\]/.test(word))
-          .join(" ")
-          .replace(/\n\n/g, ". ")
-          .replace(/\u200b/g, "");
-
-        return {
-          id: ts.id + "-" + seg.startMs,
-          text,
-          start: Math.floor(seg.startMs / 1000),
-          end: Math.floor(seg.endMs / 1000),
-          video: ts.id,
-          channel: ts.channel,
-        };
-      })
-      .filter((seg) => {
-        const wordCount = seg.text.split(" ").length;
-        return wordCount >= 4 && wordCount < 100;
-      });
-
-    fs.writeFileSync(
-      join(DIST_DIR, "transcripts", id + ".json"),
-      JSON.stringify(speeches, null, 2)
-    );
-  }
 
   const combined = stringifyTranscript(
     transcripts.flatMap((t) => t.segments)
@@ -209,6 +223,9 @@ async function main() {
       Object.entries(dict).map(([title, entry]) => [title, entry.meaning])
     )
   );
+
+  // Create speeches
+  generateSpeeches(transcripts, dict);
 }
 
 main();
@@ -236,9 +253,15 @@ interface Stream {
   available?: boolean;
 }
 
-interface Segment {
+interface SpeechFragment {
+  word: string;
+  freq: number;
+  meaning?: string;
+}
+
+interface Speech {
   id: string;
-  text: string;
+  fragments: SpeechFragment[];
   start: number;
   end: number;
   video: string;

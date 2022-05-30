@@ -1,7 +1,27 @@
 [
   {
     "id": "aOHTioRu_Jg-0",
-    "text": "kuning siapa ping siapa",
+    "fragments": [
+      {
+        "word": "kuning",
+        "meaning": "yellow",
+        "freq": 208
+      },
+      {
+        "word": "siapa",
+        "meaning": "Who, whose, whom",
+        "freq": 1606
+      },
+      {
+        "word": "ping",
+        "freq": 0
+      },
+      {
+        "word": "siapa",
+        "meaning": "Who, whose, whom",
+        "freq": 1606
+      }
+    ],
     "start": 0,
     "end": 2,
     "video": "aOHTioRu_Jg",
@@ -9,7 +29,35 @@
   },
   {
     "id": "aOHTioRu_Jg-2570",
-    "text": "ingako yang kuning Elsanya si blonde",
+    "fragments": [
+      {
+        "word": "ingako",
+        "freq": 0
+      },
+      {
+        "word": "yang",
+        "meaning": "that ~, which ~, the one",
+        "freq": 12092
+      },
+      {
+        "word": "kuning",
+        "meaning": "yellow",
+        "freq": 208
+      },
+      {
+        "word": "Elsanya",
+        "freq": 3
+      },
+      {
+        "word": "si",
+        "meaning": "(Definite article used with names or nicknames)",
+        "freq": 609
+      },
+      {
+        "word": "blonde",
+        "freq": 0
+      }
+    ],
     "start": 2,
     "end": 6,
     "video": "aOHTioRu_Jg",
@@ -17,7 +65,37 @@
   },
   {
     "id": "aOHTioRu_Jg-9080",
-    "text": "bagus Kenapa kamu nginjak aku nggak",
+    "fragments": [
+      {
+        "word": "bagus",
+        "meaning": "Beautiful, fine",
+        "freq": 825
+      },
+      {
+        "word": "Kenapa",
+        "meaning": "Why",
+        "freq": 2518
+      },
+      {
+        "word": "kamu",
+        "meaning": "you (informal)",
+        "freq": 7443
+      },
+      {
+        "word": "nginjak",
+        "freq": 0
+      },
+      {
+        "word": "aku",
+        "meaning": "I",
+        "freq": 24581
+      },
+      {
+        "word": "nggak",
+        "meaning": "no (Jakarta slang)",
+        "freq": 10320
+      }
+    ],
     "start": 9,
     "end": 13,
     "video": "aOHTioRu_Jg",
@@ -25,7 +103,31 @@
   },
   {
     "id": "aOHTioRu_Jg-17449",
-    "text": "ambil wortelnya Makasih janin Jeane",
+    "fragments": [
+      {
+        "word": "ambil",
+        "meaning": "To take",
+        "freq": 733
+      },
+      {
+        "word": "wortelnya",
+        "freq": 30
+      },
+      {
+        "word": "Makasih",
+        "meaning": "thanks",
+        "freq": 1435
+      },
+      {
+        "word": "janin",
+        "meaning": "embryo, conceptus, fertilized egg",
+        "freq": 8
+      },
+      {
+        "word": "Jeane",
+        "freq": 0
+      }
+    ],
     "start": 17,
     "end": 20,
     "video": "aOHTioRu_Jg",
@@ -33,7 +135,37 @@
   },
   {
     "id": "aOHTioRu_Jg-20570",
-    "text": "ambil wortelnya terus masuk ke jurang",
+    "fragments": [
+      {
+        "word": "ambil",
+        "meaning": "To take",
+        "freq": 733
+      },
+      {
+        "word": "wortelnya",
+        "freq": 30
+      },
+      {
+        "word": "terus",
+        "meaning": "Direct, straight, immediately, continue, keep on, next, then",
+        "freq": 2698
+      },
+      {
+        "word": "masuk",
+        "meaning": "enter",
+        "freq": 670
+      },
+      {
+        "word": "ke",
+        "meaning": "to, towards",
+        "freq": 4098
+      },
+      {
+        "word": "jurang",
+        "meaning": "gap, spread",
+        "freq": 21
+      }
+    ],
     "start": 20,
     "end": 23,
     "video": "aOHTioRu_Jg",
@@ -41,7 +173,48 @@
   },
   {
     "id": "aOHTioRu_Jg-23210",
-    "text": "let's go you can do this nice one of the",
+    "fragments": [
+      {
+        "word": "let's",
+        "freq": 0
+      },
+      {
+        "word": "go",
+        "freq": 0
+      },
+      {
+        "word": "you",
+        "freq": 12
+      },
+      {
+        "word": "can",
+        "freq": 0
+      },
+      {
+        "word": "do",
+        "freq": 0
+      },
+      {
+        "word": "this",
+        "freq": 0
+      },
+      {
+        "word": "nice",
+        "freq": 0
+      },
+      {
+        "word": "one",
+        "freq": 0
+      },
+      {
+        "word": "of",
+        "freq": 0
+      },
+      {
+        "word": "the",
+        "freq": 0
+      }
+    ],
     "start": 23,
     "end": 27,
     "video": "aOHTioRu_Jg",
@@ -49,7 +222,44 @@
   },
   {
     "id": "aOHTioRu_Jg-29570",
-    "text": "oh ya oh ya oh ya oh ya",
+    "fragments": [
+      {
+        "word": "oh",
+        "freq": 0
+      },
+      {
+        "word": "ya",
+        "meaning": "yes",
+        "freq": 24407
+      },
+      {
+        "word": "oh",
+        "freq": 0
+      },
+      {
+        "word": "ya",
+        "meaning": "yes",
+        "freq": 24407
+      },
+      {
+        "word": "oh",
+        "freq": 0
+      },
+      {
+        "word": "ya",
+        "meaning": "yes",
+        "freq": 24407
+      },
+      {
+        "word": "oh",
+        "freq": 0
+      },
+      {
+        "word": "ya",
+        "meaning": "yes",
+        "freq": 24407
+      }
+    ],
     "start": 29,
     "end": 35,
     "video": "aOHTioRu_Jg",
@@ -57,7 +267,37 @@
   },
   {
     "id": "aOHTioRu_Jg-43140",
-    "text": "tunggu dulu dong Pak Australia Sunshine",
+    "fragments": [
+      {
+        "word": "tunggu",
+        "meaning": "Wait",
+        "freq": 691
+      },
+      {
+        "word": "dulu",
+        "meaning": "previously, before",
+        "freq": 3809
+      },
+      {
+        "word": "dong",
+        "meaning": "(A mild way of emphasizing something, used at the end of a sentence)",
+        "freq": 1654
+      },
+      {
+        "word": "Pak",
+        "meaning": "Sir",
+        "freq": 528
+      },
+      {
+        "word": "Australia",
+        "freq": 9
+      },
+      {
+        "word": "Sunshine",
+        "meaning": "Sunshine",
+        "freq": 27
+      }
+    ],
     "start": 43,
     "end": 46,
     "video": "aOHTioRu_Jg",
@@ -65,7 +305,45 @@
   },
   {
     "id": "aOHTioRu_Jg-46030",
-    "text": "Oh yes yes otentik cincin jadi baru dari",
+    "fragments": [
+      {
+        "word": "Oh",
+        "freq": 0
+      },
+      {
+        "word": "yes",
+        "freq": 0
+      },
+      {
+        "word": "yes",
+        "freq": 0
+      },
+      {
+        "word": "otentik",
+        "meaning": "authentic, bona fide, unquestionable, veritable",
+        "freq": 4
+      },
+      {
+        "word": "cincin",
+        "meaning": "ring, band",
+        "freq": 17
+      },
+      {
+        "word": "jadi",
+        "meaning": "become, so, finished",
+        "freq": 4427
+      },
+      {
+        "word": "baru",
+        "meaning": "New, recent, only then, not until, to be about to",
+        "freq": 1068
+      },
+      {
+        "word": "dari",
+        "meaning": "From, out of, starting from or at, than",
+        "freq": 2815
+      }
+    ],
     "start": 46,
     "end": 49,
     "video": "aOHTioRu_Jg",
@@ -73,7 +351,48 @@
   },
   {
     "id": "aOHTioRu_Jg-49420",
-    "text": "tadi dari tadi aku serius Kamu baru buat",
+    "fragments": [
+      {
+        "word": "tadi",
+        "meaning": "Earlier, a while ago",
+        "freq": 3536
+      },
+      {
+        "word": "dari",
+        "meaning": "From, out of, starting from or at, than",
+        "freq": 2815
+      },
+      {
+        "word": "tadi",
+        "meaning": "Earlier, a while ago",
+        "freq": 3536
+      },
+      {
+        "word": "aku",
+        "meaning": "I",
+        "freq": 24581
+      },
+      {
+        "word": "serius",
+        "meaning": "serious",
+        "freq": 514
+      },
+      {
+        "word": "Kamu",
+        "meaning": "you (informal)",
+        "freq": 7443
+      },
+      {
+        "word": "baru",
+        "meaning": "New, recent, only then, not until, to be about to",
+        "freq": 1068
+      },
+      {
+        "word": "buat",
+        "meaning": "Do, make, create, for",
+        "freq": 1522
+      }
+    ],
     "start": 49,
     "end": 51,
     "video": "aOHTioRu_Jg",
@@ -81,7 +400,47 @@
   },
   {
     "id": "aOHTioRu_Jg-51970",
-    "text": "serius nih tadi aku sudah sepi now Amin",
+    "fragments": [
+      {
+        "word": "serius",
+        "meaning": "serious",
+        "freq": 514
+      },
+      {
+        "word": "nih",
+        "meaning": "this one",
+        "freq": 6006
+      },
+      {
+        "word": "tadi",
+        "meaning": "Earlier, a while ago",
+        "freq": 3536
+      },
+      {
+        "word": "aku",
+        "meaning": "I",
+        "freq": 24581
+      },
+      {
+        "word": "sudah",
+        "meaning": "Already, past, last, all right, OK",
+        "freq": 1474
+      },
+      {
+        "word": "sepi",
+        "meaning": "quiet",
+        "freq": 80
+      },
+      {
+        "word": "now",
+        "freq": 0
+      },
+      {
+        "word": "Amin",
+        "meaning": "Amen.",
+        "freq": 153
+      }
+    ],
     "start": 51,
     "end": 54,
     "video": "aOHTioRu_Jg",
@@ -89,7 +448,54 @@
   },
   {
     "id": "aOHTioRu_Jg-54430",
-    "text": "Mae Mimi oke oke oke oke Let Me See your",
+    "fragments": [
+      {
+        "word": "Mae",
+        "meaning": "Mae.",
+        "freq": 8
+      },
+      {
+        "word": "Mimi",
+        "meaning": "Mimi.",
+        "freq": 60
+      },
+      {
+        "word": "oke",
+        "meaning": "OK",
+        "freq": 14012
+      },
+      {
+        "word": "oke",
+        "meaning": "OK",
+        "freq": 14012
+      },
+      {
+        "word": "oke",
+        "meaning": "OK",
+        "freq": 14012
+      },
+      {
+        "word": "oke",
+        "meaning": "OK",
+        "freq": 14012
+      },
+      {
+        "word": "Let",
+        "freq": 0
+      },
+      {
+        "word": "Me",
+        "freq": 0
+      },
+      {
+        "word": "See",
+        "freq": 0
+      },
+      {
+        "word": "your",
+        "freq": 0
+      }
+    ],
     "start": 54,
     "end": 58,
     "video": "aOHTioRu_Jg",
@@ -97,7 +503,41 @@
   },
   {
     "id": "aOHTioRu_Jg-58660",
-    "text": "school timed serius ya ya asgo ya",
+    "fragments": [
+      {
+        "word": "school",
+        "meaning": "School",
+        "freq": 99
+      },
+      {
+        "word": "timed",
+        "freq": 0
+      },
+      {
+        "word": "serius",
+        "meaning": "serious",
+        "freq": 514
+      },
+      {
+        "word": "ya",
+        "meaning": "yes",
+        "freq": 24407
+      },
+      {
+        "word": "ya",
+        "meaning": "yes",
+        "freq": 24407
+      },
+      {
+        "word": "asgo",
+        "freq": 0
+      },
+      {
+        "word": "ya",
+        "meaning": "yes",
+        "freq": 24407
+      }
+    ],
     "start": 58,
     "end": 63,
     "video": "aOHTioRu_Jg",
