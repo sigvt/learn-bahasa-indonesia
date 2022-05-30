@@ -1,0 +1,20 @@
+version: "3"
+
+services:
+  meili:
+    image: getmeili/meilisearch
+    ports:
+      - "7700:7700"
+    volumes:
+      - ./data/meili:/meili_data
+
+  web:
+    build: .
+    command: yarn dev
+    ports:
+      - "3000:3000"
+    volumes:
+      - "./pages:/app/pages"
+      - "./styles:/app/styles"
+      - "./public:/app/public"
+      - "./scripts:/app/scripts"

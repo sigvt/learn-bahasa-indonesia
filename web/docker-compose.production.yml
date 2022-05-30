@@ -1,0 +1,20 @@
+version: "3"
+
+services:
+  meili:
+    image: getmeili/meilisearch
+    volumes:
+      - ./data/meili:/meili_data
+
+  web:
+    build: .
+    environment:
+      - VIRTUAL_HOST=learn-id.holodata.org
+      - LETSENCRYPT_HOST=learn-id.holodata.org
+    networks:
+      - default
+      - webproxy
+
+networks:
+  webproxy:
+    external: true

@@ -91,7 +91,6 @@ const StyledArrow = styled(Tooltip.Arrow, {
 
 const WordWithInfo = styled("span", {
   color: "#e34b4b",
-  // borderBottom: "3px dotted green",
 });
 
 const Text = styled("div", {
