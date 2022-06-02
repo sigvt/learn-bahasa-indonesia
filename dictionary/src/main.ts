@@ -175,10 +175,10 @@ async function main() {
   // Create vocabs
   const vocab = generateVocab(corpus).filter(([_, freq]) => freq >= 5);
 
-  fs.writeFileSync(
-    join(DIST_DIR, "vocab.csv"),
-    vocab.map((pair) => pair.join(",")).join("\n") + "\n"
-  );
+  // fs.writeFileSync(
+  //   join(DIST_DIR, "vocab.csv"),
+  //   vocab.map((pair) => pair.join(",")).join("\n") + "\n"
+  // );
 
   // Create and update dictionary
   const dictFromVocab = Object.fromEntries(
@@ -218,9 +218,12 @@ async function main() {
   );
 
   fs.writeFileSync(
-    join(DIST_DIR, "dictionary.csv"),
+    join(DIST_DIR, "flashcard.tsv"),
     await csv.stringify(
-      Object.entries(dict).map(([title, entry]) => [title, entry.meaning])
+      Object.entries(sortObject(dict, "frequency"))
+        .filter(([_, entry]) => entry.meaning)
+        .map(([title, entry]) => [title, entry.meaning]),
+      { delimiter: "\t" }
     )
   );
 

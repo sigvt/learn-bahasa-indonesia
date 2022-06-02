@@ -5,12 +5,12 @@
       {
         "word": "kuning",
         "meaning": "yellow",
-        "freq": 208
+        "freq": 264
       },
       {
         "word": "siapa",
-        "meaning": "Who, whose, whom",
-        "freq": 1606
+        "meaning": "who, whose, whom",
+        "freq": 1630
       },
       {
         "word": "ping",
@@ -18,8 +18,8 @@
       },
       {
         "word": "siapa",
-        "meaning": "Who, whose, whom",
-        "freq": 1606
+        "meaning": "who, whose, whom",
+        "freq": 1630
       }
     ],
     "start": 0,
@@ -37,12 +37,12 @@
       {
         "word": "yang",
         "meaning": "that ~, which ~, the one",
-        "freq": 12092
+        "freq": 12447
       },
       {
         "word": "kuning",
         "meaning": "yellow",
-        "freq": 208
+        "freq": 264
       },
       {
         "word": "Elsanya",
@@ -51,7 +51,7 @@
       {
         "word": "si",
         "meaning": "(Definite article used with names or nicknames)",
-        "freq": 609
+        "freq": 638
       },
       {
         "word": "blonde",
@@ -68,18 +68,18 @@
     "fragments": [
       {
         "word": "bagus",
-        "meaning": "Beautiful, fine",
-        "freq": 825
+        "meaning": "beautiful, fine",
+        "freq": 842
       },
       {
         "word": "Kenapa",
-        "meaning": "Why",
-        "freq": 2518
+        "meaning": "why",
+        "freq": 2575
       },
       {
         "word": "kamu",
         "meaning": "you (informal)",
-        "freq": 7443
+        "freq": 7509
       },
       {
         "word": "nginjak",
@@ -88,12 +88,12 @@
       {
         "word": "aku",
         "meaning": "I",
-        "freq": 24581
+        "freq": 25196
       },
       {
         "word": "nggak",
         "meaning": "no (Jakarta slang)",
-        "freq": 10320
+        "freq": 10536
       }
     ],
     "start": 9,
@@ -106,8 +106,8 @@
     "fragments": [
       {
         "word": "ambil",
-        "meaning": "To take",
-        "freq": 733
+        "meaning": "to take",
+        "freq": 747
       },
       {
         "word": "wortelnya",
@@ -116,7 +116,7 @@
       {
         "word": "Makasih",
         "meaning": "thanks",
-        "freq": 1435
+        "freq": 1466
       },
       {
         "word": "janin",
@@ -138,8 +138,8 @@
     "fragments": [
       {
         "word": "ambil",
-        "meaning": "To take",
-        "freq": 733
+        "meaning": "to take",
+        "freq": 747
       },
       {
         "word": "wortelnya",
@@ -147,23 +147,23 @@
       },
       {
         "word": "terus",
-        "meaning": "Direct, straight, immediately, continue, keep on, next, then",
-        "freq": 2698
+        "meaning": "direct, straight, immediately, continue, keep on, next, then",
+        "freq": 2820
       },
       {
         "word": "masuk",
         "meaning": "enter",
-        "freq": 670
+        "freq": 677
       },
       {
         "word": "ke",
         "meaning": "to, towards",
-        "freq": 4098
+        "freq": 4185
       },
       {
         "word": "jurang",
         "meaning": "gap, spread",
-        "freq": 21
+        "freq": 22
       }
     ],
     "start": 20,
@@ -230,7 +230,7 @@
       {
         "word": "ya",
         "meaning": "yes",
-        "freq": 24407
+        "freq": 25028
       },
       {
         "word": "oh",
@@ -239,7 +239,7 @@
       {
         "word": "ya",
         "meaning": "yes",
-        "freq": 24407
+        "freq": 25028
       },
       {
         "word": "oh",
@@ -248,7 +248,7 @@
       {
         "word": "ya",
         "meaning": "yes",
-        "freq": 24407
+        "freq": 25028
       },
       {
         "word": "oh",
@@ -257,7 +257,7 @@
       {
         "word": "ya",
         "meaning": "yes",
-        "freq": 24407
+        "freq": 25028
       }
     ],
     "start": 29,
@@ -271,22 +271,22 @@
       {
         "word": "tunggu",
         "meaning": "Wait",
-        "freq": 691
+        "freq": 707
       },
       {
         "word": "dulu",
         "meaning": "previously, before",
-        "freq": 3809
+        "freq": 3912
       },
       {
         "word": "dong",
         "meaning": "(A mild way of emphasizing something, used at the end of a sentence)",
-        "freq": 1654
+        "freq": 1710
       },
       {
         "word": "Pak",
         "meaning": "Sir",
-        "freq": 528
+        "freq": 533
       },
       {
         "word": "Australia",
@@ -331,17 +331,17 @@
       {
         "word": "jadi",
         "meaning": "become, so, finished",
-        "freq": 4427
+        "freq": 4510
       },
       {
         "word": "baru",
-        "meaning": "New, recent, only then, not until, to be about to",
-        "freq": 1068
+        "meaning": "new, recent, only then, not until, to be about to",
+        "freq": 1091
       },
       {
         "word": "dari",
-        "meaning": "From, out of, starting from or at, than",
-        "freq": 2815
+        "meaning": "from, out of, starting from or at, than",
+        "freq": 2911
       }
     ],
     "start": 46,
@@ -355,42 +355,42 @@
       {
         "word": "tadi",
         "meaning": "Earlier, a while ago",
-        "freq": 3536
+        "freq": 3631
       },
       {
         "word": "dari",
-        "meaning": "From, out of, starting from or at, than",
-        "freq": 2815
+        "meaning": "from, out of, starting from or at, than",
+        "freq": 2911
       },
       {
         "word": "tadi",
         "meaning": "Earlier, a while ago",
-        "freq": 3536
+        "freq": 3631
       },
       {
         "word": "aku",
         "meaning": "I",
-        "freq": 24581
+        "freq": 25196
       },
       {
         "word": "serius",
         "meaning": "serious",
-        "freq": 514
+        "freq": 520
       },
       {
         "word": "Kamu",
         "meaning": "you (informal)",
-        "freq": 7443
+        "freq": 7509
       },
       {
         "word": "baru",
-        "meaning": "New, recent, only then, not until, to be about to",
-        "freq": 1068
+        "meaning": "new, recent, only then, not until, to be about to",
+        "freq": 1091
       },
       {
         "word": "buat",
-        "meaning": "Do, make, create, for",
-        "freq": 1522
+        "meaning": "do, make, create",
+        "freq": 1558
       }
     ],
     "start": 49,
@@ -404,32 +404,32 @@
       {
         "word": "serius",
         "meaning": "serious",
-        "freq": 514
+        "freq": 520
       },
       {
         "word": "nih",
         "meaning": "this one",
-        "freq": 6006
+        "freq": 6161
       },
       {
         "word": "tadi",
         "meaning": "Earlier, a while ago",
-        "freq": 3536
+        "freq": 3631
       },
       {
         "word": "aku",
         "meaning": "I",
-        "freq": 24581
+        "freq": 25196
       },
       {
         "word": "sudah",
-        "meaning": "Already, past, last, all right, OK",
-        "freq": 1474
+        "meaning": "already, past, last, all right",
+        "freq": 1526
       },
       {
         "word": "sepi",
         "meaning": "quiet",
-        "freq": 80
+        "freq": 85
       },
       {
         "word": "now",
@@ -438,7 +438,7 @@
       {
         "word": "Amin",
         "meaning": "Amen.",
-        "freq": 153
+        "freq": 157
       }
     ],
     "start": 51,
@@ -452,32 +452,32 @@
       {
         "word": "Mae",
         "meaning": "Mae.",
-        "freq": 8
+        "freq": 9
       },
       {
         "word": "Mimi",
         "meaning": "Mimi.",
-        "freq": 60
+        "freq": 61
       },
       {
         "word": "oke",
         "meaning": "OK",
-        "freq": 14012
+        "freq": 14433
       },
       {
         "word": "oke",
         "meaning": "OK",
-        "freq": 14012
+        "freq": 14433
       },
       {
         "word": "oke",
         "meaning": "OK",
-        "freq": 14012
+        "freq": 14433
       },
       {
         "word": "oke",
         "meaning": "OK",
-        "freq": 14012
+        "freq": 14433
       },
       {
         "word": "Let",
@@ -516,17 +516,17 @@
       {
         "word": "serius",
         "meaning": "serious",
-        "freq": 514
+        "freq": 520
       },
       {
         "word": "ya",
         "meaning": "yes",
-        "freq": 24407
+        "freq": 25028
       },
       {
         "word": "ya",
         "meaning": "yes",
-        "freq": 24407
+        "freq": 25028
       },
       {
         "word": "asgo",
@@ -535,7 +535,7 @@
       {
         "word": "ya",
         "meaning": "yes",
-        "freq": 24407
+        "freq": 25028
       }
     ],
     "start": 58,

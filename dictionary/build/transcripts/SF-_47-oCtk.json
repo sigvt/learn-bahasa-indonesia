@@ -5,12 +5,12 @@
       {
         "word": "merupakan",
         "meaning": "represent",
-        "freq": 29
+        "freq": 30
       },
       {
         "word": "hanya",
         "meaning": "Just, only, however",
-        "freq": 534
+        "freq": 544
       },
       {
         "word": "Engkaulah",
@@ -19,7 +19,7 @@
       {
         "word": "ayah",
         "meaning": "Father",
-        "freq": 502
+        "freq": 508
       }
     ],
     "start": 20,
@@ -33,22 +33,22 @@
       {
         "word": "ini",
         "meaning": "this",
-        "freq": 15949
+        "freq": 16311
       },
       {
         "word": "rezeki",
         "meaning": "Blessing",
-        "freq": 223
+        "freq": 228
       },
       {
         "word": "di",
         "meaning": "in, at, upon",
-        "freq": 8908
+        "freq": 9178
       },
       {
         "word": "rumah",
         "meaning": "House",
-        "freq": 579
+        "freq": 590
       },
       {
         "word": "hampa",
@@ -58,12 +58,12 @@
       {
         "word": "masalah",
         "meaning": "problem",
-        "freq": 237
+        "freq": 240
       },
       {
         "word": "datang",
         "meaning": "come",
-        "freq": 342
+        "freq": 345
       }
     ],
     "start": 30,
@@ -77,22 +77,22 @@
       {
         "word": "dan",
         "meaning": "and",
-        "freq": 2549
+        "freq": 2597
       },
       {
         "word": "pergi",
         "meaning": "go",
-        "freq": 347
+        "freq": 351
       },
       {
         "word": "sudah",
-        "meaning": "Already, past, last, all right, OK",
-        "freq": 1474
+        "meaning": "already, past, last, all right",
+        "freq": 1526
       },
       {
         "word": "biasa",
         "meaning": "normal",
-        "freq": 532
+        "freq": 539
       }
     ],
     "start": 34,
@@ -105,23 +105,23 @@
     "fragments": [
       {
         "word": "sendiri",
-        "meaning": "Self, own, by yourself",
-        "freq": 766
+        "meaning": "own, by yourself",
+        "freq": 784
       },
       {
         "word": "lagi",
         "meaning": "again",
-        "freq": 6700
+        "freq": 6863
       },
       {
         "word": "enggan",
         "meaning": "reluctant",
-        "freq": 45
+        "freq": 46
       },
       {
         "word": "untuk",
-        "meaning": "For, on behalf of, in order to",
-        "freq": 1517
+        "meaning": "for, on behalf of, in order to",
+        "freq": 1556
       },
       {
         "word": "melangkah",
@@ -145,22 +145,22 @@
       {
         "word": "mata",
         "meaning": "eye",
-        "freq": 282
+        "freq": 286
       },
       {
         "word": "menatap",
         "meaning": "Staring",
-        "freq": 32
+        "freq": 34
       },
       {
         "word": "langit",
         "meaning": "sky",
-        "freq": 50
+        "freq": 51
       },
       {
         "word": "menjadi",
         "meaning": "Becomes",
-        "freq": 393
+        "freq": 403
       }
     ],
     "start": 42,
@@ -182,7 +182,7 @@
       {
         "word": "nangis",
         "meaning": "cry",
-        "freq": 231
+        "freq": 234
       },
       {
         "word": "bantala",
@@ -191,8 +191,8 @@
       },
       {
         "word": "tak",
-        "meaning": "No, not",
-        "freq": 822
+        "meaning": "no, not",
+        "freq": 844
       }
     ],
     "start": 46,
@@ -214,8 +214,8 @@
       },
       {
         "word": "Ayo",
-        "meaning": "Let's go, come on",
-        "freq": 2368
+        "meaning": "let's go, come on",
+        "freq": 2422
       },
       {
         "word": "jelajahi",
@@ -224,7 +224,7 @@
       {
         "word": "dulunya",
         "meaning": "once, formerly, at one time, erstwhile, erst",
-        "freq": 17
+        "freq": 18
       }
     ],
     "start": 50,
@@ -247,12 +247,12 @@
       {
         "word": "angin",
         "meaning": "wind",
-        "freq": 111
+        "freq": 116
       },
       {
         "word": "saat",
         "meaning": "moment, while",
-        "freq": 334
+        "freq": 344
       },
       {
         "word": "terselesaikan",
@@ -270,17 +270,17 @@
       {
         "word": "masalah",
         "meaning": "problem",
-        "freq": 237
+        "freq": 240
       },
       {
         "word": "Hai",
         "meaning": "hey",
-        "freq": 37254
+        "freq": 37966
       },
       {
         "word": "sehari",
         "meaning": "a day",
-        "freq": 46
+        "freq": 47
       },
       {
         "word": "kemih",
@@ -288,8 +288,8 @@
       },
       {
         "word": "untuk",
-        "meaning": "For, on behalf of, in order to",
-        "freq": 1517
+        "meaning": "for, on behalf of, in order to",
+        "freq": 1556
       },
       {
         "word": "mencegah",
@@ -308,22 +308,22 @@
       {
         "word": "tangan",
         "meaning": "hand",
-        "freq": 172
+        "freq": 175
       },
       {
         "word": "malah",
         "meaning": "rather",
-        "freq": 264
+        "freq": 266
       },
       {
         "word": "hujan",
         "meaning": "rain",
-        "freq": 329
+        "freq": 331
       },
       {
         "word": "tak",
-        "meaning": "No, not",
-        "freq": 822
+        "meaning": "no, not",
+        "freq": 844
       },
       {
         "word": "kunjung",
@@ -333,7 +333,7 @@
       {
         "word": "berhenti",
         "meaning": "stop",
-        "freq": 170
+        "freq": 171
       }
     ],
     "start": 68,
@@ -346,18 +346,18 @@
     "fragments": [
       {
         "word": "masih",
-        "meaning": "Still, yet",
-        "freq": 2087
+        "meaning": "still, yet",
+        "freq": 2151
       },
       {
         "word": "ada",
         "meaning": "there is, there are",
-        "freq": 10019
+        "freq": 10427
       },
       {
         "word": "ampun",
         "meaning": "Forgiveness",
-        "freq": 275
+        "freq": 280
       },
       {
         "word": "temanimu",
@@ -367,7 +367,7 @@
       {
         "word": "disini",
         "meaning": "here",
-        "freq": 866
+        "freq": 891
       },
       {
         "word": "lafalkan",
@@ -391,12 +391,12 @@
       {
         "word": "tentang",
         "meaning": "about",
-        "freq": 200
+        "freq": 205
       },
       {
         "word": "cahaya",
         "meaning": "light",
-        "freq": 75
+        "freq": 76
       },
       {
         "word": "bersinar",
@@ -415,17 +415,17 @@
       {
         "word": "hilang",
         "meaning": "is lost",
-        "freq": 423
+        "freq": 438
       },
       {
         "word": "tak",
-        "meaning": "No, not",
-        "freq": 822
+        "meaning": "no, not",
+        "freq": 844
       },
       {
         "word": "semua",
-        "meaning": "All",
-        "freq": 2094
+        "meaning": "all",
+        "freq": 2135
       },
       {
         "word": "raksasa",
@@ -435,7 +435,7 @@
       {
         "word": "yang",
         "meaning": "that ~, which ~, the one",
-        "freq": 12092
+        "freq": 12447
       },
       {
         "word": "selimuti",

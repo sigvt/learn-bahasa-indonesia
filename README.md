@@ -2,11 +2,15 @@
 
 ## Vocabulary Builder
 
-- **[dictionary.json](./dictionary/build/dictionary.json)**: Handcrafted Indonesian-English dictionary (WIP)
-- **[vocab.csv](./dictionary/build/vocab.csv)**: Most frequent Indonesian words appeared on HoloID streams
-- **[bigram.csv](./dictionary/build/bigram.csv)**: Two-word collocation corpus generated from YouTube subtitles
+[🪶 Quizlet](https://quizlet.com/_bnlcg7?x=1qqt&i=1euf7y) - Top 500 most frequent Indonesian words spoken in Hololive ID live streams
 
-### Dictionary Explanation
+### Raw Data
+
+- **[Dictionary (JSON)](./dictionary/build/dictionary.json)**: Community-maintained Indonesian-English dictionary
+- **[Flashcard (TSV)](./dictionary/build/flashcard.tsv)**: Tab-delimited list of most frequent Indonesian words appeared in HoloID streams
+- **[Bi-gram (CSV)](./dictionary/build/bigram.csv)**: Two-word collocation corpus
+
+#### Dictionary Explanation
 
 - **Idiolect** : A sound that is created by speech habits from particular area and usually has no meaning.
 - **TYPO** : The word is a typo or need further inspection on the context.

@@ -5,7 +5,7 @@
       {
         "word": "Ayu",
         "meaning": "Ayu.",
-        "freq": 118
+        "freq": 124
       },
       {
         "word": "nemen",
@@ -14,12 +14,12 @@
       {
         "word": "jus",
         "meaning": "juice, succus",
-        "freq": 42
+        "freq": 43
       },
       {
         "word": "lemon",
         "meaning": "lemony, lemonlike, sourish, tangy, tart",
-        "freq": 37
+        "freq": 38
       },
       {
         "word": "sekaligus",
@@ -29,7 +29,7 @@
       {
         "word": "pendek",
         "meaning": "short",
-        "freq": 56
+        "freq": 58
       }
     ],
     "start": 118,
@@ -43,7 +43,7 @@
       {
         "word": "oke",
         "meaning": "OK",
-        "freq": 14012
+        "freq": 14433
       },
       {
         "word": "address",
@@ -82,7 +82,7 @@
       {
         "word": "saat",
         "meaning": "moment, while",
-        "freq": 334
+        "freq": 344
       },
       {
         "word": "is",
@@ -98,8 +98,8 @@
       },
       {
         "word": "yah",
-        "meaning": "Idiolect, similar to oh well",
-        "freq": 822
+        "meaning": "(Idiolect) similar to oh well",
+        "freq": 843
       }
     ],
     "start": 140,
@@ -117,7 +117,7 @@
       {
         "word": "bakau",
         "meaning": "mangrove, rhizophora mangle",
-        "freq": 8
+        "freq": 9
       },
       {
         "word": "chanayu",
@@ -163,13 +163,13 @@
       },
       {
         "word": "hei",
-        "meaning": "Hey",
-        "freq": 753
+        "meaning": "hey",
+        "freq": 768
       },
       {
         "word": "hai",
         "meaning": "hey",
-        "freq": 37254
+        "freq": 37966
       },
       {
         "word": "Mila",
@@ -191,32 +191,32 @@
       {
         "word": "makasih",
         "meaning": "thanks",
-        "freq": 1435
+        "freq": 1466
       },
       {
         "word": "ya",
         "meaning": "yes",
-        "freq": 24407
+        "freq": 25028
       },
       {
         "word": "udah",
         "meaning": "finished",
-        "freq": 11140
+        "freq": 11415
       },
       {
         "word": "datang",
         "meaning": "come",
-        "freq": 342
+        "freq": 345
       },
       {
         "word": "hari",
-        "meaning": "Day",
-        "freq": 980
+        "meaning": "day",
+        "freq": 998
       },
       {
         "word": "ini",
         "meaning": "this",
-        "freq": 15949
+        "freq": 16311
       }
     ],
     "start": 170,
@@ -238,7 +238,7 @@
       {
         "word": "aligato",
         "meaning": "Aligato.",
-        "freq": 35
+        "freq": 36
       },
       {
         "word": "eh",
@@ -246,13 +246,13 @@
       },
       {
         "word": "jangan",
-        "meaning": "Do not, should not",
-        "freq": 2822
+        "meaning": "do not, should not",
+        "freq": 2867
       },
       {
         "word": "ingat",
         "meaning": "remember",
-        "freq": 167
+        "freq": 172
       }
     ],
     "start": 188,
@@ -266,22 +266,22 @@
       {
         "word": "ada",
         "meaning": "there is, there are",
-        "freq": 10019
+        "freq": 10427
       },
       {
         "word": "ininya",
         "meaning": "This is (Suffix nya)",
-        "freq": 231
+        "freq": 235
       },
       {
         "word": "nggak",
         "meaning": "no (Jakarta slang)",
-        "freq": 10320
+        "freq": 10536
       },
       {
         "word": "ya",
         "meaning": "yes",
-        "freq": 24407
+        "freq": 25028
       }
     ],
     "start": 197,
@@ -295,32 +295,32 @@
       {
         "word": "nyari",
         "meaning": "Looking for",
-        "freq": 209
+        "freq": 211
       },
       {
         "word": "sana",
         "meaning": "there",
-        "freq": 467
+        "freq": 479
       },
       {
         "word": "Ayah",
         "meaning": "Father",
-        "freq": 502
+        "freq": 508
       },
       {
         "word": "harusnya",
         "meaning": "Should be",
-        "freq": 488
+        "freq": 498
       },
       {
         "word": "nanti",
-        "meaning": "Later, presently",
-        "freq": 2270
+        "meaning": "later, presently",
+        "freq": 2327
       },
       {
         "word": "ada-ada",
         "meaning": "Silly",
-        "freq": 229
+        "freq": 247
       }
     ],
     "start": 200,
@@ -334,22 +334,22 @@
       {
         "word": "ini",
         "meaning": "this",
-        "freq": 15949
+        "freq": 16311
       },
       {
         "word": "ya",
         "meaning": "yes",
-        "freq": 24407
+        "freq": 25028
       },
       {
         "word": "Anda",
         "meaning": "You, your, yours",
-        "freq": 401
+        "freq": 410
       },
       {
         "word": "ada",
         "meaning": "there is, there are",
-        "freq": 10019
+        "freq": 10427
       },
       {
         "word": "notifnya",
@@ -359,17 +359,17 @@
       {
         "word": "ya",
         "meaning": "yes",
-        "freq": 24407
+        "freq": 25028
       },
       {
         "word": "jadi",
         "meaning": "become, so, finished",
-        "freq": 4427
+        "freq": 4510
       },
       {
         "word": "Hai",
         "meaning": "hey",
-        "freq": 37254
+        "freq": 37966
       }
     ],
     "start": 205,
@@ -383,7 +383,7 @@
       {
         "word": "ya",
         "meaning": "yes",
-        "freq": 24407
+        "freq": 25028
       },
       {
         "word": "wkwkw",
@@ -392,32 +392,32 @@
       {
         "word": "Ya",
         "meaning": "yes",
-        "freq": 24407
+        "freq": 25028
       },
       {
         "word": "jadi",
         "meaning": "become, so, finished",
-        "freq": 4427
+        "freq": 4510
       },
       {
         "word": "hari",
-        "meaning": "Day",
-        "freq": 980
+        "meaning": "day",
+        "freq": 998
       },
       {
         "word": "ini",
         "meaning": "this",
-        "freq": 15949
+        "freq": 16311
       },
       {
         "word": "kamu",
         "meaning": "you (informal)",
-        "freq": 7443
+        "freq": 7509
       },
       {
         "word": "mau",
         "meaning": "want, wish",
-        "freq": 6936
+        "freq": 7082
       }
     ],
     "start": 212,
@@ -439,17 +439,17 @@
       {
         "word": "gak",
         "meaning": "no",
-        "freq": 1638
+        "freq": 1673
       },
       {
         "word": "yakin",
         "meaning": "convinced",
-        "freq": 100
+        "freq": 102
       },
       {
         "word": "sudah",
-        "meaning": "Already, past, last, all right, OK",
-        "freq": 1474
+        "meaning": "already, past, last, all right",
+        "freq": 1526
       },
       {
         "word": "termonetisasi",
@@ -475,12 +475,12 @@
       {
         "word": "Kobo",
         "meaning": "Kobo",
-        "freq": 530
+        "freq": 536
       },
       {
         "word": "ini",
         "meaning": "this",
-        "freq": 15949
+        "freq": 16311
       },
       {
         "word": "guys",
@@ -510,7 +510,7 @@
       {
         "word": "nah",
         "meaning": "Well!, here!, see now!",
-        "freq": 3494
+        "freq": 3587
       },
       {
         "word": "Berhubung",
@@ -518,8 +518,8 @@
       },
       {
         "word": "untuk",
-        "meaning": "For, on behalf of, in order to",
-        "freq": 1517
+        "meaning": "for, on behalf of, in order to",
+        "freq": 1556
       },
       {
         "word": "merayakan",
@@ -538,32 +538,32 @@
       {
         "word": "apalagi",
         "meaning": "especially",
-        "freq": 264
+        "freq": 273
       },
       {
         "word": "toh",
         "meaning": "Idiolect",
-        "freq": 198
+        "freq": 201
       },
       {
         "word": "yah",
-        "meaning": "Idiolect, similar to oh well",
-        "freq": 822
+        "meaning": "(Idiolect) similar to oh well",
+        "freq": 843
       },
       {
         "word": "kok",
         "meaning": "Idiolect, shuttlecock, bird, birdie, shuttle",
-        "freq": 2566
+        "freq": 2609
       },
       {
         "word": "mau",
         "meaning": "want, wish",
-        "freq": 6936
+        "freq": 7082
       },
       {
         "word": "nyanyi",
         "meaning": "singing",
-        "freq": 236
+        "freq": 238
       },
       {
         "word": "karaoke",
@@ -585,7 +585,7 @@
       {
         "word": "sebelumnya",
         "meaning": "previously",
-        "freq": 99
+        "freq": 100
       },
       {
         "word": "Rencananya",
@@ -594,7 +594,7 @@
       {
         "word": "mau",
         "meaning": "want, wish",
-        "freq": 6936
+        "freq": 7082
       },
       {
         "word": "karaoke",
@@ -612,12 +612,12 @@
       {
         "word": "Hai",
         "meaning": "hey",
-        "freq": 37254
+        "freq": 37966
       },
       {
         "word": "Hai",
         "meaning": "hey",
-        "freq": 37254
+        "freq": 37966
       },
       {
         "word": "guys",
@@ -626,12 +626,12 @@
       {
         "word": "Oke",
         "meaning": "OK",
-        "freq": 14012
+        "freq": 14433
       },
       {
         "word": "oke",
         "meaning": "OK",
-        "freq": 14012
+        "freq": 14433
       }
     ],
     "start": 257,
@@ -645,27 +645,27 @@
       {
         "word": "kita",
         "meaning": "(inclusive) we",
-        "freq": 8287
+        "freq": 8557
       },
       {
         "word": "mulai",
         "meaning": "start",
-        "freq": 551
+        "freq": 570
       },
       {
         "word": "aja",
         "meaning": "just",
-        "freq": 5574
+        "freq": 5690
       },
       {
         "word": "kau",
-        "meaning": "You, thee, thou",
-        "freq": 2543
+        "meaning": "you, thee, thou",
+        "freq": 2589
       },
       {
         "word": "ya",
         "meaning": "yes",
-        "freq": 24407
+        "freq": 25028
       }
     ],
     "start": 264,
@@ -679,42 +679,42 @@
       {
         "word": "Hai",
         "meaning": "hey",
-        "freq": 37254
+        "freq": 37966
       },
       {
         "word": "hai",
         "meaning": "hey",
-        "freq": 37254
+        "freq": 37966
       },
       {
         "word": "itu",
         "meaning": "that, those",
-        "freq": 10635
+        "freq": 10954
       },
       {
         "word": "mah",
         "meaning": "Calling mom, \"ini mah\" this is just",
-        "freq": 490
+        "freq": 496
       },
       {
         "word": "kalau",
         "meaning": "if",
-        "freq": 6823
+        "freq": 6975
       },
       {
         "word": "ada",
         "meaning": "there is, there are",
-        "freq": 10019
+        "freq": 10427
       },
       {
         "word": "kalau",
         "meaning": "if",
-        "freq": 6823
+        "freq": 6975
       },
       {
         "word": "ada",
         "meaning": "there is, there are",
-        "freq": 10019
+        "freq": 10427
       }
     ],
     "start": 272,
@@ -727,23 +727,23 @@
     "fragments": [
       {
         "word": "salah",
-        "meaning": "Fault, mistake, wrong",
-        "freq": 1082
+        "meaning": "fault, mistake, wrong",
+        "freq": 1113
       },
       {
         "word": "maaf",
-        "meaning": "Excuse, forgive, pardon, ask permission to leave",
-        "freq": 1123
+        "meaning": "sorry, excuse, forgive, pardon, ask permission to leave",
+        "freq": 1140
       },
       {
         "word": "ya",
         "meaning": "yes",
-        "freq": 24407
+        "freq": 25028
       },
       {
         "word": "teh",
         "meaning": "tea, can also means calling older woman (Sundanese)",
-        "freq": 536
+        "freq": 553
       },
       {
         "word": "ibu-ibu",
@@ -752,7 +752,7 @@
       {
         "word": "mistik",
         "meaning": "mysterious, mystic, mystical, occult, secret, orphic",
-        "freq": 10
+        "freq": 11
       },
       {
         "word": "I'm",
@@ -774,7 +774,7 @@
       {
         "word": "oke",
         "meaning": "OK",
-        "freq": 14012
+        "freq": 14433
       },
       {
         "word": "please",
@@ -845,7 +845,7 @@
       {
         "word": "Dragon",
         "meaning": "dragoon",
-        "freq": 290
+        "freq": 293
       },
       {
         "word": "Mai",
@@ -867,7 +867,7 @@
       {
         "word": "oke",
         "meaning": "OK",
-        "freq": 14012
+        "freq": 14433
       }
     ],
     "start": 286,
@@ -881,17 +881,17 @@
       {
         "word": "oke",
         "meaning": "OK",
-        "freq": 14012
+        "freq": 14433
       },
       {
         "word": "tapi",
-        "meaning": "But",
-        "freq": 3584
+        "meaning": "but",
+        "freq": 3672
       },
       {
         "word": "takut",
         "meaning": "Be afraid",
-        "freq": 512
+        "freq": 523
       },
       {
         "word": "Winx",
@@ -925,12 +925,12 @@
       {
         "word": "kah",
         "meaning": "Idiolect, says to confirm things, \"ini kah?\" is this it ?",
-        "freq": 468
+        "freq": 481
       },
       {
         "word": "itu",
         "meaning": "that, those",
-        "freq": 10635
+        "freq": 10954
       },
       {
         "word": "value",
@@ -952,27 +952,27 @@
       {
         "word": "keju",
         "meaning": "cheese",
-        "freq": 69
+        "freq": 71
       },
       {
         "word": "garis",
         "meaning": "line",
-        "freq": 18
+        "freq": 19
       },
       {
         "word": "yang",
         "meaning": "that ~, which ~, the one",
-        "freq": 12092
+        "freq": 12447
       },
       {
         "word": "naik",
-        "meaning": "Climb, go up, ride",
-        "freq": 848
+        "meaning": "climb, go up, ride",
+        "freq": 862
       },
       {
         "word": "ke",
         "meaning": "to, towards",
-        "freq": 4098
+        "freq": 4185
       }
     ],
     "start": 310,
@@ -986,7 +986,7 @@
       {
         "word": "Hai",
         "meaning": "hey",
-        "freq": 37254
+        "freq": 37966
       },
       {
         "word": "legging",
@@ -995,7 +995,7 @@
       {
         "word": "klik",
         "meaning": "click",
-        "freq": 165
+        "freq": 172
       },
       {
         "word": "like",
@@ -1013,12 +1013,12 @@
       {
         "word": "Ya",
         "meaning": "yes",
-        "freq": 24407
+        "freq": 25028
       },
       {
         "word": "ampun",
         "meaning": "Forgiveness",
-        "freq": 275
+        "freq": 280
       },
       {
         "word": "Oh",
@@ -1027,12 +1027,12 @@
       {
         "word": "iya",
         "meaning": "yeah",
-        "freq": 4708
+        "freq": 4819
       },
       {
         "word": "dong",
         "meaning": "(A mild way of emphasizing something, used at the end of a sentence)",
-        "freq": 1654
+        "freq": 1710
       }
     ],
     "start": 317,
@@ -1050,21 +1050,21 @@
       {
         "word": "Ono",
         "meaning": "Ono",
-        "freq": 87
+        "freq": 88
       },
       {
         "word": "wae",
         "meaning": "Wae",
-        "freq": 98
+        "freq": 100
       },
       {
         "word": "yo",
-        "meaning": "Yo",
-        "freq": 1822
+        "meaning": "yo",
+        "freq": 1875
       },
       {
         "word": "nomore",
-        "freq": 0
+        "freq": 5
       },
       {
         "word": "happening",
@@ -1073,7 +1073,7 @@
       {
         "word": "banget",
         "meaning": "very, extremely",
-        "freq": 4213
+        "freq": 4305
       }
     ],
     "start": 322,
@@ -1087,27 +1087,27 @@
       {
         "word": "Hai",
         "meaning": "hey",
-        "freq": 37254
+        "freq": 37966
       },
       {
         "word": "intinya",
         "meaning": "the main thing is",
-        "freq": 50
+        "freq": 52
       },
       {
         "word": "Kalian",
         "meaning": "you guys",
-        "freq": 4893
+        "freq": 5026
       },
       {
         "word": "Dengar",
         "meaning": "hear",
-        "freq": 157
+        "freq": 158
       },
       {
         "word": "ku",
         "meaning": "my",
-        "freq": 231
+        "freq": 235
       },
       {
         "word": "bernyanyi",
@@ -1126,17 +1126,17 @@
       {
         "word": "aja",
         "meaning": "just",
-        "freq": 5574
+        "freq": 5690
       },
       {
         "word": "ya",
         "meaning": "yes",
-        "freq": 24407
+        "freq": 25028
       },
       {
         "word": "oke",
         "meaning": "OK",
-        "freq": 14012
+        "freq": 14433
       },
       {
         "word": "eh",
@@ -1154,22 +1154,22 @@
       {
         "word": "Hai",
         "meaning": "hey",
-        "freq": 37254
+        "freq": 37966
       },
       {
         "word": "Kalian",
         "meaning": "you guys",
-        "freq": 4893
+        "freq": 5026
       },
       {
         "word": "Dengar",
         "meaning": "hear",
-        "freq": 157
+        "freq": 158
       },
       {
         "word": "ku",
         "meaning": "my",
-        "freq": 231
+        "freq": 235
       },
       {
         "word": "bernyanyi",
@@ -1179,12 +1179,12 @@
       {
         "word": "aja",
         "meaning": "just",
-        "freq": 5574
+        "freq": 5690
       },
       {
         "word": "ya",
         "meaning": "yes",
-        "freq": 24407
+        "freq": 25028
       }
     ],
     "start": 334,
@@ -1198,7 +1198,7 @@
       {
         "word": "jika",
         "meaning": "in case, just in case",
-        "freq": 276
+        "freq": 281
       },
       {
         "word": "Jason",
@@ -1207,12 +1207,12 @@
       {
         "word": "itu",
         "meaning": "that, those",
-        "freq": 10635
+        "freq": 10954
       },
       {
         "word": "fokus",
         "meaning": "focus",
-        "freq": 186
+        "freq": 190
       },
       {
         "word": "something",
@@ -1221,12 +1221,12 @@
       {
         "word": "Oke",
         "meaning": "OK",
-        "freq": 14012
+        "freq": 14433
       },
       {
         "word": "nanti",
-        "meaning": "Later, presently",
-        "freq": 2270
+        "meaning": "later, presently",
+        "freq": 2327
       }
     ],
     "start": 336,
@@ -1239,17 +1239,17 @@
     "fragments": [
       {
         "word": "Kyuhyun",
-        "freq": 102
+        "freq": 103
       },
       {
         "word": "lagi",
         "meaning": "again",
-        "freq": 6700
+        "freq": 6863
       },
       {
         "word": "Kak",
         "meaning": "Older sister or brother",
-        "freq": 410
+        "freq": 415
       },
       {
         "word": "paragraf",
@@ -1261,8 +1261,8 @@
       },
       {
         "word": "orang",
-        "meaning": "Person, one, people in general",
-        "freq": 1452
+        "meaning": "person, one, people in general",
+        "freq": 1472
       }
     ],
     "start": 345,
@@ -1276,22 +1276,22 @@
       {
         "word": "Hai",
         "meaning": "hey",
-        "freq": 37254
+        "freq": 37966
       },
       {
         "word": "anak",
         "meaning": "child",
-        "freq": 324
+        "freq": 329
       },
       {
         "word": "para",
         "meaning": "TYPX",
-        "freq": 225
+        "freq": 232
       },
       {
         "word": "kah",
         "meaning": "Idiolect, says to confirm things, \"ini kah?\" is this it ?",
-        "freq": 468
+        "freq": 481
       }
     ],
     "start": 351,
@@ -1305,22 +1305,22 @@
       {
         "word": "nyetok",
         "meaning": "Dress out",
-        "freq": 21
+        "freq": 23
       },
       {
         "word": "harusnya",
         "meaning": "Should be",
-        "freq": 488
+        "freq": 498
       },
       {
         "word": "enggak",
         "meaning": "no (Jakarta slang)",
-        "freq": 8184
+        "freq": 8336
       },
       {
         "word": "enggak",
         "meaning": "no (Jakarta slang)",
-        "freq": 8184
+        "freq": 8336
       },
       {
         "word": "papa",
@@ -1329,7 +1329,7 @@
       {
         "word": "yang",
         "meaning": "that ~, which ~, the one",
-        "freq": 12092
+        "freq": 12447
       }
     ],
     "start": 359,
@@ -1343,7 +1343,7 @@
       {
         "word": "enggak",
         "meaning": "no (Jakarta slang)",
-        "freq": 8184
+        "freq": 8336
       },
       {
         "word": "masalah-masalah",
@@ -1352,7 +1352,7 @@
       {
         "word": "yang",
         "meaning": "that ~, which ~, the one",
-        "freq": 12092
+        "freq": 12447
       },
       {
         "word": "Hi",
@@ -1366,7 +1366,7 @@
       {
         "word": "Hai",
         "meaning": "hey",
-        "freq": 37254
+        "freq": 37966
       }
     ],
     "start": 361,
@@ -1380,20 +1380,20 @@
       {
         "word": "hai",
         "meaning": "hey",
-        "freq": 37254
+        "freq": 37966
       },
       {
         "word": "de",
-        "freq": 233
+        "freq": 234
       },
       {
         "word": "ta",
         "meaning": "tantalum, ta, atomic number 73",
-        "freq": 141
+        "freq": 143
       },
       {
         "word": "iye",
-        "freq": 42
+        "freq": 45
       }
     ],
     "start": 365,
@@ -1412,22 +1412,22 @@
       {
         "word": "aku",
         "meaning": "I",
-        "freq": 24581
+        "freq": 25196
       },
       {
         "word": "nyanyi",
         "meaning": "singing",
-        "freq": 236
+        "freq": 238
       },
       {
         "word": "oke",
         "meaning": "OK",
-        "freq": 14012
+        "freq": 14433
       },
       {
         "word": "cetak",
         "meaning": "Print",
-        "freq": 173
+        "freq": 181
       }
     ],
     "start": 368,
@@ -1441,32 +1441,32 @@
       {
         "word": "hehehe",
         "meaning": "laughing sound",
-        "freq": 1689
+        "freq": 1720
       },
       {
         "word": "gimana",
         "meaning": "How",
-        "freq": 3709
+        "freq": 3791
       },
       {
         "word": "Yang",
         "meaning": "that ~, which ~, the one",
-        "freq": 12092
+        "freq": 12447
       },
       {
         "word": "ada",
         "meaning": "there is, there are",
-        "freq": 10019
+        "freq": 10427
       },
       {
         "word": "aku",
         "meaning": "I",
-        "freq": 24581
+        "freq": 25196
       },
       {
         "word": "aku",
         "meaning": "I",
-        "freq": 24581
+        "freq": 25196
       },
       {
         "word": "nelpon",
@@ -1485,27 +1485,27 @@
       {
         "word": "banget",
         "meaning": "very, extremely",
-        "freq": 4213
+        "freq": 4305
       },
       {
         "word": "jadi",
         "meaning": "become, so, finished",
-        "freq": 4427
+        "freq": 4510
       },
       {
         "word": "mungkin",
-        "meaning": "Possible",
-        "freq": 1268
+        "meaning": "possible",
+        "freq": 1284
       },
       {
         "word": "untuk",
-        "meaning": "For, on behalf of, in order to",
-        "freq": 1517
+        "meaning": "for, on behalf of, in order to",
+        "freq": 1556
       },
       {
         "word": "untuk",
-        "meaning": "For, on behalf of, in order to",
-        "freq": 1517
+        "meaning": "for, on behalf of, in order to",
+        "freq": 1556
       }
     ],
     "start": 375,
@@ -1527,22 +1527,22 @@
       {
         "word": "dulu",
         "meaning": "previously, before",
-        "freq": 3809
+        "freq": 3912
       },
       {
         "word": "kali",
-        "meaning": "Time",
-        "freq": 1184
+        "meaning": "time",
+        "freq": 1214
       },
       {
         "word": "ya",
         "meaning": "yes",
-        "freq": 24407
+        "freq": 25028
       },
       {
         "word": "enaknya",
         "meaning": "Delicious",
-        "freq": 62
+        "freq": 63
       }
     ],
     "start": 382,
@@ -1556,22 +1556,22 @@
       {
         "word": "kek",
         "meaning": "Laughing",
-        "freq": 276
+        "freq": 286
       },
       {
         "word": "mau",
         "meaning": "want, wish",
-        "freq": 6936
+        "freq": 7082
       },
       {
         "word": "nonton",
         "meaning": "watch",
-        "freq": 538
+        "freq": 547
       },
       {
         "word": "dulu",
         "meaning": "previously, before",
-        "freq": 3809
+        "freq": 3912
       }
     ],
     "start": 393,
@@ -1585,7 +1585,7 @@
       {
         "word": "aku",
         "meaning": "I",
-        "freq": 24581
+        "freq": 25196
       },
       {
         "word": "anggap",
@@ -1595,22 +1595,22 @@
       {
         "word": "kalian",
         "meaning": "you guys",
-        "freq": 4893
+        "freq": 5026
       },
       {
         "word": "gak",
         "meaning": "no",
-        "freq": 1638
+        "freq": 1673
       },
       {
         "word": "ada",
         "meaning": "there is, there are",
-        "freq": 10019
+        "freq": 10427
       },
       {
         "word": "ada",
         "meaning": "there is, there are",
-        "freq": 10019
+        "freq": 10427
       }
     ],
     "start": 397,
@@ -1624,17 +1624,17 @@
       {
         "word": "sini",
         "meaning": "Here",
-        "freq": 3250
+        "freq": 3322
       },
       {
         "word": "sepi",
         "meaning": "quiet",
-        "freq": 80
+        "freq": 85
       },
       {
         "word": "di",
         "meaning": "in, at, upon",
-        "freq": 8908
+        "freq": 9178
       },
       {
         "word": "ruang",
@@ -1658,32 +1658,32 @@
       {
         "word": "masalah",
         "meaning": "problem",
-        "freq": 237
+        "freq": 240
       },
       {
         "word": "datang",
         "meaning": "come",
-        "freq": 342
+        "freq": 345
       },
       {
         "word": "dan",
         "meaning": "and",
-        "freq": 2549
+        "freq": 2597
       },
       {
         "word": "pergi",
         "meaning": "go",
-        "freq": 347
+        "freq": 351
       },
       {
         "word": "sudah",
-        "meaning": "Already, past, last, all right, OK",
-        "freq": 1474
+        "meaning": "already, past, last, all right",
+        "freq": 1526
       },
       {
         "word": "biasa",
         "meaning": "normal",
-        "freq": 532
+        "freq": 539
       }
     ],
     "start": 409,
@@ -1696,23 +1696,23 @@
     "fragments": [
       {
         "word": "sendiri",
-        "meaning": "Self, own, by yourself",
-        "freq": 766
+        "meaning": "own, by yourself",
+        "freq": 784
       },
       {
         "word": "lagi",
         "meaning": "again",
-        "freq": 6700
+        "freq": 6863
       },
       {
         "word": "enggan",
         "meaning": "reluctant",
-        "freq": 45
+        "freq": 46
       },
       {
         "word": "untuk",
-        "meaning": "For, on behalf of, in order to",
-        "freq": 1517
+        "meaning": "for, on behalf of, in order to",
+        "freq": 1556
       }
     ],
     "start": 415,
@@ -1731,17 +1731,17 @@
       {
         "word": "mata",
         "meaning": "eye",
-        "freq": 282
+        "freq": 286
       },
       {
         "word": "menatap",
         "meaning": "Staring",
-        "freq": 32
+        "freq": 34
       },
       {
         "word": "langit",
         "meaning": "sky",
-        "freq": 50
+        "freq": 51
       },
       {
         "word": "rintik",
@@ -1751,7 +1751,7 @@
       {
         "word": "hujan",
         "meaning": "rain",
-        "freq": 329
+        "freq": 331
       }
     ],
     "start": 421,
@@ -1784,7 +1784,7 @@
       {
         "word": "dan",
         "meaning": "and",
-        "freq": 2549
+        "freq": 2597
       },
       {
         "word": "membisu",
@@ -1802,22 +1802,22 @@
       {
         "word": "Hai",
         "meaning": "hey",
-        "freq": 37254
+        "freq": 37966
       },
       {
         "word": "ayo",
-        "meaning": "Let's go, come on",
-        "freq": 2368
+        "meaning": "let's go, come on",
+        "freq": 2422
       },
       {
         "word": "telah",
         "meaning": "has",
-        "freq": 193
+        "freq": 198
       },
       {
         "word": "dah",
         "meaning": "done, bye",
-        "freq": 608
+        "freq": 614
       },
       {
         "word": "hidungnya",
@@ -1841,7 +1841,7 @@
       {
         "word": "dan",
         "meaning": "and",
-        "freq": 2549
+        "freq": 2597
       },
       {
         "word": "berbagai",
@@ -1855,13 +1855,13 @@
       },
       {
         "word": "tak",
-        "meaning": "No, not",
-        "freq": 822
+        "meaning": "no, not",
+        "freq": 844
       },
       {
         "word": "akan",
-        "meaning": "Will, about to, about, regarding",
-        "freq": 982
+        "meaning": "will, about to, about, regarding",
+        "freq": 1024
       }
     ],
     "start": 436,
@@ -1880,12 +1880,12 @@
       {
         "word": "diri",
         "meaning": "self",
-        "freq": 228
+        "freq": 232
       },
       {
         "word": "untuk",
-        "meaning": "For, on behalf of, in order to",
-        "freq": 1517
+        "meaning": "for, on behalf of, in order to",
+        "freq": 1556
       },
       {
         "word": "melangkah",
@@ -1909,12 +1909,12 @@
       {
         "word": "Hujan",
         "meaning": "rain",
-        "freq": 329
+        "freq": 331
       },
       {
         "word": "tak",
-        "meaning": "No, not",
-        "freq": 822
+        "meaning": "no, not",
+        "freq": 844
       },
       {
         "word": "kunjung",
@@ -1924,12 +1924,12 @@
       {
         "word": "berhenti",
         "meaning": "stop",
-        "freq": 170
+        "freq": 171
       },
       {
         "word": "masih",
-        "meaning": "Still, yet",
-        "freq": 2087
+        "meaning": "still, yet",
+        "freq": 2151
       }
     ],
     "start": 455,
@@ -1943,7 +1943,7 @@
       {
         "word": "ada",
         "meaning": "there is, there are",
-        "freq": 10019
+        "freq": 10427
       },
       {
         "word": "kubu",
@@ -1957,12 +1957,12 @@
       {
         "word": "di",
         "meaning": "in, at, upon",
-        "freq": 8908
+        "freq": 9178
       },
       {
         "word": "sini",
         "meaning": "Here",
-        "freq": 3250
+        "freq": 3322
       },
       {
         "word": "hafalkan",
@@ -1989,7 +1989,7 @@
       {
         "word": "cahaya",
         "meaning": "light",
-        "freq": 75
+        "freq": 76
       },
       {
         "word": "tersinari",
@@ -2016,8 +2016,8 @@
       },
       {
         "word": "semua",
-        "meaning": "All",
-        "freq": 2094
+        "meaning": "all",
+        "freq": 2135
       },
       {
         "word": "rasa",
@@ -2032,7 +2032,7 @@
       {
         "word": "yang",
         "meaning": "that ~, which ~, the one",
-        "freq": 12092
+        "freq": 12447
       },
       {
         "word": "selimuti",
@@ -2051,7 +2051,7 @@
       {
         "word": "hati",
         "meaning": "liver, \"hati-hati\" means careful",
-        "freq": 248
+        "freq": 256
       },
       {
         "word": "pikiran",
@@ -2061,12 +2061,12 @@
       {
         "word": "dan",
         "meaning": "and",
-        "freq": 2549
+        "freq": 2597
       },
       {
         "word": "emosi",
         "meaning": "emotion",
-        "freq": 72
+        "freq": 73
       }
     ],
     "start": 475,
@@ -2085,12 +2085,12 @@
       {
         "word": "cahaya",
         "meaning": "light",
-        "freq": 75
+        "freq": 76
       },
       {
         "word": "buka",
         "meaning": "open",
-        "freq": 435
+        "freq": 445
       },
       {
         "word": "lembaran",
@@ -2099,7 +2099,7 @@
       {
         "word": "yang",
         "meaning": "that ~, which ~, the one",
-        "freq": 12092
+        "freq": 12447
       }
     ],
     "start": 479,
@@ -2113,12 +2113,12 @@
       {
         "word": "hai",
         "meaning": "hey",
-        "freq": 37254
+        "freq": 37966
       },
       {
         "word": "oke",
         "meaning": "OK",
-        "freq": 14012
+        "freq": 14433
       },
       {
         "word": "hahaha",
@@ -2127,31 +2127,31 @@
       {
         "word": "ye",
         "meaning": "Yes",
-        "freq": 141
+        "freq": 147
       },
       {
         "word": "ye",
         "meaning": "Yes",
-        "freq": 141
+        "freq": 147
       },
       {
         "word": "susah",
         "meaning": "difficult",
-        "freq": 692
+        "freq": 711
       },
       {
         "word": "itu",
         "meaning": "that, those",
-        "freq": 10635
+        "freq": 10954
       },
       {
         "word": "buat",
-        "meaning": "Do, make, create, for",
-        "freq": 1522
+        "meaning": "do, make, create",
+        "freq": 1558
       },
       {
         "word": "SY",
-        "freq": 15
+        "freq": 16
       }
     ],
     "start": 487,
@@ -2165,42 +2165,42 @@
       {
         "word": "anak",
         "meaning": "child",
-        "freq": 324
+        "freq": 329
       },
       {
         "word": "Enggak",
         "meaning": "no (Jakarta slang)",
-        "freq": 8184
+        "freq": 8336
       },
       {
         "word": "emang",
-        "meaning": "Indeed",
-        "freq": 1342
+        "meaning": "indeed",
+        "freq": 1366
       },
       {
         "word": "lagi",
         "meaning": "again",
-        "freq": 6700
+        "freq": 6863
       },
       {
         "word": "awal",
         "meaning": "beginning",
-        "freq": 189
+        "freq": 194
       },
       {
         "word": "Ntar",
         "meaning": "later",
-        "freq": 566
+        "freq": 577
       },
       {
         "word": "aja",
         "meaning": "just",
-        "freq": 5574
+        "freq": 5690
       },
       {
         "word": "iya",
         "meaning": "yeah",
-        "freq": 4708
+        "freq": 4819
       }
     ],
     "start": 492,
@@ -2214,27 +2214,27 @@
       {
         "word": "ampun",
         "meaning": "Forgiveness",
-        "freq": 275
+        "freq": 280
       },
       {
         "word": "Astaga",
         "meaning": "good grief",
-        "freq": 319
+        "freq": 325
       },
       {
         "word": "langsung",
-        "meaning": "Direct, straight, immediately",
-        "freq": 904
+        "meaning": "direct, straight, immediately",
+        "freq": 945
       },
       {
         "word": "ini",
         "meaning": "this",
-        "freq": 15949
+        "freq": 16311
       },
       {
         "word": "gunung",
         "meaning": "Mountain",
-        "freq": 41
+        "freq": 42
       },
       {
         "word": "lirih",
@@ -2251,8 +2251,8 @@
     "fragments": [
       {
         "word": "Aduh",
-        "meaning": "Ouch!, ow!",
-        "freq": 2704
+        "meaning": "ouch!, ow!",
+        "freq": 2736
       },
       {
         "word": "Tuhan",
@@ -2282,8 +2282,8 @@
       },
       {
         "word": "Masih",
-        "meaning": "Still, yet",
-        "freq": 2087
+        "meaning": "still, yet",
+        "freq": 2151
       },
       {
         "word": "lancar",
@@ -2292,8 +2292,8 @@
       },
       {
         "word": "masih",
-        "meaning": "Still, yet",
-        "freq": 2087
+        "meaning": "still, yet",
+        "freq": 2151
       }
     ],
     "start": 514,
@@ -2306,13 +2306,13 @@
     "fragments": [
       {
         "word": "halo",
-        "meaning": "Hello",
-        "freq": 1869
+        "meaning": "hello",
+        "freq": 1900
       },
       {
         "word": "halo",
-        "meaning": "Hello",
-        "freq": 1869
+        "meaning": "hello",
+        "freq": 1900
       },
       {
         "word": "wek",
@@ -2325,8 +2325,8 @@
       },
       {
         "word": "mereka",
-        "meaning": "Their, them, they",
-        "freq": 888
+        "meaning": "their, them, they",
+        "freq": 903
       }
     ],
     "start": 517,
@@ -2340,7 +2340,7 @@
       {
         "word": "Woi",
         "meaning": "Woi \"used when calling someone you are familiar\"",
-        "freq": 738
+        "freq": 743
       },
       {
         "word": "Twin",
@@ -2349,17 +2349,17 @@
       {
         "word": "net",
         "meaning": "net",
-        "freq": 70
+        "freq": 78
       },
       {
         "word": "toko",
         "meaning": "shop",
-        "freq": 112
+        "freq": 114
       },
       {
         "word": "ngelag",
         "meaning": "Ngelag",
-        "freq": 138
+        "freq": 141
       }
     ],
     "start": 520,
@@ -2372,13 +2372,13 @@
     "fragments": [
       {
         "word": "Halo",
-        "meaning": "Hello",
-        "freq": 1869
+        "meaning": "hello",
+        "freq": 1900
       },
       {
         "word": "Pak",
         "meaning": "Sir",
-        "freq": 528
+        "freq": 533
       },
       {
         "word": "Prapto",
@@ -2387,27 +2387,27 @@
       {
         "word": "rasanya",
         "meaning": "it feels like",
-        "freq": 131
+        "freq": 132
       },
       {
         "word": "ada",
         "meaning": "there is, there are",
-        "freq": 10019
+        "freq": 10427
       },
       {
         "word": "loh",
-        "meaning": "You (Jakarta slank), loh can also mean similar to \"huh ?\"",
-        "freq": 1308
+        "meaning": "you (Jakarta slang), loh can also mean similar to 'huh?'",
+        "freq": 1334
       },
       {
         "word": "Hai",
         "meaning": "hey",
-        "freq": 37254
+        "freq": 37966
       },
       {
         "word": "hah",
         "meaning": "huh",
-        "freq": 1229
+        "freq": 1269
       }
     ],
     "start": 538,
@@ -2429,17 +2429,17 @@
       {
         "word": "oke",
         "meaning": "OK",
-        "freq": 14012
+        "freq": 14433
       },
       {
         "word": "oke",
         "meaning": "OK",
-        "freq": 14012
+        "freq": 14433
       },
       {
         "word": "om",
-        "meaning": "Uncle",
-        "freq": 863
+        "meaning": "uncle",
+        "freq": 899
       },
       {
         "word": "otomate",
@@ -2448,7 +2448,7 @@
       {
         "word": "setengah",
         "meaning": "half",
-        "freq": 169
+        "freq": 175
       }
     ],
     "start": 543,
@@ -2462,17 +2462,17 @@
       {
         "word": "Hai",
         "meaning": "hey",
-        "freq": 37254
+        "freq": 37966
       },
       {
         "word": "Kayaknya",
         "meaning": "maybe",
-        "freq": 999
+        "freq": 1019
       },
       {
         "word": "aku",
         "meaning": "I",
-        "freq": 24581
+        "freq": 25196
       },
       {
         "word": "eh",
@@ -2490,22 +2490,22 @@
       {
         "word": "ini",
         "meaning": "this",
-        "freq": 15949
+        "freq": 16311
       },
       {
         "word": "aku",
         "meaning": "I",
-        "freq": 24581
+        "freq": 25196
       },
       {
         "word": "ini",
         "meaning": "this",
-        "freq": 15949
+        "freq": 16311
       },
       {
         "word": "aku",
         "meaning": "I",
-        "freq": 24581
+        "freq": 25196
       },
       {
         "word": "dessert",
@@ -2514,17 +2514,17 @@
       {
         "word": "aja",
         "meaning": "just",
-        "freq": 5574
+        "freq": 5690
       },
       {
         "word": "ya",
         "meaning": "yes",
-        "freq": 24407
+        "freq": 25028
       },
       {
         "word": "ntar",
         "meaning": "later",
-        "freq": 566
+        "freq": 577
       }
     ],
     "start": 554,
@@ -2537,13 +2537,13 @@
     "fragments": [
       {
         "word": "aduh",
-        "meaning": "Ouch!, ow!",
-        "freq": 2704
+        "meaning": "ouch!, ow!",
+        "freq": 2736
       },
       {
         "word": "ini",
         "meaning": "this",
-        "freq": 15949
+        "freq": 16311
       },
       {
         "word": "tristatus",
@@ -2556,7 +2556,7 @@
       {
         "word": "Oke",
         "meaning": "OK",
-        "freq": 14012
+        "freq": 14433
       }
     ],
     "start": 565,
@@ -2579,12 +2579,12 @@
       {
         "word": "ini",
         "meaning": "this",
-        "freq": 15949
+        "freq": 16311
       },
       {
         "word": "trust",
         "meaning": "Trust",
-        "freq": 146
+        "freq": 147
       },
       {
         "word": "me",
@@ -2618,7 +2618,7 @@
       {
         "word": "Ya",
         "meaning": "yes",
-        "freq": 24407
+        "freq": 25028
       },
       {
         "word": "I'm",
@@ -2631,12 +2631,12 @@
       {
         "word": "oke",
         "meaning": "OK",
-        "freq": 14012
+        "freq": 14433
       },
       {
         "word": "om",
-        "meaning": "Uncle",
-        "freq": 863
+        "meaning": "uncle",
+        "freq": 899
       }
     ],
     "start": 576,
@@ -2650,7 +2650,7 @@
       {
         "word": "lagi",
         "meaning": "again",
-        "freq": 6700
+        "freq": 6863
       },
       {
         "word": "with",
@@ -2663,17 +2663,17 @@
       {
         "word": "tinggal",
         "meaning": "Live, stay, remain, be left",
-        "freq": 508
+        "freq": 537
       },
       {
         "word": "yang",
         "meaning": "that ~, which ~, the one",
-        "freq": 12092
+        "freq": 12447
       },
       {
         "word": "sangat",
         "meaning": "very",
-        "freq": 771
+        "freq": 793
       }
     ],
     "start": 588,
@@ -2687,22 +2687,22 @@
       {
         "word": "hai",
         "meaning": "hey",
-        "freq": 37254
+        "freq": 37966
       },
       {
         "word": "oke",
         "meaning": "OK",
-        "freq": 14012
+        "freq": 14433
       },
       {
         "word": "oke",
         "meaning": "OK",
-        "freq": 14012
+        "freq": 14433
       },
       {
         "word": "om",
-        "meaning": "Uncle",
-        "freq": 863
+        "meaning": "uncle",
+        "freq": 899
       }
     ],
     "start": 603,
@@ -2720,11 +2720,11 @@
       {
         "word": "itu",
         "meaning": "that, those",
-        "freq": 10635
+        "freq": 10954
       },
       {
         "word": "Resort",
-        "freq": 19
+        "freq": 20
       },
       {
         "word": "make",

@@ -8,13 +8,13 @@
       },
       {
         "word": "orang",
-        "meaning": "Person, one, people in general",
-        "freq": 1452
+        "meaning": "person, one, people in general",
+        "freq": 1472
       },
       {
         "word": "tidak",
         "meaning": "not, non",
-        "freq": 2337
+        "freq": 2417
       },
       {
         "word": "menyadari",
@@ -33,12 +33,12 @@
       {
         "word": "bahwa",
         "meaning": "that",
-        "freq": 144
+        "freq": 145
       },
       {
         "word": "nama",
         "meaning": "name",
-        "freq": 609
+        "freq": 618
       },
       {
         "word": "penggemar",
@@ -48,22 +48,22 @@
       {
         "word": "Kobo",
         "meaning": "Kobo",
-        "freq": 530
+        "freq": 536
       },
       {
         "word": "saat",
         "meaning": "moment, while",
-        "freq": 334
+        "freq": 344
       },
       {
         "word": "ini",
         "meaning": "this",
-        "freq": 15949
+        "freq": 16311
       },
       {
         "word": "telah",
         "meaning": "has",
-        "freq": 193
+        "freq": 198
       },
       {
         "word": "terpecah",
@@ -76,12 +76,12 @@
       {
         "word": "menjadi",
         "meaning": "Becomes",
-        "freq": 393
+        "freq": 403
       },
       {
         "word": "dua",
-        "meaning": "Two",
-        "freq": 697
+        "meaning": "two",
+        "freq": 753
       },
       {
         "word": "kubu:",
@@ -103,7 +103,7 @@
       {
         "word": "dewasa",
         "meaning": "mature",
-        "freq": 36
+        "freq": 37
       },
       {
         "word": "ini,",
@@ -112,7 +112,7 @@
       {
         "word": "semakin",
         "meaning": "the more",
-        "freq": 55
+        "freq": 58
       },
       {
         "word": "berkembangnya",
@@ -134,7 +134,7 @@
       {
         "word": "seorang",
         "meaning": "a person",
-        "freq": 164
+        "freq": 166
       },
       {
         "word": "pawang",
@@ -144,7 +144,7 @@
       {
         "word": "hujan",
         "meaning": "rain",
-        "freq": 329
+        "freq": 331
       },
       {
         "word": "berinisial",
@@ -157,7 +157,7 @@
       {
         "word": "membuat",
         "meaning": "make",
-        "freq": 114
+        "freq": 116
       },
       {
         "word": "terobosan",
@@ -179,7 +179,7 @@
       {
         "word": "Demi",
         "meaning": "For the sake of",
-        "freq": 172
+        "freq": 176
       },
       {
         "word": "mendamaikan",
@@ -188,7 +188,7 @@
       {
         "word": "kedua",
         "meaning": "second",
-        "freq": 132
+        "freq": 136
       },
       {
         "word": "kubu,",
@@ -206,7 +206,7 @@
       {
         "word": "sebuah",
         "meaning": "a",
-        "freq": 70
+        "freq": 73
       },
       {
         "word": "jenama",
@@ -214,23 +214,23 @@
       },
       {
         "word": "baru",
-        "meaning": "New, recent, only then, not until, to be about to",
-        "freq": 1068
+        "meaning": "new, recent, only then, not until, to be about to",
+        "freq": 1091
       },
       {
         "word": "dibuat",
         "meaning": "Made",
-        "freq": 45
+        "freq": 47
       },
       {
         "word": "khusus",
         "meaning": "expressly",
-        "freq": 83
+        "freq": 87
       },
       {
         "word": "dalam",
         "meaning": "in, inside",
-        "freq": 473
+        "freq": 488
       },
       {
         "word": "rangka",
@@ -256,12 +256,12 @@
       {
         "word": "merupakan",
         "meaning": "represent",
-        "freq": 29
+        "freq": 30
       },
       {
         "word": "kata",
         "meaning": "say",
-        "freq": 310
+        "freq": 329
       },
       {
         "word": "gabungan",
@@ -270,23 +270,23 @@
       },
       {
         "word": "dari",
-        "meaning": "From, out of, starting from or at, than",
-        "freq": 2815
+        "meaning": "from, out of, starting from or at, than",
+        "freq": 2911
       },
       {
         "word": "Kobo",
         "meaning": "Kobo",
-        "freq": 530
+        "freq": 536
       },
       {
         "word": "dengan",
-        "meaning": "With, and, by, using",
-        "freq": 1059
+        "meaning": "with, by, using",
+        "freq": 1098
       },
       {
         "word": "awan",
         "meaning": "cloud",
-        "freq": 95
+        "freq": 96
       },
       {
         "word": "kumulonimbus,",
@@ -304,22 +304,22 @@
       {
         "word": "yaitu",
         "meaning": "that is",
-        "freq": 260
+        "freq": 270
       },
       {
         "word": "sebuah",
         "meaning": "a",
-        "freq": 70
+        "freq": 73
       },
       {
         "word": "awan",
         "meaning": "cloud",
-        "freq": 95
+        "freq": 96
       },
       {
         "word": "yang",
         "meaning": "that ~, which ~, the one",
-        "freq": 12092
+        "freq": 12447
       },
       {
         "word": "terbentuk",
@@ -327,8 +327,8 @@
       },
       {
         "word": "dari",
-        "meaning": "From, out of, starting from or at, than",
-        "freq": 2815
+        "meaning": "from, out of, starting from or at, than",
+        "freq": 2911
       },
       {
         "word": "ketidakstabilan",
@@ -350,17 +350,17 @@
       {
         "word": "Yang",
         "meaning": "that ~, which ~, the one",
-        "freq": 12092
+        "freq": 12447
       },
       {
         "word": "maka",
         "meaning": "consequently, accordingly",
-        "freq": 121
+        "freq": 125
       },
       {
         "word": "dari",
-        "meaning": "From, out of, starting from or at, than",
-        "freq": 2815
+        "meaning": "from, out of, starting from or at, than",
+        "freq": 2911
       },
       {
         "word": "itu,",
@@ -373,12 +373,12 @@
       {
         "word": "tersebut",
         "meaning": "the",
-        "freq": 63
+        "freq": 64
       },
       {
         "word": "harus",
-        "meaning": "Have to, must",
-        "freq": 2254
+        "meaning": "have to, must",
+        "freq": 2298
       },
       {
         "word": "distabilisasikan",
@@ -399,23 +399,23 @@
     "fragments": [
       {
         "word": "Dengan",
-        "meaning": "With, and, by, using",
-        "freq": 1059
+        "meaning": "with, by, using",
+        "freq": 1098
       },
       {
         "word": "bergabung",
         "meaning": "compound, combine",
-        "freq": 15
+        "freq": 16
       },
       {
         "word": "ke",
         "meaning": "to, towards",
-        "freq": 4098
+        "freq": 4185
       },
       {
         "word": "dalam",
         "meaning": "in, inside",
-        "freq": 473
+        "freq": 488
       },
       {
         "word": "klub",
@@ -438,12 +438,12 @@
       {
         "word": "kalian",
         "meaning": "you guys",
-        "freq": 4893
+        "freq": 5026
       },
       {
         "word": "akan",
-        "meaning": "Will, about to, about, regarding",
-        "freq": 982
+        "meaning": "will, about to, about, regarding",
+        "freq": 1024
       },
       {
         "word": "terdidik",
@@ -452,7 +452,7 @@
       {
         "word": "menjadi",
         "meaning": "Becomes",
-        "freq": 393
+        "freq": 403
       },
       {
         "word": "Kobokerz",
@@ -461,7 +461,7 @@
       {
         "word": "dan",
         "meaning": "and",
-        "freq": 2549
+        "freq": 2597
       },
       {
         "word": "Cebokerz",
@@ -470,17 +470,17 @@
       {
         "word": "yang",
         "meaning": "that ~, which ~, the one",
-        "freq": 12092
+        "freq": 12447
       },
       {
         "word": "baik",
         "meaning": "good",
-        "freq": 569
+        "freq": 589
       },
       {
         "word": "dan",
         "meaning": "and",
-        "freq": 2549
+        "freq": 2597
       },
       {
         "word": "bersahaja.",
@@ -498,32 +498,32 @@
       {
         "word": "Hal",
         "meaning": "Thing",
-        "freq": 232
+        "freq": 235
       },
       {
         "word": "ini",
         "meaning": "this",
-        "freq": 15949
+        "freq": 16311
       },
       {
         "word": "juga",
         "meaning": "Also, too, even if, anyway",
-        "freq": 3942
+        "freq": 4028
       },
       {
         "word": "merupakan",
         "meaning": "represent",
-        "freq": 29
+        "freq": 30
       },
       {
         "word": "salah",
-        "meaning": "Fault, mistake, wrong",
-        "freq": 1082
+        "meaning": "fault, mistake, wrong",
+        "freq": 1113
       },
       {
         "word": "satu",
-        "meaning": "One",
-        "freq": 1615
+        "meaning": "one",
+        "freq": 1718
       },
       {
         "word": "penanggulangan",
@@ -540,8 +540,8 @@
       },
       {
         "word": "baru",
-        "meaning": "New, recent, only then, not until, to be about to",
-        "freq": 1068
+        "meaning": "new, recent, only then, not until, to be about to",
+        "freq": 1091
       }
     ],
     "start": 56,
@@ -554,7 +554,7 @@
     "fragments": [
       {
         "word": "Dapatkan",
-        "freq": 12
+        "freq": 14
       },
       {
         "word": "lencana-lencana",
@@ -563,17 +563,17 @@
       {
         "word": "ini",
         "meaning": "this",
-        "freq": 15949
+        "freq": 16311
       },
       {
         "word": "sebagai",
         "meaning": "as",
-        "freq": 232
+        "freq": 234
       },
       {
         "word": "simbol",
         "meaning": "emblematic, emblematical, symbolic, symbolical",
-        "freq": 13
+        "freq": 31
       },
       {
         "word": "loyalitas",
@@ -594,28 +594,28 @@
     "fragments": [
       {
         "word": "Siapa",
-        "meaning": "Who, whose, whom",
-        "freq": 1606
+        "meaning": "who, whose, whom",
+        "freq": 1630
       },
       {
         "word": "yang",
         "meaning": "that ~, which ~, the one",
-        "freq": 12092
+        "freq": 12447
       },
       {
         "word": "tidak",
         "meaning": "not, non",
-        "freq": 2337
+        "freq": 2417
       },
       {
         "word": "ingin",
         "meaning": "want",
-        "freq": 278
+        "freq": 283
       },
       {
         "word": "menjadi",
         "meaning": "Becomes",
-        "freq": 393
+        "freq": 403
       },
       {
         "word": "kuda?",
@@ -633,22 +633,22 @@
       {
         "word": "Kalian",
         "meaning": "you guys",
-        "freq": 4893
+        "freq": 5026
       },
       {
         "word": "juga",
         "meaning": "Also, too, even if, anyway",
-        "freq": 3942
+        "freq": 4028
       },
       {
         "word": "akan",
-        "meaning": "Will, about to, about, regarding",
-        "freq": 982
+        "meaning": "will, about to, about, regarding",
+        "freq": 1024
       },
       {
         "word": "mendapatkan",
         "meaning": "got",
-        "freq": 48
+        "freq": 55
       },
       {
         "word": "stiker-stiker",
@@ -657,17 +657,17 @@
       {
         "word": "Kobo",
         "meaning": "Kobo",
-        "freq": 530
+        "freq": 536
       },
       {
         "word": "yang",
         "meaning": "that ~, which ~, the one",
-        "freq": 12092
+        "freq": 12447
       },
       {
         "word": "imut",
         "meaning": "tiny",
-        "freq": 52
+        "freq": 53
       },
       {
         "word": "nan",
@@ -677,7 +677,7 @@
       {
         "word": "manja",
         "meaning": "indulge, luxuriate",
-        "freq": 15
+        "freq": 16
       },
       {
         "word": "tralala,",
@@ -695,22 +695,22 @@
       {
         "word": "dan",
         "meaning": "and",
-        "freq": 2549
+        "freq": 2597
       },
       {
         "word": "tidak",
         "meaning": "not, non",
-        "freq": 2337
+        "freq": 2417
       },
       {
         "word": "lupa",
         "meaning": "Forget",
-        "freq": 699
+        "freq": 724
       },
       {
         "word": "dengan",
-        "meaning": "With, and, by, using",
-        "freq": 1059
+        "meaning": "with, by, using",
+        "freq": 1098
       },
       {
         "word": "konten-konten",
@@ -719,7 +719,7 @@
       {
         "word": "khusus",
         "meaning": "expressly",
-        "freq": 83
+        "freq": 87
       },
       {
         "word": "berikut",
@@ -742,12 +742,12 @@
       {
         "word": "Ngobrol",
         "meaning": "Chat",
-        "freq": 96
+        "freq": 97
       },
       {
         "word": "Bebas",
         "meaning": "free",
-        "freq": 75
+        "freq": 77
       },
       {
         "word": "Main",
@@ -756,22 +756,22 @@
       {
         "word": "Bareng",
         "meaning": "with",
-        "freq": 277
+        "freq": 283
       },
       {
         "word": "Nonton",
         "meaning": "watch",
-        "freq": 538
+        "freq": 547
       },
       {
         "word": "Bareng",
         "meaning": "with",
-        "freq": 277
+        "freq": 283
       },
       {
         "word": "Bermain",
         "meaning": "played",
-        "freq": 88
+        "freq": 91
       },
       {
         "word": "Peran",
@@ -785,17 +785,17 @@
       {
         "word": "Menulis",
         "meaning": "expense, write off, write down",
-        "freq": 20
+        "freq": 21
       },
       {
         "word": "Lagu",
         "meaning": "song",
-        "freq": 251
+        "freq": 252
       },
       {
         "word": "dan",
         "meaning": "and",
-        "freq": 2549
+        "freq": 2597
       },
       {
         "word": "lain-lain",
@@ -813,26 +813,26 @@
       {
         "word": "Para",
         "meaning": "TYPX",
-        "freq": 225
+        "freq": 232
       },
       {
         "word": "hadirin",
-        "freq": 0
+        "freq": 5
       },
       {
         "word": "sekalian",
         "meaning": "all, including",
-        "freq": 160
+        "freq": 164
       },
       {
         "word": "yang",
         "meaning": "that ~, which ~, the one",
-        "freq": 12092
+        "freq": 12447
       },
       {
         "word": "saya",
-        "meaning": "I, me",
-        "freq": 1851
+        "meaning": "I",
+        "freq": 1897
       },
       {
         "word": "hormati,",
@@ -849,18 +849,18 @@
     "fragments": [
       {
         "word": "mungkin",
-        "meaning": "Possible",
-        "freq": 1268
+        "meaning": "possible",
+        "freq": 1284
       },
       {
         "word": "saya",
-        "meaning": "I, me",
-        "freq": 1851
+        "meaning": "I",
+        "freq": 1897
       },
       {
         "word": "kurang",
         "meaning": "not enough",
-        "freq": 460
+        "freq": 470
       },
       {
         "word": "berkenan,",
@@ -868,13 +868,13 @@
       },
       {
         "word": "tapi",
-        "meaning": "But",
-        "freq": 3584
+        "meaning": "but",
+        "freq": 3672
       },
       {
         "word": "saya",
-        "meaning": "I, me",
-        "freq": 1851
+        "meaning": "I",
+        "freq": 1897
       },
       {
         "word": "mengatakan",
@@ -884,12 +884,12 @@
       {
         "word": "ini",
         "meaning": "this",
-        "freq": 15949
+        "freq": 16311
       },
       {
         "word": "dari",
-        "meaning": "From, out of, starting from or at, than",
-        "freq": 2815
+        "meaning": "from, out of, starting from or at, than",
+        "freq": 2911
       },
       {
         "word": "hati.",
@@ -907,12 +907,12 @@
       {
         "word": "Tidak",
         "meaning": "not, non",
-        "freq": 2337
+        "freq": 2417
       },
       {
         "word": "ada",
         "meaning": "there is, there are",
-        "freq": 10019
+        "freq": 10427
       },
       {
         "word": "penyesalan",
@@ -921,13 +921,13 @@
       },
       {
         "word": "untuk",
-        "meaning": "For, on behalf of, in order to",
-        "freq": 1517
+        "meaning": "for, on behalf of, in order to",
+        "freq": 1556
       },
       {
         "word": "memulai",
         "meaning": "get down, begin, get, start out, start, set about, set out, commence",
-        "freq": 22
+        "freq": 23
       },
       {
         "word": "sesuatu.",
@@ -944,8 +944,8 @@
     "fragments": [
       {
         "word": "Saya",
-        "meaning": "I, me",
-        "freq": 1851
+        "meaning": "I",
+        "freq": 1897
       },
       {
         "word": "Kobo-kun,",
@@ -954,7 +954,7 @@
       {
         "word": "izin",
         "meaning": "permission",
-        "freq": 101
+        "freq": 102
       },
       {
         "word": "pamit,",

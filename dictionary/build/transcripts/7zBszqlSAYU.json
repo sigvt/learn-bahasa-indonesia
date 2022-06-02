@@ -9,12 +9,12 @@
       {
         "word": "nenek",
         "meaning": "grandmother",
-        "freq": 247
+        "freq": 251
       },
       {
         "word": "itu",
         "meaning": "that, those",
-        "freq": 10635
+        "freq": 10954
       },
       {
         "word": "diskon",
@@ -24,17 +24,17 @@
       {
         "word": "ada",
         "meaning": "there is, there are",
-        "freq": 10019
+        "freq": 10427
       },
       {
         "word": "hiu",
         "meaning": "shark",
-        "freq": 237
+        "freq": 252
       },
       {
         "word": "Yaudah",
         "meaning": "okay then",
-        "freq": 281
+        "freq": 282
       }
     ],
     "start": 2,
@@ -48,12 +48,12 @@
       {
         "word": "Anda",
         "meaning": "You, your, yours",
-        "freq": 401
+        "freq": 410
       },
       {
         "word": "ingin",
         "meaning": "want",
-        "freq": 278
+        "freq": 283
       },
       {
         "word": "buaya",
@@ -63,7 +63,7 @@
       {
         "word": "cetak",
         "meaning": "Print",
-        "freq": 173
+        "freq": 181
       }
     ],
     "start": 12,
@@ -80,23 +80,23 @@
       },
       {
         "word": "tak",
-        "meaning": "No, not",
-        "freq": 822
+        "meaning": "no, not",
+        "freq": 844
       },
       {
         "word": "punya",
-        "meaning": "Have, possess",
-        "freq": 1832
+        "meaning": "have, possess",
+        "freq": 1898
       },
       {
         "word": "ton",
         "meaning": "Ton.",
-        "freq": 88
+        "freq": 89
       },
       {
         "word": "kek",
         "meaning": "Laughing",
-        "freq": 276
+        "freq": 286
       }
     ],
     "start": 15,
@@ -110,12 +110,12 @@
       {
         "word": "gimana",
         "meaning": "How",
-        "freq": 3709
+        "freq": 3791
       },
       {
         "word": "cara",
         "meaning": "Manner, method, way, fashion, style",
-        "freq": 517
+        "freq": 532
       },
       {
         "word": "kubunuh",
@@ -124,12 +124,12 @@
       {
         "word": "saja",
         "meaning": "Only, just, nothing else than, exactly",
-        "freq": 630
+        "freq": 636
       },
       {
         "word": "sih",
         "meaning": "(particle used to soften questions)",
-        "freq": 8945
+        "freq": 9121
       }
     ],
     "start": 22,
@@ -143,37 +143,37 @@
       {
         "word": "kalian",
         "meaning": "you guys",
-        "freq": 4893
+        "freq": 5026
       },
       {
         "word": "Nah",
         "meaning": "Well!, here!, see now!",
-        "freq": 3494
+        "freq": 3587
       },
       {
         "word": "kamu",
         "meaning": "you (informal)",
-        "freq": 7443
+        "freq": 7509
       },
       {
         "word": "kamu",
         "meaning": "you (informal)",
-        "freq": 7443
+        "freq": 7509
       },
       {
         "word": "cari",
         "meaning": "search",
-        "freq": 423
+        "freq": 431
       },
       {
         "word": "perhatian",
         "meaning": "survey, study",
-        "freq": 14
+        "freq": 15
       },
       {
         "word": "metu",
         "meaning": "Metu",
-        "freq": 22
+        "freq": 23
       }
     ],
     "start": 26,
@@ -187,32 +187,32 @@
       {
         "word": "ngomong",
         "meaning": "talk, say",
-        "freq": 1563
+        "freq": 1605
       },
       {
         "word": "Kayaknya",
         "meaning": "maybe",
-        "freq": 999
+        "freq": 1019
       },
       {
         "word": "masih",
-        "meaning": "Still, yet",
-        "freq": 2087
+        "meaning": "still, yet",
+        "freq": 2151
       },
       {
         "word": "ada",
         "meaning": "there is, there are",
-        "freq": 10019
+        "freq": 10427
       },
       {
         "word": "dong",
         "meaning": "(A mild way of emphasizing something, used at the end of a sentence)",
-        "freq": 1654
+        "freq": 1710
       },
       {
         "word": "cepet",
         "meaning": "fast",
-        "freq": 486
+        "freq": 499
       }
     ],
     "start": 33,
