@@ -3,16 +3,11 @@ version: "3"
 services:
   web:
     build: ./docker/web
-    restart: unless-stopped
-    environment:
-      - VIRTUAL_HOST=learn-id.holodata.org
-      - LETSENCRYPT_HOST=learn-id.holodata.org
-    networks:
-      - default
-      - webproxy
     depends_on:
       - meili
       - app
+    ports:
+      - "3000:80"
 
   meili:
     image: getmeili/meilisearch
@@ -24,8 +19,6 @@ services:
   app:
     build: .
     command: yarn dev
-    ports:
-      - "3000:3000"
     volumes:
       - "./pages:/app/pages"
       - "./styles:/app/styles"
