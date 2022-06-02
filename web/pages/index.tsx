@@ -37,7 +37,7 @@ type Hit = Speech & {
   __position: number;
 };
 
-const searchClient = instantMeiliSearch("http://localhost:7700");
+const searchClient = instantMeiliSearch(process.env.NEXT_PUBLIC_MEILI_URL!, process.env.NEXT_PUBLIC_MEILI_SEARCH_KEY!);
 
 const Flex = styled("div", { display: "flex" });
 
@@ -69,12 +69,10 @@ function Video(props: { video: string; start: number; end: number }) {
           modestbranding: 1,
           rel: 0,
           autoplay: 0,
-          loop: 1,
           start: props.start,
           end: props.end,
         },
       }}
-      loading="lazy"
       onEnd={(e) => {
         // https://developers.google.com/youtube/iframe_api_reference
         const player = e.target;

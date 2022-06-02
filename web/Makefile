@@ -1,3 +1,5 @@
+all: build start
+
 build:
 	docker-compose -f docker-compose.production.yml build
 

@@ -1,19 +1,33 @@
 version: "3"
 
 services:
-  meili:
-    image: getmeili/meilisearch
-    volumes:
-      - ./data/meili:/meili_data
-
   web:
-    build: .
+    build: ./docker/web
+    restart: unless-stopped
     environment:
       - VIRTUAL_HOST=learn-id.holodata.org
       - LETSENCRYPT_HOST=learn-id.holodata.org
     networks:
       - default
       - webproxy
+    depends_on:
+      - meili
+      - app
+
+  app:
+    build: .
+    restart: unless-stopped
+    depends_on:
+      - meili
+
+  meili:
+    image: getmeili/meilisearch:latest
+    command: meilisearch --master-key="${MEILI_MASTER_KEY}"
+    restart: unless-stopped
+    ports:
+      - 7700:7700
+    volumes:
+      - ./data/meili:/meili_data
 
 networks:
   webproxy:

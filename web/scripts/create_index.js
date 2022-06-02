@@ -3,7 +3,7 @@ const glob = require("glob");
 const { readFileSync } = require("fs");
 
 async function main() {
-  const client = new MeiliSearch({ host: "http://127.0.0.1:7700" });
+  const client = new MeiliSearch({ host: "http://127.0.0.1:7700", apiKey: process.env.MEILI_MASTER_KEY });
 
   const speechFiles = glob.sync("../dictionary/build/transcripts/*.json");
   for (const file of speechFiles) {
