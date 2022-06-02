@@ -2,9 +2,9 @@
 
 ## Vocabulary Builder
 
-[🪶 Quizlet](https://quizlet.com/_bnlcg7?x=1qqt&i=1euf7y) - Top 500 most frequent Indonesian words spoken in Hololive ID live streams
+[🪶 Basic Indonesian Words for Hololive ID (Quizlet)](https://quizlet.com/_bnlcg7?x=1qqt&i=1euf7y) - Top 500 most frequent Indonesian words spoken in Hololive ID live streams
 
-### Raw Data
+### Dataset
 
 - **[Dictionary (JSON)](./dictionary/build/dictionary.json)**: Community-maintained Indonesian-English dictionary
 - **[Flashcard (TSV)](./dictionary/build/flashcard.tsv)**: Tab-delimited list of most frequent Indonesian words appeared in HoloID streams
@@ -36,6 +36,12 @@
 - [Reine Indonesian Classroom w/ Subaru](https://www.youtube.com/watch?v=UH36-bo0qKE)
 - [Reine Indonesian Classroom w/ Marine](https://www.youtube.com/watch?v=R-LxzgPRK68)
 - [Reine Indonesian Classroom SPECIAL](https://www.youtube.com/watch?v=GNWKINdJEXk)
+
+## Usual Resources
+
+- [Learn Bahasa Indonesia @Mastering Bahasa](https://masteringbahasa.com/) - Comprehensive ID Learning Resources
+- [Kamusku](https://apps.apple.com/us/app/kamusku/id680456549) - English-Indonesian Dictionary for iOS
+- [Learn casual Indonesian with CelotehBahasa](https://celotehbahasa.com/) - Urban Dictionary but for Indonesian
 
 ## Contributing
 
