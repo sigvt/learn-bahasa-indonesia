@@ -235,17 +235,18 @@ const Home: NextPage = () => {
         >
           <Configure hitsPerPage={9} />
           <div className={styles.search}>
-            <h1>Learn Bahasa Indonesia with Hololive ID</h1>
+            <h1>Do HoloID Say It</h1>
             <SearchBox placeholder='e.g. "sunyi dan sepi" "dimas berguna" "bukan kucing"' />
             <RefinementList attribute="channel" />
             <div style={{ marginTop: 20 }}>
               <Text faded>
-                See how HoloID VTubers use certain phrase or word.
+                See how HoloID members use certain phrase or word.
               </Text>
               <Text faded>
-                We are also working on a support for HoloID Gen1 and Gen2, as
-                well as ID-EN dictionary and Duolingo thingy (Hololingo™️)
+                We are working on a support for HoloID Gen1 and Gen2, as
+                well as ID-EN dictionary and Duolingo thingy (Hololingo™️) <a href="https://github.com/holodata">[🦄 GitHub]</a>
               </Text>
+              <Text faded>Thanks to <a href="https://dopeoplesay.com/">[Do people say it]</a> for giving me inspiration.</Text>
             </div>
           </div>
           <CustomHits />
