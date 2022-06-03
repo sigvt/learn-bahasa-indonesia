@@ -37,6 +37,13 @@
 - [Reine Indonesian Classroom w/ Marine](https://www.youtube.com/watch?v=R-LxzgPRK68)
 - [Reine Indonesian Classroom SPECIAL](https://www.youtube.com/watch?v=GNWKINdJEXk)
 
+### Automateach
+
+- [〖Automateach (EN)〗NIJISANJI ID Frequently Used Words!【NIJISANJI ID / ZEA Cornelia】 - YouTube](https://www.youtube.com/watch?v=tpDWUcn_0WY)
+- [〖AutomaTeach〗ID Lingo: Understand your oshi ID livers better!【NIJISANJI ID / ZEA Cornelia】 - YouTube](https://www.youtube.com/watch?v=dcAE0MeuVM8)
+- [〖AutomaTeach〗ID Lingo: Learn to communicate with your scared ID faves!【NIJISANJI ID / ZEA Cornelia】 - YouTube](https://www.youtube.com/watch?v=HxotgInCm3Y)
+- [〖AutomaTeach〗Flirting with your ID oshi...?!【NIJISANJI ID / ZEA Cornelia】 - YouTube](https://www.youtube.com/watch?v=MqkM0Gx36Z4)
+
 ## Usual Resources
 
 - [Learn Bahasa Indonesia @Mastering Bahasa](https://masteringbahasa.com/) - Comprehensive ID Learning Resources
