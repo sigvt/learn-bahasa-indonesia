@@ -225,6 +225,12 @@ const Home: NextPage = () => {
           rel="stylesheet"
           href="https://cdn.jsdelivr.net/npm/@meilisearch/instant-meilisearch/templates/basic_search.css"
         />
+        <script
+          async
+          defer
+          data-website-id="0672fb3a-64b3-42c4-aa83-d23c450e9ac5"
+          src="https://analytics.uechi.io/umami.js"
+        ></script>
       </Head>
 
       <main className={styles.main}>
@@ -243,10 +249,15 @@ const Home: NextPage = () => {
                 See how HoloID members use certain phrase or word.
               </Text>
               <Text faded>
-                We are working on a support for HoloID Gen1 and Gen2, as
-                well as ID-EN dictionary and Duolingo thingy (Hololingo™️) <a href="https://github.com/holodata">[🦄 GitHub]</a>
+                We are working on a support for HoloID Gen1 and Gen2, as well as
+                ID-EN dictionary and Duolingo thingy (Hololingo™️){" "}
+                <a href="https://github.com/holodata">[🦄 GitHub]</a>
               </Text>
-              <Text faded>Thanks to <a href="https://dopeoplesay.com/">[Do people say it]</a> for giving me inspiration.</Text>
+              <Text faded>
+                Thanks to{" "}
+                <a href="https://dopeoplesay.com/">[Do people say it]</a> for
+                giving me inspiration.
+              </Text>
             </div>
           </div>
           <CustomHits />
