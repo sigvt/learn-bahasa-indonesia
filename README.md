@@ -1,4 +1,4 @@
-# Learn Bahasa Indonesia with HoloID
+# Learn Bahasa Indonesia with VTubers
 
 ## Vocabulary Builder
 
@@ -39,10 +39,10 @@
 
 ### Automateach
 
-- [〖Automateach (EN)〗NIJISANJI ID Frequently Used Words!【NIJISANJI ID / ZEA Cornelia】 - YouTube](https://www.youtube.com/watch?v=tpDWUcn_0WY)
-- [〖AutomaTeach〗ID Lingo: Understand your oshi ID livers better!【NIJISANJI ID / ZEA Cornelia】 - YouTube](https://www.youtube.com/watch?v=dcAE0MeuVM8)
-- [〖AutomaTeach〗ID Lingo: Learn to communicate with your scared ID faves!【NIJISANJI ID / ZEA Cornelia】 - YouTube](https://www.youtube.com/watch?v=HxotgInCm3Y)
-- [〖AutomaTeach〗Flirting with your ID oshi...?!【NIJISANJI ID / ZEA Cornelia】 - YouTube](https://www.youtube.com/watch?v=MqkM0Gx36Z4)
+- [〖Automateach (EN)〗NIJISANJI ID Frequently Used Words!【NIJISANJI ID / ZEA Cornelia】](https://www.youtube.com/watch?v=tpDWUcn_0WY)
+- [〖AutomaTeach〗ID Lingo: Understand your oshi ID livers better!【NIJISANJI ID / ZEA Cornelia】](https://www.youtube.com/watch?v=dcAE0MeuVM8)
+- [〖AutomaTeach〗ID Lingo: Learn to communicate with your scared ID faves!【NIJISANJI ID / ZEA Cornelia】](https://www.youtube.com/watch?v=HxotgInCm3Y)
+- [〖AutomaTeach〗Flirting with your ID oshi...?!【NIJISANJI ID / ZEA Cornelia】](https://www.youtube.com/watch?v=MqkM0Gx36Z4)
 
 ## Usual Resources
 
