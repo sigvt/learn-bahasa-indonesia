@@ -5,15 +5,15 @@ import { styled } from "@stitches/react";
 import type { NextPage } from "next";
 import Head from "next/head";
 import Image from "next/image";
-import { useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import { BsFillPlayBtnFill } from "react-icons/bs";
 import {
   Configure,
   InstantSearch,
   RefinementList,
   SearchBox,
-  useHits,
   UseHitsProps,
+  useInfiniteHits,
 } from "react-instantsearch-hooks-web";
 import YouTube from "react-youtube";
 import styles from "../styles/Home.module.css";
@@ -82,8 +82,35 @@ const VideoPlaceholder = styled("div", {
   display: "flex",
   justifyContent: "center",
   alignItems: "center",
-  background: "#e34b4b",
+  background: "#e2e2e2",
   color: "white",
+});
+
+const StyledArrow = styled(Tooltip.Arrow, {
+  fill: "white",
+});
+
+const WordWithInfo = styled("span", {
+  color: "#e34b4b",
+});
+
+const Text = styled("div", {
+  margin: 0,
+  color: mauve.mauve12,
+  fontSize: 15,
+  lineHeight: 1.5,
+  variants: {
+    faded: {
+      true: { color: mauve.mauve10 },
+    },
+    bold: {
+      true: { fontWeight: 500 },
+    },
+  },
+});
+
+const Sentinel = styled("div", {
+  visibility: "hidden",
 });
 
 function Video(props: { video: string; start: number; end: number }) {
@@ -122,29 +149,6 @@ function Video(props: { video: string; start: number; end: number }) {
     </VideoContainer>
   );
 }
-
-const StyledArrow = styled(Tooltip.Arrow, {
-  fill: "white",
-});
-
-const WordWithInfo = styled("span", {
-  color: "#e34b4b",
-});
-
-const Text = styled("div", {
-  margin: 0,
-  color: mauve.mauve12,
-  fontSize: 15,
-  lineHeight: 1.5,
-  variants: {
-    faded: {
-      true: { color: mauve.mauve10 },
-    },
-    bold: {
-      true: { fontWeight: 500 },
-    },
-  },
-});
 
 function Speech({
   fragments,
@@ -191,9 +195,38 @@ function Speech({
   );
 }
 
+function useInteraction<T extends HTMLElement>(
+  onIntersect: () => any,
+  deps: React.DependencyList = []
+) {
+  const ref = useRef<T>(null);
+
+  useEffect(() => {
+    console.log("useInteraction", ref.current);
+    if (!ref.current) return;
+
+    const observer = new IntersectionObserver((entries) => {
+      if (entries.some((entry) => entry.isIntersecting)) {
+        onIntersect();
+      }
+    });
+    observer.observe(ref.current);
+
+    return () => {
+      observer.disconnect();
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, deps);
+
+  return [ref];
+}
+
 function CustomHits(props: UseHitsProps) {
   // @ts-ignore
-  const { hits } = useHits<Hit>(props);
+  const { hits, isLastPage, showMore } = useInfiniteHits<Hit>(props);
+  const [ref] = useInteraction<HTMLDivElement>(() => {
+    showMore();
+  }, [showMore]);
 
   return (
     <div className={styles.hits}>
@@ -203,6 +236,7 @@ function CustomHits(props: UseHitsProps) {
           <Speech fragments={hit.fragments} speaker={hit.channel} />
         </div>
       ))}
+      {!isLastPage && <Sentinel ref={ref}>Load more</Sentinel>}
     </div>
   );
 }
@@ -246,12 +280,16 @@ const Home: NextPage = () => {
             <RefinementList attribute="channel" />
             <div style={{ marginTop: 20 }}>
               <Text faded>
-                See how HoloID members use certain phrase or word.
+                See how HoloID members say certain phrase or word.
               </Text>
               <Text faded>
                 We are working on a support for HoloID Gen1 and Gen2, as well as
-                ID-EN dictionary and Duolingo thingy (Hololingo™️){" "}
+                ID-EN dictionary and Duolingo thingy (Hololingo™️)
+              </Text>
+              <Text faded>
+                <a href="https://holodata.org">[⚡️ Website]</a>
                 <a href="https://github.com/holodata">[🦄 GitHub]</a>
+                <a href="https://holodata.org/discord">[🎙 Discord]</a>
               </Text>
               <Text faded>
                 Thanks to{" "}
