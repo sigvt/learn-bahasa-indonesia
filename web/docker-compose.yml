@@ -20,9 +20,11 @@ services:
     build: .
     command: yarn dev
     volumes:
-      - "./pages:/app/pages"
       - "./styles:/app/styles"
       - "./public:/app/public"
       - "./scripts:/app/scripts"
+      - "./pages:/app/pages"
+      - "./components:/app/components"
+      - "./hooks:/app/hooks"
     depends_on:
       - meili

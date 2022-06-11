@@ -9,6 +9,12 @@
   align-items: center;
 }
 
+@media screen and (max-width: 800px) {
+  .main {
+    padding: 0 1rem 0;
+  }
+}
+
 .hits {
   display: grid;
   gap: 20px 20px;
