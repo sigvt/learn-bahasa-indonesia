@@ -2,6 +2,7 @@
 
 ## Vocabulary Builder
 
+[🎙 Do HoloID Say It](https://learn-id.holodata.org) - See how HoloID members say certain phrase or word
 [🪶 Basic Indonesian Words for Hololive ID (Quizlet)](https://quizlet.com/_bnlcg7?x=1qqt&i=1euf7y) - Top 500 most frequent Indonesian words spoken in Hololive ID live streams
 
 ### Dataset
@@ -74,3 +75,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## Other Languages
+
+- [🇯🇵 Learn 日本語 (Japanese) with Hololive](https://github.com/holodata/learn-japanese)
+- [🇩🇪 Learn Deutsch (German) with Hololive](https://github.com/holodata/learn-deutsch)
+- [🇬🇧 Learn English with Hololive](https://github.com/holodata/learn-english)
